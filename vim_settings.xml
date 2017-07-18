@@ -17,7 +17,7 @@
         <mark key="." line="100" column="55" />
         <mark key="^" line="100" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500354254463">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500355764556">
         <mark key="]" line="264" column="87" />
         <mark key="^" line="264" column="87" />
         <mark key="." line="264" column="87" />
@@ -53,11 +53,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1499935791028">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1500356075110">
+        <mark key="'" line="149" column="17" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="149" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
@@ -115,10 +116,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="6" column="3" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="79" column="20" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
-      <jump line="147" column="35" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="221" column="14" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="257" column="30" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
@@ -215,6 +213,9 @@
       <jump line="102" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="260" column="22" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="16" column="91" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigOfMediaControllerPresenter.java" />
+      <jump line="133" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
+      <jump line="148" column="26" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
+      <jump line="147" column="17" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -224,51 +225,51 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
-        <text>hasMes</text>
+        <text>getSha</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVAsIGZhbHNlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb24uZnJvbU51bGwoZ2V0VmlldygpKQogICAgICAgICAgICAgICAgLm1hcCh2aWV3IC0+IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubm90aWZpY2F0aW9uX3RleHRfdmlldykpCg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1Zpc2libGVTaGFyZUJ1dHRvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVmlzaWJsZVNoYXJlVG9vbHRpcCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2hhcmVUb29sdGlwTWVzc2FnZSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICAgICAgfQoKICAgICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb24uZnJvbU51bGwoZ2V0VmlldygpKQogICAgICAgICAgICAgICAgLm1hcCh2aWV3IC0+IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubm90aWZpY2F0aW9uX3RleHRfdmlldykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNTaGFyZVRvb2x0aXBBbHJlYWR5U2hvd24oZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgcmV0dXJuIHNwLmdldEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCBmYWxzZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZVRvb2x0aXBNZXNzYWdlID0gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuYW5kcm9pZF90b3Jpa3VtaV9zaGFyZV90b29sdGlwX21lc3NhZ2UpOwogICAgICAgIGlzVmlzaWJsZVNoYXJlVG9vbHRpcCA9ICFpc1NoYXJlVG9vbHRpcEFscmVhZHlTaG93bihjb250ZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hasMes</last-search>
+      <last-search>getSha</last-search>
       <last-offset />
-      <last-pattern>hasMes</last-pattern>
+      <last-pattern>getSha</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -292,6 +293,7 @@
         <entry>hasMessage</entry>
         <entry>hasMessa</entry>
         <entry>hasMes</entry>
+        <entry>getSha</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
