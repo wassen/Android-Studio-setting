@@ -17,16 +17,10 @@
         <mark key="." line="100" column="55" />
         <mark key="^" line="100" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500363504233">
-        <mark key="[" line="129" column="39" />
-        <mark key="]" line="129" column="39" />
-        <mark key="." line="129" column="39" />
-        <mark key="^" line="129" column="39" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1500022589589">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/column/ColumnArticle.java" timestamp="1499338449928">
         <mark key="'" line="43" column="21" />
@@ -59,9 +53,6 @@
         <mark key="]" line="57" column="122" />
         <mark key="." line="57" column="122" />
         <mark key="^" line="57" column="129" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/services/GcmIntentUtil.java" timestamp="1500345801354">
-        <mark key="[" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
@@ -212,7 +203,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>fromNotification</text>
+        <text>torikumiId</text>
       </register>
       <register name="/" type="4">
         <text>getSha</text>
@@ -248,7 +239,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -284,7 +275,6 @@
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
-        <entry>wq</entry>
         <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>getShare</entry>
         <entry>sp</entry>
@@ -300,6 +290,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
