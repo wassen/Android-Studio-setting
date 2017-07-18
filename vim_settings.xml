@@ -60,11 +60,10 @@
       <file name="/Dummy.txt" timestamp="1499765195345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1500370692328">
-        <mark key="[" line="82" column="8" />
-        <mark key="]" line="82" column="14" />
-        <mark key="^" line="82" column="14" />
-        <mark key="." line="82" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1500374050181">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500370415933">
         <mark key="[" line="34" column="0" />
@@ -222,7 +221,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>sp.getBoolean(IS_ALREADY_SHOWN_SHARE_TOOLTIP_feature, true);</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>getSha</text>
@@ -231,31 +230,31 @@
         <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc3VsdCA9IHNwLmdldEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIC8vIOOCpOODs+OCueOCv+ODs+OCueeUn+aIkOOBoOOBkeOBleOCjOOBpuODhOODvOODq+ODgeODg+ODl+OBjOihqOekuuOBleOCjOOBquOBhOOBk+OBqOOBr+OBquOBhO+8n+Wkp+S4iOWkq++8nwogICAgLy8gQ09OU1RBTlTlgKTjgpLlpInjgYjjgojjgYYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImtpbWFoc2hpdGEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbXBsZXRlZFNob3dpbmdTaGFyZVRvb2x0aXAoKSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKS5hcHBseSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbXBsZXRlZFNob3dpbmdTaGFyZVRvb2x0aXAoKSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKS5hcHBseSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbXBsZXRlZFNob3dpbmdTaGFyZVRvb2x0aXAoKSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKS5hcHBseSgpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihDb250ZXh0IGNvbnRleHQpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbXBsZXRlZFNob3dpbmdTaGFyZVRvb2x0aXAoKSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKS5hcHBseSgpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVAsIGZhbHNlKTsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGlzRmVhdHVyZVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVBfZmVhdHVyZSwgZmFsc2UpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihDb250ZXh0IGNvbnRleHQpIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVAgPSBNZWRpYUNvbnRyb2xsZXJQcmVzZW50ZXIuY2xhc3MuZ2V0Q2Fub25pY2FsTmFtZSgpICsgIl9hbHJlYWR5X3Nob3duX3NoYXJlX3Rvb2xfdGlwX2tleSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQX2ZlYXR1cmUgPSBNZWRpYUNvbnRyb2xsZXJQcmVzZW50ZXIuY2xhc3MuZ2V0Q2Fub25pY2FsTmFtZSgpICsgIl9hbHJlYWR5X3Nob3duX3NoYXJlX3Rvb2xfdGlwX2tleV9mZWF0dXJlIjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVAsIGZhbHNlKTsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGlzRmVhdHVyZVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVBfZmVhdHVyZSwgZmFsc2UpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -294,7 +293,6 @@
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
-        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>getShare</entry>
         <entry>sp</entry>
         <entry>onShare</entry>
@@ -309,6 +307,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
