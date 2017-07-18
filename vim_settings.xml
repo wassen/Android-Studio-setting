@@ -17,15 +17,16 @@
         <mark key="." line="100" column="55" />
         <mark key="^" line="100" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500355764556">
-        <mark key="]" line="264" column="87" />
-        <mark key="^" line="264" column="87" />
-        <mark key="." line="264" column="87" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500357736534">
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="119" column="26" />
+        <mark key="." line="119" column="26" />
+        <mark key="^" line="119" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1500022589589">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/column/ColumnArticle.java" timestamp="1499338449928">
         <mark key="'" line="43" column="21" />
@@ -53,13 +54,6 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1500356075110">
-        <mark key="'" line="149" column="17" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="149" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
@@ -74,13 +68,6 @@
         <mark key="]" line="14" column="139" />
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/MediaControllerPresenter.java" timestamp="1500021393726">
-        <mark key="'" line="123" column="64" />
-        <mark key="[" line="235" column="5" />
-        <mark key="]" line="235" column="5" />
-        <mark key="." line="235" column="5" />
-        <mark key="^" line="236" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1499671670137">
         <mark key="[" line="41" column="0" />
@@ -225,7 +212,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Option</text>
+        <text>shouldSpoilerFree</text>
       </register>
       <register name="/" type="4">
         <text>getSha</text>
@@ -297,7 +284,6 @@
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>getShare</entry>
@@ -308,10 +294,11 @@
         <entry>tabe</entry>
         <entry>tabp</entry>
         <entry>b1</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>isVisible</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>q</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
