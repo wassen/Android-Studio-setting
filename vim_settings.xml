@@ -17,10 +17,15 @@
         <mark key="." line="100" column="55" />
         <mark key="^" line="100" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1500022589589">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500367867571">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="272" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1500368482934">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/column/ColumnArticle.java" timestamp="1499338449928">
         <mark key="'" line="43" column="21" />
@@ -42,11 +47,17 @@
         <mark key="." line="115" column="42" />
         <mark key="^" line="115" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500350276206">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="17" />
-        <mark key="^" line="74" column="17" />
-        <mark key="." line="74" column="17" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500367965530">
+        <mark key="[" line="29" column="72" />
+        <mark key="]" line="29" column="80" />
+        <mark key="^" line="29" column="80" />
+        <mark key="." line="29" column="80" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1500366115791">
+        <mark key="[" line="55" column="59" />
+        <mark key="]" line="55" column="66" />
+        <mark key="." line="55" column="66" />
+        <mark key="^" line="55" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
@@ -94,8 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="20" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
-      <jump line="221" column="14" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="257" column="30" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="68" column="19" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
@@ -194,6 +203,8 @@
       <jump line="133" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="148" column="26" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="147" column="17" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -203,43 +214,75 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>torikumiId</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>getSha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNUb3Jpa3VtaVNoYXJlVG9vbHRpcEFscmVhZHlTaG93bihmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBmaW5hbCBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsKICAgICAgICByZXR1cm4gc3AuZ2V0Qm9vbGVhbihJU19BTFJFQURZX1NIT1dOX1NIQVJFX1RPT0xUSVAsIGZhbHNlKTsKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpIHsKLy8gICAgICAgIGZpbmFsIFNoYXJlZFByZWZlcmVuY2VzIHNwID0gUHJlZmVyZW5jZU1hbmFnZXIuZ2V0RGVmYXVsdFNoYXJlZFByZWZlcmVuY2VzKGNvbnRleHQpOwovLyAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oSVNfQUxSRUFEWV9TSE9XTl9TSEFSRV9UT09MVElQLCB0cnVlKS5hcHBseSgpOwovLyAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="1" type="4">
+        <text>package jp.dwango.sumo.app.contents.honbasho.torikumi;
+
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
+import android.view.TextureView;
+
+import lombok.extern.slf4j.Slf4j;
+
+import jp.dwango.mobile.sd1.android.framework.BaseActivity;
+import jp.dwango.sumo.app.activities.delegate.logic.CaptureFactory;
+import jp.dwango.sumo.app.activities.delegate.logic.VideoShare;
+import jp.dwango.sumo.infra.tracking.EventTracker;
+import jp.dwango.sumo.infra.tracking.TrackingItemFactory;
+import jp.dwango.sumo.infra.widget.mediacontroller.MediaControllerPresenter;
+
+@Slf4j
+class TorikumiShareDelegateImpl implements TorikumiShareDelegate {
+
+    private static final String IS_ALREADY_SHOWN_SHARE_TOOLTIP = MediaControllerPresenter.class.getCanonicalName() + &quot;_already_shown_share_tool_tip_key&quot;;
+
+
+    TorikumiShareDelegateImpl(final Context context) {
+        this.context = context;
+    }
+
+    @Override
+    public void completedShowingShareTooltip() {
+        final SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(context);
+        sp.edit().putBoolean(IS_ALREADY_SHOWN_SHARE_TOOLTIP, true).apply();
+    }
+
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29udGV4dCBjb250ZXh0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1Zpc2libGVTaGFyZUJ1dHRvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVmlzaWJsZVNoYXJlVG9vbHRpcCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2hhcmVUb29sdGlwTWVzc2FnZSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICAgICAgfQoKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmlkZW9TaGFyZSB2aWRlb1NoYXJlID0gbmV3IFZpZGVvU2hhcmUoQ2FwdHVyZUZhY3RvcnkubmV3SW5zdGFuY2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb24uZnJvbU51bGwoZ2V0VmlldygpKQogICAgICAgICAgICAgICAgLm1hcCh2aWV3IC0+IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubm90aWZpY2F0aW9uX3RleHRfdmlldykpCg==</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIobGF6eSA9IHRydWUpCiAgICBwcml2YXRlIGZpbmFsIFRvcmlrdW1pU2hhcmVEZWxlZ2F0ZSBzaGFyZURlbGVnYXRlID0gbmV3IFRvcmlrdW1pU2hhcmVEZWxlZ2F0ZUltcGwoZ2V0Q29udGV4dCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTaGFyZURlbGVnYXRlKCkuY29tcGxldGVkU2hvd2luZ1NoYXJlVG9vbHRpcCgpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2hhcmUoQmFzZUFjdGl2aXR5IGJhc2VBY3Rpdml0eSwgU3RyaW5nIG1lc3NhZ2UsIFRleHR1cmVWaWV3IHRleHR1cmVWaWV3LCBTdHJpbmcgdG9yaWt1bWlJZCkgewogICAgICAgIHZpZGVvU2hhcmUuc2hhcmUoYmFzZUFjdGl2aXR5LCBtZXNzYWdlLCB0ZXh0dXJlVmlldykKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUodSAtPiBFdmVudFRyYWNrZXIudHJhY2tpbmcoVHJhY2tpbmdJdGVtRmFjdG9yeS5jcmVhdGVUb3Jpa3VtaVZpZGVvU2hhcmVUcmFja2luZ0l0ZW0odG9yaWt1bWlJZCkpLAogICAgICAgICAgICAgICAgICAgICAgICBlIC0+IGxvZy53YXJuKCJGYWlsZWQgdG8gc2hhcmUuIiwgZSkpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hhcmVUb29sdGlwTWVzc2FnZSA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmFuZHJvaWRfdG9yaWt1bWlfc2hhcmVfdG9vbHRpcF9tZXNzYWdlKTsKICAgICAgICByZXR1cm4gbmV3IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlcih2aXNpYmxlU2hhcmVidXR0b24sIHZpc2libGVTaGFyZVRvb2x0aXAsIHNoYXJlVG9vbHRpcE1lc3NhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -286,11 +329,11 @@
         <entry>b1</entry>
         <entry>isVisible</entry>
         <entry>q</entry>
-        <entry>call append(line('.'), '')</entry>
+        <entry>wq</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -322,6 +365,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
