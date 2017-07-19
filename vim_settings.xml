@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" timestamp="1500447947666">
-        <mark key="'" line="388" column="66" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" timestamp="1500449225913">
+        <mark key="'" line="437" column="50" />
         <mark key="[" line="80" column="68" />
         <mark key="]" line="80" column="68" />
         <mark key="^" line="80" column="69" />
         <mark key="." line="80" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500448528369">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500450281716">
         <mark key="'" line="262" column="15" />
         <mark key="[" line="64" column="125" />
         <mark key="]" line="65" column="3" />
@@ -115,9 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="36" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="232" column="17" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="368" column="26" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="79" column="33" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="74" column="8" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoInfo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoInfo.java" />
@@ -215,6 +212,9 @@
       <jump line="105" column="81" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="271" column="51" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="261" column="15" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
+      <jump line="106" column="52" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
+      <jump line="437" column="50" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +227,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getShareM</text>
+        <text>should</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBHZXR0ZXIobGF6eSA9IHRydWUpCiAgICBwcml2YXRlIGZpbmFsIFRyYWNraW5nSXRlbSBzaGFyZVRyYWNraW5nSXRlbSA9IFRyYWNraW5nSXRlbUZhY3RvcnkuY3JlYXRlRmVhdHVyZVZpZGVvU2hhcmVUcmFja2luZ0l0ZW0oZXh0cmFjdEZlYXR1cmVJZCgpLCBleHRyYWN0VmlkZW9JZCgpKTsK</text>
@@ -266,13 +266,13 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBPcHRpb248U3RyaW5nPiBnZXRTaGFyZU1lc3NhZ2U7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>getShareM</last-search>
+      <last-search>should</last-search>
       <last-offset />
-      <last-pattern>getShareM</last-pattern>
+      <last-pattern>should</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -305,11 +305,13 @@
         <entry>createCont</entry>
         <entry>match</entry>
         <entry>getShareM</entry>
+        <entry>is</entry>
+        <entry>playa</entry>
+        <entry>should</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
         <entry>getShare</entry>
-        <entry>sp</entry>
         <entry>onShare</entry>
         <entry>Unite junkfile/new junkfile -start-insert</entry>
         <entry>tabr</entry>
@@ -324,6 +326,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
