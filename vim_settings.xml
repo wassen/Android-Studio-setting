@@ -59,11 +59,11 @@
       <file name="/Dummy.txt" timestamp="1499765195345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1500451968909">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="8" />
-        <mark key="." line="74" column="8" />
-        <mark key="^" line="74" column="8" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1500460687750">
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="74" column="90" />
+        <mark key="." line="74" column="60" />
+        <mark key="^" line="73" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500370415933">
         <mark key="[" line="34" column="0" />
@@ -222,13 +222,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IS_ALREADY_SHOWN_SHARE_TOOLTIP</text>
       </register>
       <register name="/" type="4">
         <text>getVideoI</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIobGF6eSA9IHRydWUpCiAgICBwcml2YXRlIGZpbmFsIFRyYWNraW5nSXRlbSBzaGFyZVRyYWNraW5nSXRlbSA9IFRyYWNraW5nSXRlbUZhY3RvcnkuY3JlYXRlRmVhdHVyZVZpZGVvU2hhcmVUcmFja2luZ0l0ZW0oZXh0cmFjdEZlYXR1cmVJZCgpLCBleHRyYWN0VmlkZW9JZCgpKTsK</text>
+      <register name="0" type="4">
+        <text>SHOULD_SHOW_TORIKUMI_TOOLTIP_ID</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
