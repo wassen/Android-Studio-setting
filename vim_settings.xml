@@ -38,8 +38,8 @@
         <mark key="." line="112" column="44" />
         <mark key="^" line="112" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1500452740701">
-        <mark key="'" line="196" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1500462317556">
+        <mark key="'" line="184" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigOfMediaControllerPresenter.java" timestamp="1500348623107">
         <mark key="'" line="18" column="91" />
@@ -60,11 +60,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1500460687750" />
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500370415933">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500463227311">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
@@ -226,7 +225,7 @@
         <text>SHOULD_SHOW_TORIKUMI_TOOLTIP_ID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlciBnZXRGZWF0dXJlQ29uZmlnUHJvdmlkZXIoQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgYm9vbGVhbiB2aXNpYmxlU2hhcmVidXR0b24gPSB0cnVlOwogICAgICAgIGJvb2xlYW4gdmlzaWJsZVNoYXJlVG9vbHRpcCA9IFRvb2x0aXBVdGlsLnNob3VsZFNob3dGZWF0dXJlVG9vbHRpcChjb250ZXh0KTsKICAgICAgICBTdHJpbmcgc2hhcmVUb29sdGlwTWVzc2FnZSA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmFuZHJvaWRfdG9yaWt1bWlfc2hhcmVfdG9vbHRpcF9tZXNzYWdlKTsKICAgICAgICByZXR1cm4gbmV3IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlcih2aXNpYmxlU2hhcmVidXR0b24sIHZpc2libGVTaGFyZVRvb2x0aXAsIHNoYXJlVG9vbHRpcE1lc3NhZ2UpOwogICAgfQoKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -235,28 +234,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFRvcmlrdW1pSWQoKSB7CiAgICAgICAgcmV0dXJuIE9wdGlvbi5mcm9tTnVsbChnZXRBcmd1bWVudHMoKSkKICAgICAgICAgICAgICAgIC5tYXAoYiAtPiBiLmdldFN0cmluZyhUT1JJS1VNSV9JRF9LRVkpKQogICAgICAgICAgICAgICAgLnZhbHVlRSgibm8gdG9yaWt1bWkgaWQiKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlciBjcmVhdGVDb250cm9sbGVyUHJlc2VudGVyQ29uZmlnKCkgewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbjxTdHJpbmc+IGdldFNoYXJlTWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0VG9yaWt1bWlWaWRlb0luZm8oKS50b09wdGlvbigpLmJpbmQoVG9yaWt1bWlWaWRlb0luZm9SZXNwb25zZTo6Z2V0U2hhcmVNZXNzYWdlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1Zpc2libGVTaGFyZUJ1dHRvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVmlzaWJsZVNoYXJlVG9vbHRpcCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2hhcmVUb29sdGlwTWVzc2FnZSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICAgICAgfQoKICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAR2V0dGVyKGxhenkgPSB0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbjxTdHJpbmc+IGdldFNoYXJlTWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0VG9yaWt1bWlWaWRlb0luZm8oKS50b09wdGlvbigpLmJpbmQoVG9yaWt1bWlWaWRlb0luZm9SZXNwb25zZTo6Z2V0U2hhcmVNZXNzYWdlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFRvcmlrdW1pSWQoKSB7CiAgICAgICAgcmV0dXJuIE9wdGlvbi5mcm9tTnVsbChnZXRBcmd1bWVudHMoKSkKICAgICAgICAgICAgICAgIC5tYXAoYiAtPiBiLmdldFN0cmluZyhUT1JJS1VNSV9JRF9LRVkpKQogICAgICAgICAgICAgICAgLnZhbHVlRSgibm8gdG9yaWt1bWkgaWQiKTsKICAgIH0KCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbjxTdHJpbmc+IGdldFNoYXJlTWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0VG9yaWt1bWlWaWRlb0luZm8oKS50b09wdGlvbigpLmJpbmQoVG9yaWt1bWlWaWRlb0luZm9SZXNwb25zZTo6Z2V0U2hhcmVNZXNzYWdlKTsKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbjxTdHJpbmc+IGdldFNoYXJlTWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0VG9yaWt1bWlWaWRlb0luZm8oKS50b09wdGlvbigpLmJpbmQoVG9yaWt1bWlWaWRlb0luZm9SZXNwb25zZTo6Z2V0U2hhcmVNZXNzYWdlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBAR2V0dGVyKGxhenkgPSB0cnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
