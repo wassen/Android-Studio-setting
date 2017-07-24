@@ -14,7 +14,6 @@
       <file name="/a.dummy" timestamp="1500875742365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/LayoutInflater.java" timestamp="1500875239383" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1500434813811">
         <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="44" />
@@ -79,7 +78,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleView.java" timestamp="1500875575454" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
@@ -103,8 +101,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.kt" timestamp="1500875838114">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.kt" timestamp="1500876627881">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.java" timestamp="1500630373015">
         <mark key="[" line="3" column="0" />
@@ -244,7 +245,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="/" type="4">
         <text>onShare</text>
@@ -259,31 +260,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBTSE9XX1RBCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmRvbWFpbi5jb2x1bW4uQ29sdW1uOwoK</text>
+        <text encoding="base64">ICAgIHZhbCBTSE9XX1RBTklNQUNISV9PTkxZOiBCb29sZWFuID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBTSE9XX1RBTklNQUNISV9PTkxZID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqcC5kd2FuZ28uc3Vtby5hcHAuY29udGVudHMuY29sdW1uLndpZGdldC5TaG93VGFuaW1hY2hpT25seUludGVyZmFjZS5TSE9XX1RBTklNQUNISV9PTkxZOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqcC5kd2FuZ28uc3Vtby5hcHAuY29udGVudHMuY29sdW1uLndpZGdldC5TaG93VGFuaW1hY2hpT25seUludGVyZmFjZS5TSE9XX1RBTklNQUNISV9PTkxZOwoK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmRvbWFpbi5jb2x1bW4uQ29sdW1uOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmFwcC5jb250ZW50cy5jb2x1bW4ud2lkZ2V0LlNob3dUYW5pbWFjaGlPbmx5SW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBTSE9XX1RBTklNQUNISV9PTkxZID0gZmFsc2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbHVtbkFydGljbGVWaWV3IGV4dGVuZHMgRnJhbWVMYXlvdXQgaW1wbGVtZW50cyBTaG93VGFuaW1hY2hpT25seUludGVyZmFjZSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqcC5kd2FuZ28uc3Vtby5hcHAuY29udGVudHMuY29sdW1uLndpZGdldC5TaG93VGFuaW1hY2hpT25seUludGVyZmFjZS5TSE9XX1RBTklNQUNISV9PTkxZOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmFwcC5jb250ZW50cy5jb2x1bW4ud2lkZ2V0LlNob3dUYW5pbWFjaGlPbmx5SW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqcC5kd2FuZ28uc3Vtby5hcHAuY29udGVudHMuY29sdW1uLndpZGdldC5TaG93VGFuaW1hY2hpT25seUludGVyZmFjZS5TSE9XX1RBTklNQUNISV9PTkxZOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -294,13 +295,10 @@
       <last-offset />
       <last-pattern>onShare</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hasMessa</entry>
-        <entry>hasMes</entry>
-        <entry>create</entry>
         <entry>createM</entry>
         <entry>Media</entry>
         <entry>createContro</entry>
