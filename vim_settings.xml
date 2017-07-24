@@ -255,7 +255,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Feature</text>
+        <text>Basho</text>
       </register>
       <register name="0" type="4">
         <text>Share the moment of the Torikumi.</text>
@@ -298,9 +298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Feature</last-search>
+      <last-search>Basho</last-search>
       <last-offset />
-      <last-pattern>Feature</last-pattern>
+      <last-pattern>Basho</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -327,6 +327,7 @@
         <entry>onShare</entry>
         <entry>share</entry>
         <entry>Feature</entry>
+        <entry>Basho</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
