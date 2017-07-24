@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoInfo.java" timestamp="1499827533515">
         <mark key="'" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500890074014" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/view/ColumnDetailFragment.java" timestamp="1500868823197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
@@ -91,6 +92,7 @@
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/res/values-ja/string_translate.xml" timestamp="1500889948492" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
         <mark key="]" line="14" column="139" />
@@ -111,6 +113,10 @@
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.java" timestamp="1500630373015">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/res/values/string_translate.xml" timestamp="1500890088953">
+        <mark key="[" line="169" column="58" />
+        <mark key="]" line="169" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/api/column/Article.java" timestamp="1499418481264">
         <mark key="[" line="20" column="0" />
@@ -251,8 +257,8 @@
       <register name="/" type="4">
         <text>Feature</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
+      <register name="0" type="4">
+        <text>Share the moment of the Torikumi.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
