@@ -66,7 +66,7 @@
         <mark key="^" line="182" column="74" />
         <mark key="." line="182" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500868884625">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500874214493">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="13" />
@@ -80,6 +80,12 @@
       <file name="/Dummy.txt" timestamp="1499765195345">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/build/generated/source/apt/google/debug/jp/dwango/sumo/databinding/CardArticlesBinding.java" timestamp="1500874012356">
+        <mark key="[" line="17" column="76" />
+        <mark key="]" line="17" column="78" />
+        <mark key="^" line="17" column="78" />
+        <mark key="." line="17" column="78" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500532675728">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -91,11 +97,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleView.java" timestamp="1500868915078">
-        <mark key="[" line="18" column="4" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleView.java" timestamp="1500874312094">
+        <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
@@ -103,11 +109,11 @@
         <mark key="." line="57" column="122" />
         <mark key="^" line="57" column="129" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewEachPlatform.java" timestamp="1500868743300">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewEachPlatform.java" timestamp="1500874128795">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
@@ -258,7 +264,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>onShare</text>
@@ -345,7 +351,6 @@
         <entry>tabe</entry>
         <entry>isVisible</entry>
         <entry>wq</entry>
-        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>sp</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
@@ -356,6 +361,7 @@
         <entry>tabp</entry>
         <entry>q</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
