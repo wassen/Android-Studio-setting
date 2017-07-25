@@ -15,17 +15,17 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500958571992">
-        <mark key="'" line="199" column="58" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="107" column="4" />
-        <mark key="." line="106" column="15" />
-        <mark key="^" line="106" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" timestamp="1500963959229">
+        <mark key="'" line="55" column="69" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="106" column="4" />
+        <mark key="." line="105" column="15" />
+        <mark key="^" line="105" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1500875742365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1500879583395">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1500964140711">
         <mark key="'" line="84" column="37" />
         <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="44" />
@@ -50,6 +50,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500964186514" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/view/ColumnDetailFragment.java" timestamp="1500868823197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
@@ -105,6 +106,9 @@
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/MediaControllerPresenter.java" timestamp="1500963227965">
+        <mark key="'" line="46" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" timestamp="1499671670137">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -146,11 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="48" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="218" column="39" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="229" column="39" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="112" column="35" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="299" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="292" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="284" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="264" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
@@ -246,6 +245,11 @@
       <jump line="84" column="37" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" />
       <jump line="110" column="26" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="196" column="58" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/MediaControllerPresenter.java" />
+      <jump line="46" column="18" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/widget/mediacontroller/MediaControllerPresenter.java" />
+      <jump line="73" column="8" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
+      <jump line="193" column="70" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
+      <jump line="55" column="69" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -258,7 +262,7 @@
         <text>Torikumi</text>
       </register>
       <register name="/" type="4">
-        <text>Media</text>
+        <text encoding="base64">XDxUQU5JTUFDSElfT05MWVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGZpbmFsIE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlciBnZXRDb25maWdQcm92aWRlcigpIHsKICAgICAgICByZXR1cm4gQ29uZmlnUHJvdmlkZXJGYWN0b3J5LmdldFRvcmlrdW1pQ29uZmlnUHJvdmlkZXIoZ2V0Q29udGV4dCgpKTsKICAgIH0K</text>
@@ -301,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Media</last-search>
+      <last-search encoding="base64">XDxUQU5JTUFDSElfT05MWVw+</last-search>
       <last-offset />
-      <last-pattern>Media</last-pattern>
+      <last-pattern encoding="base64">XDxUQU5JTUFDSElfT05MWVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -329,7 +333,9 @@
         <entry>share</entry>
         <entry>Feature</entry>
         <entry>Basho</entry>
+        <entry>Config</entry>
         <entry>Media</entry>
+        <entry encoding="base64">XDxUQU5JTUFDSElfT05MWVw+</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
