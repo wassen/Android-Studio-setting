@@ -12,7 +12,7 @@
       <file name="/a.dummy" timestamp="1500875742365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1500968238928" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1500971054916" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1500964140711">
         <mark key="'" line="84" column="37" />
         <mark key="[" line="112" column="31" />
@@ -102,6 +102,7 @@
         <mark key="[" line="169" column="58" />
         <mark key="]" line="169" column="90" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/component/framework/src/main/java/jp/dwango/mobile/sd1/android/framework/ActivityLifecycleDelegate.java" timestamp="1500970572125" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/column/widget/adapter/ColumnArticleViewInterface.java" timestamp="1499398922309">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="27" />
