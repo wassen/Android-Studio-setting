@@ -38,11 +38,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501053213928">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="30" />
-        <mark key="." line="36" column="30" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501053787583">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="70" column="42" />
+        <mark key="." line="70" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/view/ColumnDetailFragment.java" timestamp="1500868823197">
         <mark key="[" line="28" column="34" />
@@ -88,17 +88,23 @@
         <mark key="." line="57" column="122" />
         <mark key="^" line="57" column="129" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeaturePreferencesData.java" timestamp="1501054135082">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewEachPlatform.java" timestamp="1500874128795">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeaturePreferences.java" timestamp="1501053351994">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeaturePreferences.java" timestamp="1501054097709">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
@@ -249,7 +255,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Compat</text>
@@ -258,25 +264,25 @@
         <text>@NonNull final Context context</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNob3VsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGZWF0dXJlUHJlZmVyZW5jZXNEYXRhKEBOb25OdWxsIGZpbmFsIENvbnRleHQgY29udGV4dCl7CiAgICAgICAgc3VwZXIoY29udGV4dCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNob3VsZAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2V0dGluZ3NGcmFnbWVudCgpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJsb2NhbGUiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -285,10 +291,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKENvbmZpZ3VyYXRpb24gbmV3Q29uZmlnKSB7CiAgICAgICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2V0dGluZ3NGcmFnbWVudCgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJqcC5kd2FuZ28uc3Vtby5hcHAuYWN0aXZpdGllcy5kZXRhaWwuU2V0dGluZ3NBY3Rpdml0eSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJsb2NhbGUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
