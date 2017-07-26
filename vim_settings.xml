@@ -38,6 +38,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501053213928">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/view/ColumnDetailFragment.java" timestamp="1500868823197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
@@ -52,6 +58,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1500975835789">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501053346439">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/build/generated/source/apt/google/debug/jp/dwango/sumo/databinding/CardArticlesBinding.java" timestamp="1500874012356">
         <mark key="[" line="17" column="76" />
@@ -71,7 +82,6 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoErrorType.java" timestamp="1500965084530" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
@@ -83,6 +93,12 @@
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeaturePreferences.java" timestamp="1501053351994">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
@@ -107,7 +123,6 @@
         <mark key="[" line="169" column="58" />
         <mark key="]" line="169" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/component/framework/src/main/java/jp/dwango/mobile/sd1/android/framework/ActivityLifecycleDelegate.java" timestamp="1500970572125" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/column/widget/adapter/ColumnArticleViewInterface.java" timestamp="1499398922309">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="27" />
@@ -120,7 +135,7 @@
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1500868188189">
+      <file name="/fragment.java" timestamp="1501053028435">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -234,46 +249,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>orientation</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Compat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGZpbmFsIE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlciBnZXRDb25maWdQcm92aWRlcigpIHsKICAgICAgICByZXR1cm4gQ29uZmlnUHJvdmlkZXJGYWN0b3J5LmdldFRvcmlrdW1pQ29uZmlnUHJvdmlkZXIoZ2V0Q29udGV4dCgpKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>@NonNull final Context context</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2V0dGluZ3NGcmFnbWVudCgpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNob3VsZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJsb2NhbGUiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzaG91bGRTaG93RmVhdHVyZVRvb2x0aXAoZmluYWwgQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgZmluYWwgU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgZmluYWwgYm9vbGVhbiByZXN1bHQgPSBzcC5nZXRCb29sZWFuKFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCwgdHJ1ZSk7CiAgICAgICAgc3AuZWRpdCgpLnB1dEJvb2xlYW4oU0hPVUxEX1NIT1dfRkVBVFVSRV9UT09MVElQX0lELCBmYWxzZSkuYXBwbHkoKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKENvbmZpZ3VyYXRpb24gbmV3Q29uZmlnKSB7CiAgICAgICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJqcC5kd2FuZ28uc3Vtby5hcHAuYWN0aXZpdGllcy5kZXRhaWwuU2V0dGluZ3NBY3Rpdml0eSIK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2V0dGluZ3NGcmFnbWVudCgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJsb2NhbGUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBNZWRpYUNvbnRyb2xsZXJQcmVzZW50ZXIuQ29uZmlnUHJvdmlkZXIgY29uZmlnUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWVkaWFDb250cm9sbGVyUHJlc2VudGVyLkNvbmZpZ1Byb3ZpZGVyIGNvbmZpZ1Byb3ZpZGVyID0gQ29uZmlnUHJvdmlkZXJGYWN0b3J5LmdldFRvcmlrdW1pQ29uZmlnUHJvdmlkZXIoZ2V0Q29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKENvbmZpZ3VyYXRpb24gbmV3Q29uZmlnKSB7CiAgICAgICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5Db25maWdQcm92aWRlciBjcmVhdGVDb250cm9sbGVyUHJlc2VudGVyQ29uZmlnKCkgewogICAgICAgIC8vIOOCt+OCp+OCouaWh+iogOOBjOOBquOBhOWgtOWQiOOBr+OCt+OCp+OCouOBmeOCi+WGheWuueOBjOOBquOBhOOBn+OCgeOAgeOCt+OCp+OCouODnOOCv+ODs+OBruihqOekuuWPr+WQpuOBq+ODoeODg+OCu+ODvOOCuOOBruWtmOWcqOOCguimi+OCiwoKICAgICAgICByZXR1cm4gZ2V0U2hhcmVNZXNzYWdlKCkKICAgICAgICAgICAgICAgIC5tYXAodSAtPiBDb25maWdQcm92aWRlckZhY3RvcnkuZ2V0VG9yaWt1bWlDb25maWdQcm92aWRlcihnZXRDb250ZXh0KCkpKQogICAgICAgICAgICAgICAgLm9yU29tZShDb25maWdQcm92aWRlckZhY3Rvcnkubm9uZSgpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJqcC5kd2FuZ28uc3Vtby5hcHAuYWN0aXZpdGllcy5kZXRhaWwuU2V0dGluZ3NBY3Rpdml0eSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -288,14 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createContro</entry>
-        <entry>createCon</entry>
-        <entry>createCont</entry>
-        <entry>match</entry>
-        <entry>getShareM</entry>
-        <entry>is</entry>
-        <entry>playa</entry>
-        <entry>should</entry>
         <entry>getSha</entry>
         <entry>getVideo</entry>
         <entry>getVideoI</entry>
