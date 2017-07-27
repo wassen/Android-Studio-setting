@@ -43,11 +43,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowFeatureShareTooltip.java" timestamp="1501128819865">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowFeatureShareTooltip.java" timestamp="1501133545171">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiPreferences.java" timestamp="1501125877461">
         <mark key="[" line="10" column="55" />
@@ -70,16 +70,15 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501130364666">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501134800864">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501128161294">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501134590165">
         <mark key="'" line="86" column="4" />
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="42" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="90" column="4" />
         <mark key="^" line="70" column="42" />
         <mark key="." line="70" column="42" />
       </file>
@@ -157,10 +156,11 @@
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501130067982">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501135492109">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/video/LastPlayVideoInfo.java" timestamp="1501055371657">
         <mark key="[" line="61" column="0" />
@@ -303,46 +303,48 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>getPreferenceValue</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>ShareTooltipPreferences</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwIGV4dGVuZHMgVG9vbHRpcFByZWZlcmVuY2VzLlNob3VsZFNob3dTaGFyZVRvb2x0aXB7CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTIyNTg0MDk5MDU1ODUzOTY5MTFMOwoKICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwKGZpbmFsIGJvb2xlYW4gc2hvdWxkU2hvdykgewogICAgICAgICAgICBzdXBlcihzaG91bGRTaG93KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTaG91bGRTaG93U2hhcmVUb29sdGlwIG9mKGJvb2xlYW4gc2hvdWxkU2hvdyl7CiAgICAgICAgICAgIHJldHVybiBuZXcgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwKHNob3VsZFNob3cpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVG9vbHRpcFByZWZlcmVuY2VzPEE+KGNvbnRleHQpLmdldFByZWZlcmVuY2VWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwIGV4dGVuZHMgVG9vbHRpcFByZWZlcmVuY2VzLlNob3VsZFNob3dTaGFyZVRvb2x0aXB7CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTIyNTg0MDk5MDU1ODUzOTY5MTFMOwoKICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwIG9mKGJvb2xlYW4gc2hvdWxkU2hvdyl7CiAgICAgICAgICAgIHJldHVybiBuZXcgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwKHNob3VsZFNob3cpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3VsZFNob3cgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdWxkU2hvdyA9IGZhbHNlCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGdldFByZWZlcmVuY2VLZXkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFNob3VsZFNob3dUb29sdGlwKCkgewogICAgICAgIGZpbmFsIGJvb2xlYW4gcmVzdWx0ID0gZ2V0UHJlZmVyZW5jZVZhbHVlKCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnNob3VsZFNob3cpCiAgICAgICAgICAgICAgICAub3JTb21lKHRydWUpOwogICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgc2hvdWxkU2hvdyA9IGZhbHNlCgogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHNob3VsZFNob3c7IAogICAgICAgIHB1YmxpYyBTaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXAoZmluYWwgYm9vbGVhbiBzaG91bGRTaG93KSB7CiAgICAgICAgICAgIHRoaXMuc2hvdWxkU2hvdyA9IHNob3VsZFNob3c7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFNob3VsZFNob3dUb29sdGlwKCkgewogICAgICAgIGZpbmFsIGJvb2xlYW4gcmVzdWx0ID0gZ2V0UHJlZmVyZW5jZVZhbHVlKCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnNob3VsZFNob3cpCiAgICAgICAgICAgICAgICAub3JTb21lKHRydWUpOwogICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgc2F2ZVByZWZlcmVuY2UobmV3IFNob3VsZFNob3dUb3Jpa3VtaVNoYXJlVG9vbHRpcChmYWxzZSkpOwoKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCg==</text>
+      <register name="5" type="4">
+        <text>{
+            return new ShouldShowShareTooltip();
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtMjI1ODQwOTkwNTU4NTM5NjkxMUw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtMjI1ODQwOTkwNTU4NTM5NjkxMUw7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTSE9VTERfU0hPV19UT1JJS1VNSV9UT09MVElQX0lEID0gTWVkaWFDb250cm9sbGVyUHJlc2VudGVyLmNsYXNzLmdldENhbm9uaWNhbE5hbWUoKSArICJfYWxyZWFkeV9zaG93bl9zaGFyZV90b29sX3RpcF9rZXkiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCA9IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5jbGFzcy5nZXRDYW5vbmljYWxOYW1lKCkgKyAiX2FscmVhZHlfc2hvd25fc2hhcmVfdG9vbF90aXBfa2V5X2ZlYXR1cmUiOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBrZXk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtleSA9IGtleTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
