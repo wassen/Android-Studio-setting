@@ -156,10 +156,11 @@
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501137967829">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501139119330">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/video/LastPlayVideoInfo.java" timestamp="1501055371657">
         <mark key="[" line="61" column="0" />
@@ -302,46 +303,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>boolean shouldShow</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXAgZXh0ZW5kcyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93U2hhcmVUb29sdGlwewo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwIGV4dGVuZHMgVG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1NoYXJlVG9vbHRpcHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChmaW5hbCBib29sZWFuIHNob3VsZFNob3cpIHsKICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb0FyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb0FyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
+        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
