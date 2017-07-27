@@ -43,11 +43,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowFeatureShareTooltip.java" timestamp="1501127492685">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowFeatureShareTooltip.java" timestamp="1501128819865">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiPreferences.java" timestamp="1501125877461">
         <mark key="[" line="10" column="55" />
@@ -61,17 +61,23 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ShouldShowTorikumiShareTooltip.java" timestamp="1501061897487">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="10" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ShouldShowTorikumiShareTooltip.java" timestamp="1501129335818">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/docomo/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500532710987">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501129029596">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501128161294">
         <mark key="'" line="86" column="4" />
@@ -154,11 +160,11 @@
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501127535458">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreferences.java" timestamp="1501129065587">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/video/LastPlayVideoInfo.java" timestamp="1501055371657">
         <mark key="[" line="61" column="0" />
@@ -301,7 +307,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>SumoPrefeence.PreferenceData</text>
+        <text>savePreference(this);</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -310,34 +316,34 @@
         <text>ShareTooltipPreferences</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFNob3VsZFNob3dUb29sdGlwKCkgewogICAgICAgIGZpbmFsIGJvb2xlYW4gcmVzdWx0ID0gZ2V0UHJlZmVyZW5jZVZhbHVlKCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnNob3VsZFNob3cpCiAgICAgICAgICAgICAgICAub3JTb21lKHRydWUpOwogICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgc2F2ZVByZWZlcmVuY2UobmV3IFNob3VsZFNob3dUb3Jpa3VtaVNoYXJlVG9vbHRpcChmYWxzZSkpOwoKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHNob3VsZFNob3cgPSBmYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdWxkU2hvdyA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFNob3VsZFNob3dUb29sdGlwKCkgewogICAgICAgIGZpbmFsIGJvb2xlYW4gcmVzdWx0ID0gZ2V0UHJlZmVyZW5jZVZhbHVlKCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnNob3VsZFNob3cpCiAgICAgICAgICAgICAgICAub3JTb21lKHRydWUpOwogICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgc2hvdWxkU2hvdyA9IGZhbHNlCgogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTSE9VTERfU0hPV19UT1JJS1VNSV9UT09MVElQX0lEID0gTWVkaWFDb250cm9sbGVyUHJlc2VudGVyLmNsYXNzLmdldENhbm9uaWNhbE5hbWUoKSArICJfYWxyZWFkeV9zaG93bl9zaGFyZV90b29sX3RpcF9rZXkiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCA9IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5jbGFzcy5nZXRDYW5vbmljYWxOYW1lKCkgKyAiX2FscmVhZHlfc2hvd25fc2hhcmVfdG9vbF90aXBfa2V5X2ZlYXR1cmUiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFNob3VsZFNob3dUb29sdGlwKCkgewogICAgICAgIGZpbmFsIGJvb2xlYW4gcmVzdWx0ID0gZ2V0UHJlZmVyZW5jZVZhbHVlKCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnNob3VsZFNob3cpCiAgICAgICAgICAgICAgICAub3JTb21lKHRydWUpOwogICAgICAgIGlmIChyZXN1bHQpIHsKICAgICAgICAgICAgc2F2ZVByZWZlcmVuY2UobmV3IFNob3VsZFNob3dUb3Jpa3VtaVNoYXJlVG9vbHRpcChmYWxzZSkpOwoKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTSE9VTERfU0hPV19UT1JJS1VNSV9UT09MVElQX0lEID0gTWVkaWFDb250cm9sbGVyUHJlc2VudGVyLmNsYXNzLmdldENhbm9uaWNhbE5hbWUoKSArICJfYWxyZWFkeV9zaG93bl9zaGFyZV90b29sX3RpcF9rZXkiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNIT1VMRF9TSE9XX0ZFQVRVUkVfVE9PTFRJUF9JRCA9IE1lZGlhQ29udHJvbGxlclByZXNlbnRlci5jbGFzcy5nZXRDYW5vbmljYWxOYW1lKCkgKyAiX2FscmVhZHlfc2hvd25fc2hhcmVfdG9vbF90aXBfa2V5X2ZlYXR1cmUiOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -397,6 +403,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
