@@ -37,6 +37,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TooltipPreference.java" timestamp="1501144012090">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ShareTooltipPreferences.java" timestamp="1501063087569">
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="47" />
@@ -88,11 +94,10 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501062862217">
-        <mark key="[" line="31" column="72" />
-        <mark key="]" line="31" column="101" />
-        <mark key="." line="31" column="101" />
-        <mark key="^" line="31" column="101" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501143907973">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500874214493">
         <mark key="[" line="8" column="7" />
@@ -303,55 +308,55 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>boolean shouldShow</text>
+        <text>Feature</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>shouldshow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIHZpc2libGVTaGFyZVRvb2x0aXAgPSBuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXA+KGNvbnRleHQpLnNob3VsZFNob3dTaGFyZVRvb2xUaXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmFwcC5jb250ZW50cy5ob25iYXNoby50b3Jpa3VtaS5Ub3Jpa3VtaVByZWZlcmVuY2VzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIHZpc2libGVTaGFyZVRvb2x0aXAgPSBuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXA+KGNvbnRleHQpLnNob3VsZFNob3dTaGFyZVRvb2xUaXAoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIHZpc2libGVTaGFyZVRvb2x0aXAgPSBuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwPihjb250ZXh0KS5zaG91bGRTaG93U2hhcmVUb29sVGlwKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIHZpc2libGVTaGFyZVRvb2x0aXAgPSBuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXA+KGNvbnRleHQpLigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewogICAgICAgICAgICB0aGlzLnNob3VsZFNob3cgPSBzaG91bGRTaG93OwogICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuPD4gc2F2ZVByZWZlcmVuY2UoICl7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcChib29sZWFuIHNob3VsZFNob3cpewoK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVByZWZlcmVuY2UobmV3ICgpOyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>shouldshow</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>shouldshow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -378,6 +383,9 @@
         <entry>lang</entry>
         <entry>Compat</entry>
         <entry>save</entry>
+        <entry>Show</entry>
+        <entry>show</entry>
+        <entry>shouldshow</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
