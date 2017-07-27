@@ -81,12 +81,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501134590165">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" timestamp="1501145312248">
         <mark key="'" line="86" column="4" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="90" column="4" />
-        <mark key="^" line="70" column="42" />
-        <mark key="." line="70" column="42" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="10" />
+        <mark key="^" line="55" column="15" />
+        <mark key="." line="55" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/view/ColumnDetailFragment.java" timestamp="1500868823197">
         <mark key="[" line="28" column="34" />
@@ -308,7 +308,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Feature</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>shouldshow</text>
