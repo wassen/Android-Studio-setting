@@ -9,14 +9,12 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1500875742365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501220338359">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501223975043">
         <mark key="'" line="222" column="8" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+        <mark key="[" line="140" column="51" />
+        <mark key="]" line="140" column="55" />
+        <mark key="." line="140" column="55" />
+        <mark key="^" line="140" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ToolTipPreferences.java" timestamp="1501127489569">
         <mark key="[" line="16" column="0" />
@@ -99,9 +97,6 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500975835789">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501059909506">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -122,6 +117,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/license/OSSLicenseFragment.java" timestamp="1501223385709">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/Resources.java" timestamp="1501222333387" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
@@ -158,17 +160,13 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiPreference.java" timestamp="1501059290853">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.kt" timestamp="1500876627881">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/FragmentHostCallback.java" timestamp="1501224061542" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/column/widget/adapter/ColumnArticleViewInterface.java" timestamp="1499398922309">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="27" />
@@ -180,9 +178,6 @@
         <mark key="]" line="152" column="13" />
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1501059149839">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -304,7 +299,7 @@
         <text>dontShowFeatureTooltipAnymore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0VGFyZ2V0RnJhZ21lbnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -316,16 +311,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcERhdGEoKXsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcERhdGEoKXsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -334,7 +329,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
