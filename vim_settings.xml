@@ -76,11 +76,11 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501230854176">
-        <mark key="[" line="24" column="79" />
-        <mark key="]" line="24" column="85" />
-        <mark key="." line="24" column="85" />
-        <mark key="^" line="24" column="85" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501233490643">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="30" column="114" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500874214493">
         <mark key="[" line="8" column="7" />
@@ -181,11 +181,11 @@
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501232100386">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="25" />
-        <mark key="^" line="38" column="25" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501233181954">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="32" column="61" />
       </file>
       <file name="/fragment.java" timestamp="1501231781885">
         <mark key="[" line="0" column="0" />
@@ -301,46 +301,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Torikumi</text>
+        <text encoding="base64">c2hvdWxkU2hvd1NoYXJlVG9vbHRpcChuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KSk7</text>
       </register>
       <register name="/" type="4">
         <text>langu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXAsCg==</text>
+      <register name="0" type="4">
+        <text>SettingUtil.getTrueOnlyOnce(context, SettingUtil.Key.ShouldShowTorikumiShareTooltip);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCQkIsCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEtleXMgewogICAgICAgIEFBQSwKICAgICAgICBCQkIsCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGRvbnRTaG93RmVhdHVyZVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGE+KGNvbnRleHQpLnNhdmVQcmVmZXJlbmNlKG5ldyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGEoZmFsc2UpKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9udFNob3dUb3Jpa3VtaVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KS5zYXZlUHJlZmVyZW5jZShuZXcgVG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwRGF0YShmYWxzZSkpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb250U2hvd0ZlYXR1cmVUb29sdGlwQW55bW9yZShjb250ZXh0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEdsb2JlIHsKICAgICAgICBNQVJDLAogICAgICAgIEtFSUtPLAogICAgICAgIFRLCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPEEgZXh0ZW5kcyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93U2hhcmVUb29sdGlwRGF0YT4gYm9vbGVhbiBzaG91bGRTaG93U2hhcmVUb29sdGlwKFRvb2x0aXBQcmVmZXJlbmNlPEE+IEEpIHsKICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IEEKICAgICAgICAgICAgICAgIC5nZXRQcmVmZXJlbmNlVmFsdWUoKQogICAgICAgICAgICAgICAgLm1hcChzIC0+IHMuZ2V0U2hvdWxkU2hvdygpKQogICAgICAgICAgICAgICAgLm9yU29tZSh0cnVlKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MQogICAgICAgIDIKICAgICAgICAzCiAgICAgICAgNAogICAgICAgIDUKICAgIHB1YmxpYyBlbnVtIEdsb2JlIHsKICAgICAgICBNQVJDLAogICAgICAgIEtFSUtPLAogICAgICAgIFRLCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCQkIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEtleXMgewogICAgICAgIEFBQSwKICAgICAgICBCQkIsCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb250U2hvd1RvcmlrdW1pVG9vbHRpcEFueW1vcmUoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhYWFhYWFhYWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
