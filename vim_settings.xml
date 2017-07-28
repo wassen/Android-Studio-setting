@@ -14,6 +14,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501236522968">
+        <mark key="'" line="57" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewOfEachPlatform.java" timestamp="1500631934986">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="44" />
@@ -193,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="95" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="69" column="79" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="70" column="79" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="85" column="37" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
@@ -293,6 +295,7 @@
       <jump line="818" column="4" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" />
       <jump line="817" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" />
       <jump line="807" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" />
+      <jump line="57" column="34" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -305,7 +308,7 @@
         <text encoding="base64">c2hvdWxkU2hvd1NoYXJlVG9vbHRpcChuZXcgVG9vbHRpcFByZWZlcmVuY2U8VG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KSk7</text>
       </register>
       <register name="/" type="4">
-        <text>langu</text>
+        <text>Oss</text>
       </register>
       <register name="0" type="4">
         <text>SettingUtil.getTrueOnlyOnce(context, SettingUtil.Key.ShouldShowTorikumiShareTooltip);</text>
@@ -348,11 +351,11 @@
       </register>
     </registers>
     <search>
-      <last-search>langu</last-search>
+      <last-search>Oss</last-search>
       <last-offset />
-      <last-pattern>langu</last-pattern>
+      <last-pattern>Oss</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -376,6 +379,7 @@
         <entry>show</entry>
         <entry>shouldshow</entry>
         <entry>langu</entry>
+        <entry>Oss</entry>
       </history-search>
       <history-cmd>
         <entry>onShare</entry>
@@ -396,8 +400,8 @@
         <entry>set nopaste</entry>
         <entry>;w</entry>
         <entry>d</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry>call append(line('.'), '')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
