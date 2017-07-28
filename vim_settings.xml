@@ -9,13 +9,6 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501223975043">
-        <mark key="'" line="222" column="8" />
-        <mark key="[" line="140" column="51" />
-        <mark key="]" line="140" column="55" />
-        <mark key="." line="140" column="55" />
-        <mark key="^" line="140" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ToolTipPreferences.java" timestamp="1501127489569">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -136,6 +129,11 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/BaseFragmentHostCallback.java" timestamp="1501225190949">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewEachPlatform.java" timestamp="1500874128795">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="52" />
@@ -160,13 +158,20 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/video/LastPlayVideoInfo.java" timestamp="1501055371657">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="63" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.kt" timestamp="1500876627881">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/FragmentHostCallback.java" timestamp="1501224061542" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/FragmentHostCallback.java" timestamp="1501224781609">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/au/java/jp/dwango/sumo/app/contents/column/widget/adapter/ColumnArticleViewInterface.java" timestamp="1499398922309">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="27" />
@@ -178,6 +183,9 @@
         <mark key="]" line="152" column="13" />
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1501224517241">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -290,43 +298,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Context context, Handler handler, int windowAnimations</text>
       </register>
       <register name="/" type="4">
         <text>langu</text>
       </register>
-      <register name="0" type="4">
-        <text>dontShowFeatureTooltipAnymore</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBCYXNlRnJhZ21lbnRIb3N0Q2FsbGJhY2soQ29udGV4dCBjb250ZXh0LCBIYW5kbGVyIGhhbmRsZXIsIGludCB3aW5kb3dBbmltYXRpb25zKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0VGFyZ2V0RnJhZ21lbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtV2luZG93QW5pbWF0aW9ucyA9IHdpbmRvd0FuaW1hdGlvbnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSGFuZGxlciA9IGhhbmRsZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvdWxkU2hvd1NoYXJlVG9vbHRpcERhdGEoKXsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
+        <text encoding="base64">ICAgICAgICBtQWN0aXZpdHkgPSBhY3Rpdml0eTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zaG91bGRTaG93ID0gc2hvdWxkU2hvdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGludCB3aW5kb3dBbmltYXRpb25zKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJhc2VGcmFnbWVudEhvc3RDYWxsYmFjayhCYXNlQWN0aXZpdHkgYWN0aXZpdHksIENvbnRleHQgY29udGV4dCwgSGFuZGxlciBoYW5kbGVyLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
