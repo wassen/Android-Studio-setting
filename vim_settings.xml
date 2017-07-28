@@ -181,11 +181,11 @@
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501231355373">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501232100386">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1501231781885">
         <mark key="[" line="0" column="0" />
@@ -301,7 +301,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>AAA</text>
+        <text>Torikumi</text>
       </register>
       <register name="/" type="4">
         <text>langu</text>
