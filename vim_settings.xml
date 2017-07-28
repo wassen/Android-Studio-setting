@@ -12,24 +12,16 @@
       <file name="/a.dummy" timestamp="1500875742365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501218673572">
-        <mark key="'" line="144" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501220338359">
+        <mark key="'" line="222" column="8" />
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
-        <mark key="^" line="149" column="98" />
         <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ToolTipPreferences.java" timestamp="1501127489569">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1500964140711">
-        <mark key="'" line="84" column="37" />
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="44" />
-        <mark key="." line="112" column="44" />
-        <mark key="^" line="112" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewOfEachPlatform.java" timestamp="1500631934986">
         <mark key="[" line="12" column="44" />
@@ -195,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" />
       <jump line="12" column="1" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiShareDelegateImpl.java" />
       <jump line="356" column="14" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="67" column="79" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
@@ -295,6 +286,7 @@
       <jump line="194" column="25" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="144" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="86" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SumoPreference.java" />
+      <jump line="222" column="8" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,7 +299,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>shouldshow</text>
+        <text>langu</text>
       </register>
       <register name="0" type="4">
         <text>dontShowFeatureTooltipAnymore</text>
@@ -350,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shouldshow</last-search>
+      <last-search>langu</last-search>
       <last-offset />
-      <last-pattern>shouldshow</last-pattern>
+      <last-pattern>langu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -373,7 +365,6 @@
         <entry>Config</entry>
         <entry>Media</entry>
         <entry encoding="base64">XDxUQU5JTUFDSElfT05MWVw+</entry>
-        <entry>langu</entry>
         <entry>settingAc</entry>
         <entry>Setting</entry>
         <entry>lang</entry>
@@ -382,6 +373,7 @@
         <entry>Show</entry>
         <entry>show</entry>
         <entry>shouldshow</entry>
+        <entry>langu</entry>
       </history-search>
       <history-cmd>
         <entry>thumb</entry>
@@ -443,6 +435,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
