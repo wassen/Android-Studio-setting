@@ -14,8 +14,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501236522968">
-        <mark key="'" line="57" column="34" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501237847378">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewOfEachPlatform.java" timestamp="1500631934986">
         <mark key="[" line="12" column="44" />
@@ -196,13 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="79" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="70" column="79" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="85" column="37" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="100" column="63" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="130" column="18" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="131" column="21" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="132" column="16" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="140" column="66" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="142" column="52" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="143" column="28" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
@@ -296,6 +292,13 @@
       <jump line="817" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" />
       <jump line="807" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" />
       <jump line="57" column="34" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="48" column="20" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -314,7 +317,7 @@
         <text>SettingUtil.getTrueOnlyOnce(context, SettingUtil.Key.ShouldShowTorikumiShareTooltip);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnRyYWNraW5nLlRyYWNraW5nSXRlbUZhY3Rvcnk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -323,25 +326,25 @@
         <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGRvbnRTaG93RmVhdHVyZVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGE+KGNvbnRleHQpLnNhdmVQcmVmZXJlbmNlKG5ldyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGEoZmFsc2UpKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9udFNob3dUb3Jpa3VtaVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KS5zYXZlUHJlZmVyZW5jZShuZXcgVG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwRGF0YShmYWxzZSkpOwogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb250U2hvd0ZlYXR1cmVUb29sdGlwQW55bW9yZShjb250ZXh0KTsK</text>
+        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGRvbnRTaG93RmVhdHVyZVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGE+KGNvbnRleHQpLnNhdmVQcmVmZXJlbmNlKG5ldyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGEoZmFsc2UpKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9udFNob3dUb3Jpa3VtaVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KS5zYXZlUHJlZmVyZW5jZShuZXcgVG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwRGF0YShmYWxzZSkpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPEEgZXh0ZW5kcyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93U2hhcmVUb29sdGlwRGF0YT4gYm9vbGVhbiBzaG91bGRTaG93U2hhcmVUb29sdGlwKFRvb2x0aXBQcmVmZXJlbmNlPEE+IEEpIHsKICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IEEKICAgICAgICAgICAgICAgIC5nZXRQcmVmZXJlbmNlVmFsdWUoKQogICAgICAgICAgICAgICAgLm1hcChzIC0+IHMuZ2V0U2hvdWxkU2hvdygpKQogICAgICAgICAgICAgICAgLm9yU29tZSh0cnVlKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb250U2hvd0ZlYXR1cmVUb29sdGlwQW55bW9yZShjb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCQkIsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPEEgZXh0ZW5kcyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93U2hhcmVUb29sdGlwRGF0YT4gYm9vbGVhbiBzaG91bGRTaG93U2hhcmVUb29sdGlwKFRvb2x0aXBQcmVmZXJlbmNlPEE+IEEpIHsKICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IEEKICAgICAgICAgICAgICAgIC5nZXRQcmVmZXJlbmNlVmFsdWUoKQogICAgICAgICAgICAgICAgLm1hcChzIC0+IHMuZ2V0U2hvdWxkU2hvdygpKQogICAgICAgICAgICAgICAgLm9yU29tZSh0cnVlKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEtleXMgewogICAgICAgIEFBQSwKICAgICAgICBCQkIsCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCQkIsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEtleXMgewogICAgICAgIEFBQSwKICAgICAgICBCQkIsCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
