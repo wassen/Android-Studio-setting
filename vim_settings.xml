@@ -14,9 +14,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501495292493">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501497135158">
         <mark key="a" line="147" column="46" />
-        <mark key="'" line="149" column="46" />
+        <mark key="'" line="27" column="64" />
         <mark key="[" line="171" column="28" />
         <mark key="]" line="171" column="27" />
         <mark key="." line="171" column="27" />
@@ -46,6 +46,10 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/delegate/logic/NotificationRestart.java" timestamp="1501497780711">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiPreferences.java" timestamp="1501125877461">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="10" column="84" />
@@ -58,17 +62,14 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ShouldShowTorikumiShareTooltip.java" timestamp="1501130075721">
-        <mark key="^" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/docomo/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500532710987">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" timestamp="1501485128961">
-        <mark key="'" line="347" column="28" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" timestamp="1501497218455">
+        <mark key="'" line="42" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501134800864">
         <mark key="[" line="12" column="0" />
@@ -111,6 +112,7 @@
       <file name="/Dummy.txt" timestamp="1501479687035">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceManager.java" timestamp="1501497506671" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501059909506">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -166,6 +168,12 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/application/SumoApplication.java" timestamp="1501497887157">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
         <mark key="]" line="14" column="139" />
@@ -216,14 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
-      <jump line="196" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
-      <jump line="256" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="260" column="51" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="314" column="27" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="319" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
-      <jump line="99" column="60" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="104" column="33" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/TorikumiDetailFragment.java" />
       <jump line="132" column="16" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
       <jump line="140" column="15" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" />
@@ -311,11 +311,19 @@
       <jump line="151" column="49" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
       <jump line="156" column="69" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
       <jump line="349" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
-      <jump line="353" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
       <jump line="347" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
       <jump line="147" column="46" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="161" column="31" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="149" column="46" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="218" column="8" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="93" column="55" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="197" column="22" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="27" column="64" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="353" column="26" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
+      <jump line="41" column="32" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
+      <jump line="23" column="23" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
+      <jump line="44" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
+      <jump line="42" column="43" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,57 +333,57 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Torikumi</text>
+        <text>baseActivity</text>
       </register>
       <register name="/" type="4">
-        <text>findPre</text>
+        <text>Shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVUb3Jpa3VtaVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQsIGJvb2xlYW4gdmlzaWJsZVRvcmlrdW1pU2hhcmVUb29sVGlwKXsKICAgICAgICByZXR1cm4gcHV0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwLCB2aXNpYmxlVG9yaWt1bWlTaGFyZVRvb2xUaXApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSHR0cFV0aWwuY2xlYXJDYWNoZShiYXNlQWN0aXZpdHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIFN5c3RlbSBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAqIFN5c3RlbSBkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwdXRWaXNpYmxlRmVhdHVyZVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gZ2V0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBwdXRWaXNpYmxlRmVhdHVyZVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gZ2V0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXApOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2xUaXAoZmluYWwgQ29udGV4dCBjb250ZXh0KXsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBnZXRUcnVlT25seU9uY2UoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBLZXlDb250YWluZXIga2V5KSB7CiAgICAgICAgZmluYWwgQm9vbGVhbiByZXN1bHQgPSBnZXRCb29sZWFuKGNvbnRleHQsIGtleSwgdHJ1ZSk7CiAgICAgICAgcHV0Qm9vbGVhbihjb250ZXh0LCBrZXkubmFtZSgpLCBmYWxzZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2xUaXAoZmluYWwgQ29udGV4dCBjb250ZXh0KXsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBnZXRUcnVlT25seU9uY2UoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBLZXlDb250YWluZXIga2V5KSB7CiAgICAgICAgZmluYWwgQm9vbGVhbiByZXN1bHQgPSBnZXRCb29sZWFuKGNvbnRleHQsIGtleSwgdHJ1ZSk7CiAgICAgICAgcHV0Qm9vbGVhbihjb250ZXh0LCBrZXkubmFtZSgpLCBmYWxzZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findPre</last-search>
+      <last-search>Shared</last-search>
       <last-offset />
-      <last-pattern>findPre</last-pattern>
+      <last-pattern>Shared</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -403,6 +411,9 @@
         <entry>Fragment</entry>
         <entry>Preference</entry>
         <entry>findPre</entry>
+        <entry>remote</entry>
+        <entry>restart</entry>
+        <entry>Shared</entry>
       </history-search>
       <history-cmd>
         <entry>onShare</entry>
