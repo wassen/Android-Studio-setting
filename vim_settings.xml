@@ -14,12 +14,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501486120870">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501493827787">
         <mark key="a" line="147" column="46" />
         <mark key="'" line="149" column="46" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="171" column="28" />
+        <mark key="]" line="171" column="27" />
+        <mark key="." line="171" column="27" />
+        <mark key="^" line="171" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewOfEachPlatform.java" timestamp="1500631934986">
         <mark key="[" line="12" column="44" />
@@ -417,12 +418,12 @@
         <entry>tabn</entry>
         <entry>tabp</entry>
         <entry>q</entry>
-        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>;w</entry>
         <entry>d</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
