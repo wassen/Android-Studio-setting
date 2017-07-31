@@ -82,9 +82,12 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501469805557">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501473236530">
+        <mark key="a" line="26" column="23" />
+        <mark key="'" line="22" column="23" />
         <mark key="[" line="31" column="59" />
         <mark key="]" line="31" column="60" />
+        <mark key="m" line="26" column="39" />
         <mark key="^" line="31" column="59" />
         <mark key="." line="31" column="60" />
       </file>
@@ -187,29 +190,18 @@
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501470018267">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="27" column="78" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501473202479">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="42" column="82" />
+        <mark key="]" line="42" column="83" />
+        <mark key="." line="42" column="83" />
+        <mark key="^" line="42" column="83" />
       </file>
       <file name="/fragment.java" timestamp="1501231781885">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="66" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="142" column="52" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="143" column="28" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="149" column="42" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="225" column="24" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="269" column="14" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="329" column="24" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="331" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="338" column="30" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="345" column="82" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="347" column="40" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="350" column="22" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="360" column="64" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="362" column="22" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
       <jump line="57" column="51" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
@@ -298,6 +290,18 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="46" column="65" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="45" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="30" column="94" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="17" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" />
+      <jump line="34" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" />
+      <jump line="22" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,57 +311,57 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Torikumi</text>
       </register>
       <register name="/" type="4">
-        <text>Oss</text>
+        <text>Torikumi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHZpc2libGVUb3Jpa3VtaVNoYXJlVG9vbFRpcCgpewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVUb3Jpa3VtaVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQsIGJvb2xlYW4gdmlzaWJsZVRvcmlrdW1pU2hhcmVUb29sVGlwKXsKICAgICAgICByZXR1cm4gcHV0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwLCB2aXNpYmxlVG9yaWt1bWlTaGFyZVRvb2xUaXApOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2aXNpYmxlVG9yaWt1bWlTaGFyZVRvb2xUaXAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnRyYWNraW5nLlRyYWNraW5nSXRlbUZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBwdXRWaXNpYmxlRmVhdHVyZVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gZ2V0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXApOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmR3YW5nby5zdW1vLmluZnJhLnBlcnNpc3RlbmNlLnByZWZlcmVuY2UuVG9vbHRpcFByZWZlcmVuY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGRvbnRTaG93RmVhdHVyZVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGE+KGNvbnRleHQpLnNhdmVQcmVmZXJlbmNlKG5ldyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcERhdGEoZmFsc2UpKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9udFNob3dUb3Jpa3VtaVRvb2x0aXBBbnltb3JlKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIG5ldyBUb29sdGlwUHJlZmVyZW5jZTxUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2x0aXBEYXRhPihjb250ZXh0KS5zYXZlUHJlZmVyZW5jZShuZXcgVG9vbHRpcFByZWZlcmVuY2UuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwRGF0YShmYWxzZSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2xUaXAoZmluYWwgQ29udGV4dCBjb250ZXh0KXsKCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb250U2hvd0ZlYXR1cmVUb29sdGlwQW55bW9yZShjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBnZXRUcnVlT25seU9uY2UoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBLZXlDb250YWluZXIga2V5KSB7CiAgICAgICAgZmluYWwgQm9vbGVhbiByZXN1bHQgPSBnZXRCb29sZWFuKGNvbnRleHQsIGtleSwgdHJ1ZSk7CiAgICAgICAgcHV0Qm9vbGVhbihjb250ZXh0LCBrZXkubmFtZSgpLCBmYWxzZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPEEgZXh0ZW5kcyBUb29sdGlwUHJlZmVyZW5jZS5TaG91bGRTaG93U2hhcmVUb29sdGlwRGF0YT4gYm9vbGVhbiBzaG91bGRTaG93U2hhcmVUb29sdGlwKFRvb2x0aXBQcmVmZXJlbmNlPEE+IEEpIHsKICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IEEKICAgICAgICAgICAgICAgIC5nZXRQcmVmZXJlbmNlVmFsdWUoKQogICAgICAgICAgICAgICAgLm1hcChzIC0+IHMuZ2V0U2hvdWxkU2hvdygpKQogICAgICAgICAgICAgICAgLm9yU29tZSh0cnVlKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCQkIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Oss</last-search>
+      <last-search>Torikumi</last-search>
       <last-offset />
-      <last-pattern>Oss</last-pattern>
+      <last-pattern>Torikumi</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -381,6 +385,7 @@
         <entry>shouldshow</entry>
         <entry>langu</entry>
         <entry>Oss</entry>
+        <entry>Torikumi</entry>
       </history-search>
       <history-cmd>
         <entry>onShare</entry>
