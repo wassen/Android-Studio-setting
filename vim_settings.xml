@@ -14,8 +14,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501237847378">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501479547353">
+        <mark key="'" line="42" column="27" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -96,6 +96,9 @@
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501479687035">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501059909506">
         <mark key="[" line="20" column="0" />
@@ -202,11 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="22" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="57" column="51" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="482" column="55" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="366" column="66" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" />
-      <jump line="44" column="13" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/VideoActivity.java" />
       <jump line="60" column="34" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/VideoActivity.java" />
       <jump line="62" column="52" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/VideoActivity.java" />
       <jump line="63" column="24" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/VideoActivity.java" />
@@ -302,6 +300,11 @@
       <jump line="34" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" />
       <jump line="22" column="23" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="139" column="76" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="7" column="36" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="29" column="53" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
+      <jump line="42" column="27" filename="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -314,7 +317,7 @@
         <text>Torikumi</text>
       </register>
       <register name="/" type="4">
-        <text>Torikumi</text>
+        <text>Fragment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVUb3Jpa3VtaVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQsIGJvb2xlYW4gdmlzaWJsZVRvcmlrdW1pU2hhcmVUb29sVGlwKXsKICAgICAgICByZXR1cm4gcHV0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwLCB2aXNpYmxlVG9yaWt1bWlTaGFyZVRvb2xUaXApOwogICAgfQo=</text>
@@ -357,9 +360,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Torikumi</last-search>
+      <last-search>Fragment</last-search>
       <last-offset />
-      <last-pattern>Torikumi</last-pattern>
+      <last-pattern>Fragment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -386,6 +389,7 @@
         <entry>langu</entry>
         <entry>Oss</entry>
         <entry>Torikumi</entry>
+        <entry>Fragment</entry>
       </history-search>
       <history-cmd>
         <entry>onShare</entry>
