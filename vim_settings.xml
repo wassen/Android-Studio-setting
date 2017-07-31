@@ -14,7 +14,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501484845626">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/detail/SettingsActivity.java" timestamp="1501486120870">
         <mark key="a" line="147" column="46" />
         <mark key="'" line="149" column="46" />
         <mark key="[" line="36" column="0" />
@@ -101,8 +101,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501484667458">
-        <mark key="[" line="77" column="31" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501486166017">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="82" column="29" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1501479687035">
         <mark key="[" line="0" column="0" />
@@ -330,40 +333,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVUb3Jpa3VtaVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQsIGJvb2xlYW4gdmlzaWJsZVRvcmlrdW1pU2hhcmVUb29sVGlwKXsKICAgICAgICByZXR1cm4gcHV0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd1RvcmlrdW1pU2hhcmVUb29sdGlwLCB2aXNpYmxlVG9yaWt1bWlTaGFyZVRvb2xUaXApOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAqIFN5c3RlbSBkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwdXRWaXNpYmxlRmVhdHVyZVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gZ2V0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBwdXRWaXNpYmxlRmVhdHVyZVNoYXJlVG9vbFRpcChmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gZ2V0Qm9vbGVhbihjb250ZXh0LCBLZXlDb250YWluZXIuU2hvdWxkU2hvd0ZlYXR1cmVTaGFyZVRvb2x0aXApOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2xUaXAoZmluYWwgQ29udGV4dCBjb250ZXh0KXsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBnZXRUcnVlT25seU9uY2UoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBLZXlDb250YWluZXIga2V5KSB7CiAgICAgICAgZmluYWwgQm9vbGVhbiByZXN1bHQgPSBnZXRCb29sZWFuKGNvbnRleHQsIGtleSwgdHJ1ZSk7CiAgICAgICAgcHV0Qm9vbGVhbihjb250ZXh0LCBrZXkubmFtZSgpLCBmYWxzZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzaG91bGRTaG93VG9yaWt1bWlTaGFyZVRvb2xUaXAoZmluYWwgQ29udGV4dCBjb250ZXh0KXsKCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBnZXRUcnVlT25seU9uY2UoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBLZXlDb250YWluZXIga2V5KSB7CiAgICAgICAgZmluYWwgQm9vbGVhbiByZXN1bHQgPSBnZXRCb29sZWFuKGNvbnRleHQsIGtleSwgdHJ1ZSk7CiAgICAgICAgcHV0Qm9vbGVhbihjb250ZXh0LCBrZXkubmFtZSgpLCBmYWxzZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -418,9 +421,9 @@
         <entry>;w</entry>
         <entry>d</entry>
         <entry>call append(line('.'), '')</entry>
-        <entry>w</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
