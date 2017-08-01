@@ -103,11 +103,10 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501559678090">
-        <mark key="[" line="63" column="67" />
-        <mark key="]" line="63" column="67" />
-        <mark key="^" line="63" column="15" />
-        <mark key="." line="63" column="67" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501564321397">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1501479687035">
         <mark key="[" line="0" column="0" />
@@ -139,10 +138,10 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501557810387">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501564415619">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
@@ -339,46 +338,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">Y29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXRDb25maWd1cmF0aW9uKCkubG9jYWxlOyA=</text>
       </register>
       <register name="/" type="4">
         <text>Shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSHR0cFV0aWwuY2xlYXJDYWNoZShiYXNlQWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbGUgY29uTG9jYWxlID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXRDb25maWd1cmF0aW9uKCkubG9jYWxlOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGUgYWlpaSA9IGFjdGl2aXR5LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIUxvY2FsZUNvbXBhdC5nZXREZWZhdWx0KGFjdGl2aXR5KS5lcXVhbHMoYWN0aXZpdHkuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZSkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbGUgY29uTG9jYWxlID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXRDb25maWd1cmF0aW9uKCkubG9jYWxlOwogICAgICAgIExvY2FsZSBsb2NhbGUgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxlQ29tcGF0LnNldEFwcGxpY2F0aW9uTG9jYWxlKGFjdGl2aXR5LCBMb2NhbGVDb21wYXQuZ2V0RGVmYXVsdChhY3Rpdml0eSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbGUgY29uTG9jYWxlID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXRDb25maWd1cmF0aW9uKCkubG9jYWxlOwogICAgICAgIExvY2FsZSBsb2NhbGUyID0gY29uZi5sb2NhbGU7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUxvY2FsZUNvbXBhdC5nZXREZWZhdWx0KGFjdGl2aXR5KS5lcXVhbHMoYWN0aXZpdHkuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFN5c3RlbSBkCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbGUgYWlpaSA9IGFjdGl2aXR5LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGdldFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHB1dFZpc2libGVGZWF0dXJlU2hhcmVUb29sVGlwKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiBnZXRCb29sZWFuKGNvbnRleHQsIEtleUNvbnRhaW5lci5TaG91bGRTaG93RmVhdHVyZVNoYXJlVG9vbHRpcCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxlQ29tcGF0LnNldEFwcGxpY2F0aW9uTG9jYWxlKGFjdGl2aXR5LCBMb2NhbGVDb21wYXQuZ2V0RGVmYXVsdChhY3Rpdml0eSkpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
