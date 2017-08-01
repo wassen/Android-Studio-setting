@@ -103,11 +103,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501486166017">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="82" column="29" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501554631974">
+        <mark key="[" line="83" column="37" />
+        <mark key="]" line="83" column="37" />
+        <mark key="^" line="83" column="36" />
+        <mark key="." line="83" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1501479687035">
         <mark key="[" line="0" column="0" />
@@ -333,7 +333,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>baseActivity</text>
+        <text encoding="base64">IGlpZighU1lTVEVNX0RFRkFVTFQuZXF1YWxzKHZhbHVlKSwgdmFsdWUp</text>
       </register>
       <register name="/" type="4">
         <text>Shared</text>
