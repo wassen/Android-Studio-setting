@@ -12,7 +12,7 @@
       <file name="/a.dummy" timestamp="1501566895045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Locale.java" timestamp="1501578237077" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Locale.java" timestamp="1501640274737" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/delegate/logic/NotificationRestart.java" timestamp="1501497780711">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="58" />
@@ -39,11 +39,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501583762422">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501640313118">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/language/DefaultLanguage.java" timestamp="1501640184088" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501580724298">
         <mark key="[" line="64" column="3" />
         <mark key="]" line="64" column="4" />
@@ -157,7 +158,7 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501578106320">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501640145611">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
@@ -331,38 +332,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbGUgY29uTG9jYWxlID0gY29udGV4dC5nZXRSZXNvdXJjZXMoKS5nZXRDb25maWd1cmF0aW9uKCkubG9jYWxlOyAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIExvY2FsZS5nZXREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzb3VyY2VzLmdldFN5c3RlbSgpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGU7Cg==</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQERlcHJlY2F0ZWQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIExvY2FsZS5nZXREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUxvY2FsZUNvbXBhdC5nZXREZWZhdWx0KGFjdGl2aXR5KS5lcXVhbHMoYWN0aXZpdHkuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzb3VyY2VzLmdldFN5c3RlbSgpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUxvY2FsZUNvbXBhdC5nZXREZWZhdWx0KGFjdGl2aXR5KS5lcXVhbHMoYWN0aXZpdHkuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,7 +374,7 @@
       <last-offset />
       <last-pattern>Shared</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
