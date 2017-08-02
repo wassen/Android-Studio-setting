@@ -39,7 +39,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501640313118">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501641294376">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -158,7 +158,7 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501640145611">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501641307255">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
@@ -420,12 +420,12 @@
         <entry>tabn</entry>
         <entry>tabp</entry>
         <entry>q</entry>
-        <entry>;w</entry>
         <entry>d</entry>
         <entry>Unite buffer_tab -buffer-name=file</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
