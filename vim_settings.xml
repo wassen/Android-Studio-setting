@@ -13,7 +13,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Locale.java" timestamp="1501640274737" />
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/delegate/logic/NotificationRestart.java" timestamp="1501497780711">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/delegate/logic/NotificationRestart.java" timestamp="1501666236580">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="58" />
       </file>
@@ -194,14 +194,6 @@
         <mark key="]" line="235" column="27" />
         <mark key="." line="235" column="27" />
         <mark key="^" line="235" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/domain/video/LastPlayVideoInfo.java" timestamp="1501055371657">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="63" column="29" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/FragmentHostCallback.java" timestamp="1501224781609">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1501569166932">
         <mark key="[" line="0" column="0" />
