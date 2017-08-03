@@ -130,11 +130,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingsUtil.java" timestamp="1501752351287">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingsUtil.java" timestamp="1501760568301">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/docomo/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1500532710987">
         <mark key="[" line="24" column="0" />
@@ -148,14 +148,14 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501743284281">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/widget/mediacontroller/ConfigProviderFactory.java" timestamp="1501760579381">
         <mark key="a" line="26" column="23" />
         <mark key="'" line="22" column="23" />
-        <mark key="[" line="33" column="78" />
-        <mark key="]" line="33" column="85" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="25" />
         <mark key="m" line="26" column="39" />
-        <mark key="^" line="33" column="85" />
-        <mark key="." line="33" column="85" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1501730421920">
         <mark key="[" line="0" column="0" />
@@ -357,7 +357,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
         <text>Feature</text>
