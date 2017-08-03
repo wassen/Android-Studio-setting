@@ -54,10 +54,10 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501739603213">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501745464494">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="74" />
-        <mark key="." line="63" column="0" />
+        <mark key="." line="64" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/infra/language/DefaultLanguage.java" timestamp="1501670592714">
         <mark key="[" line="16" column="0" />
@@ -134,7 +134,7 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureDetailFragment.java" timestamp="1501742959780">
         <mark key="'" line="67" column="54" />
-        <mark key="[" line="143" column="90" />
+        <mark key="[" line="141" column="90" />
         <mark key="]" line="136" column="93" />
         <mark key="." line="136" column="93" />
         <mark key="^" line="136" column="93" />
@@ -239,10 +239,8 @@
         <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/res/values-ja/string_translate.xml" timestamp="1501743244714">
-        <mark key="[" line="171" column="62" />
-        <mark key="]" line="171" column="64" />
-        <mark key="." line="172" column="3" />
-        <mark key="^" line="172" column="3" />
+        <mark key="." line="171" column="3" />
+        <mark key="^" line="171" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegate.java" timestamp="1499671571125">
         <mark key="[" line="14" column="120" />
@@ -261,11 +259,6 @@
         <mark key="]" line="235" column="27" />
         <mark key="." line="235" column="27" />
         <mark key="^" line="235" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/res/values/string_translate.xml" timestamp="1501743325311">
-        <mark key="[" line="170" column="58" />
-        <mark key="]" line="170" column="76" />
-        <mark key="." line="170" column="64" />
       </file>
       <file name="/fragment.java" timestamp="1501738103716">
         <mark key="[" line="0" column="0" />
@@ -423,7 +416,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9jYWxlLmdldERlZmF1bHQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -486,6 +479,7 @@
         <entry>set nopaste</entry>
         <entry>;w</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
