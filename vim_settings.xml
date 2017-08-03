@@ -9,11 +9,6 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ToolTipPreferences.java" timestamp="1501127489569">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1501566895045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,18 +30,13 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501134800864">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500874214493">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501727476965">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501728663575">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="74" />
         <mark key="." line="63" column="0" />
@@ -68,11 +58,6 @@
         <mark key="]" line="57" column="122" />
         <mark key="." line="57" column="122" />
         <mark key="^" line="57" column="129" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/BaseFragmentHostCallback.java" timestamp="1501225190949">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/navigation/NavigationAdapter.java" timestamp="1501556468443" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/application/SumoApplication.java" timestamp="1501673610053">
@@ -181,7 +166,7 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501670941351">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501728739314">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -225,7 +210,7 @@
         <mark key="." line="235" column="27" />
         <mark key="^" line="235" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1501727642818">
+      <file name="/fragment.java" timestamp="1501728387698">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
