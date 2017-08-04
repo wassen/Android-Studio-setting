@@ -351,7 +351,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>put</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Feature</text>
