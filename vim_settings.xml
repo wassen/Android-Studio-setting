@@ -32,7 +32,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501835139498" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/LocaleCompat.java" timestamp="1501841323663">
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="16" />
+        <mark key="^" line="72" column="15" />
+        <mark key="." line="74" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/TooltipUtil.java" timestamp="1501580724298">
         <mark key="[" line="64" column="3" />
         <mark key="]" line="64" column="4" />
@@ -147,7 +152,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceManager.java" timestamp="1501497506671" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/Configuration.java" timestamp="1501834437227" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/Configuration.java" timestamp="1501841844104" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/build/generated/source/apt/google/debug/jp/dwango/sumo/databinding/CardArticlesBinding.java" timestamp="1500874012356">
         <mark key="[" line="17" column="76" />
         <mark key="]" line="17" column="78" />
@@ -214,7 +219,7 @@
       <file name="/fragment.java" timestamp="1501838470119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/ResourcesImpl.java" timestamp="1501838509760">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/ResourcesImpl.java" timestamp="1501841741001">
         <mark key="[" line="120" column="68" />
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
@@ -331,13 +336,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>Feature</text>
       </register>
-      <register name="0" type="4">
-        <text>keyId(R.string.preference_key_should_show_torikumi_share_tool_tip)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbGUgbSA9IGNvbnRleHQuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICBzdGF0aWMgew==</text>
@@ -394,7 +399,7 @@
       <last-offset />
       <last-pattern>Feature</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -445,12 +450,12 @@
         <entry>tabp</entry>
         <entry>d</entry>
         <entry>Unite buffer_tab -buffer-name=file</entry>
-        <entry>noh</entry>
-        <entry>set nopaste</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>noh</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
