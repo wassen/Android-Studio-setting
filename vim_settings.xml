@@ -9,6 +9,11 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/honbasho/torikumi/ToolTipPreferences.java" timestamp="1501127489569">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1501566895045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +31,11 @@
         <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/route/Route.java" timestamp="1501732293107" />
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/ShouldShowShareTooltip.java" timestamp="1501134800864">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewFactory.java" timestamp="1500874214493">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -57,13 +67,17 @@
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
         <mark key="." line="20" column="39" />
-        <mark key="^" line="21" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
         <mark key="." line="57" column="122" />
         <mark key="^" line="57" column="129" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/util/BaseFragmentHostCallback.java" timestamp="1501225190949">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/navigation/NavigationAdapter.java" timestamp="1501836645686">
         <mark key="[" line="162" column="8" />
@@ -164,7 +178,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceManager.java" timestamp="1501497506671" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/Configuration.java" timestamp="1501841844104" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/Configuration.java" timestamp="1502350180309" />
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/build/generated/source/apt/google/debug/jp/dwango/sumo/databinding/CardArticlesBinding.java" timestamp="1500874012356">
         <mark key="[" line="17" column="76" />
         <mark key="]" line="17" column="78" />
@@ -232,7 +246,7 @@
         <mark key="^" line="235" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/activities/delegate/logic/VideoShare.java" timestamp="1502163025090" />
-      <file name="/fragment.java" timestamp="1501838470119">
+      <file name="/fragment.java" timestamp="1502350540081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/res/ResourcesImpl.java" timestamp="1501841741001">
