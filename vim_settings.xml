@@ -53,6 +53,12 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Fragment.java" timestamp="1501221862569">
         <mark key="'" line="807" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/AndroidManifest.xml" timestamp="1502338111460">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="21" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/feature/FeatureShareDelegateImpl.java" timestamp="1499673051722">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="122" />
@@ -154,7 +160,7 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501826653760">
+      <file name="/Dummy.txt" timestamp="1502338127177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/preference/PreferenceManager.java" timestamp="1501497506671" />
@@ -346,7 +352,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>onShare</text>
@@ -354,16 +360,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbGUgbSA9IGNvbnRleHQuZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLmxvY2FsZTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBzdGF0aWMgew==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZz0iQHhtbC9uZXR3b3JrX3NlY3VyaXR5X2NvbmZpZyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBzdGF0aWMgew==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>FeatureShareToolTip(final Context context) {
         return getBoolean(context, KeyContainer.ShouldShowFeatureShareTooltip, true);
     }
@@ -379,26 +388,23 @@
         ShouldShowFeatureShareTooltip(R.string.preference_key_should_show_feature_share_tool_tip);
         private final String</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJlZmVyZW5jZV9rZXlfc2hvdWxkX3Nob3dfdG9yaWt1bWlfc2hhcmVfdG9vbF90aXAiIHRyYW5zbGF0YWJsZT0iZmFsc2UiPmtleV9zaG91bGRfc2hvd190b3Jpa3VtaV9zaGFyZV90b29sX3RpcDwvc3RyaW5nPgoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJhY2tpbmdJdGVtRmFjdG9yeS5jcmVhdGVGZWF0dXJlVmlkZW9TaGFyZVRyYWNraW5nSXRlbShpbmZvLnRpdGxlLCBpbmZvLmlkKCkpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldEZlYXR1cmVWaWRlb0luZm8oKS5mb3JlYWNoRG9FZmZlY3QoaW5mbyAtPgogICAgICAgICAgICBFdmVudFRyYWNrZXIudHJhY2tpbmcoVHJhY2tpbmdJdGVtRmFjdG9yeQogICAgICAgICAgICAuY3JlYXRlRmVhdHVyZVZpZGVvVHJhY2tpbmdJdGVtKGluZm8udGl0bGUsIGluZm8uaWQpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJhY2tpbmdJdGVtRmFjdG9yeS5jcmVhdGVGZWF0dXJlVmlkZW9TaGFyZVRyYWNraW5nSXRlbShpbmZvLnRpdGxlLCBpbmZvLmlkKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVHJhY2tpbmdJdGVtIChmaW5hbCBTdHJpbmcgY29sdW1uSWQpIHsKICAgICAgICByZXR1cm4gbmV3IFRyYWNraW5nSXRlbShUcmFja2luZ1ZhbHVlcy5DYXRlZ29yeS5GRUFUVVJFX1ZJREVPLAogICAgICAgICAgICAgICAgT3B0aW9uLnNvbWUoKSwKICAgICAgICAgICAgICAgIE9wdGlvbi5ub25lKCkpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIGdldEZlYXR1cmVWaWRlb0luZm8oKS5mb3JlYWNoRG9FZmZlY3QoaW5mbyAtPgogICAgICAgICAgICBFdmVudFRyYWNrZXIudHJhY2tpbmcoVHJhY2tpbmdJdGVtRmFjdG9yeQogICAgICAgICAgICAuY3JlYXRlRmVhdHVyZVZpZGVvVHJhY2tpbmdJdGVtKGluZm8udGl0bGUsIGluZm8uaWQpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYWNraW5nVmFsdWVzLkFjdGlvbi5QTEFZLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVHJhY2tpbmdJdGVtIChmaW5hbCBTdHJpbmcgY29sdW1uSWQpIHsKICAgICAgICByZXR1cm4gbmV3IFRyYWNraW5nSXRlbShUcmFja2luZ1ZhbHVlcy5DYXRlZ29yeS5GRUFUVVJFX1ZJREVPLAogICAgICAgICAgICAgICAgT3B0aW9uLnNvbWUoKSwKICAgICAgICAgICAgICAgIE9wdGlvbi5ub25lKCkpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
