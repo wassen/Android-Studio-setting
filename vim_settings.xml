@@ -82,6 +82,12 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="105" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/application/SumoApplication.java" timestamp="1502360478079">
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="48" />
+        <mark key="^" line="49" column="48" />
+        <mark key="." line="49" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/contents/column/widget/adapter/ShowTanimachiOnlyInterface.kt" timestamp="1500876627881">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
@@ -103,22 +109,8 @@
         <mark key="." line="152" column="13" />
         <mark key="^" line="152" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/persistence/preference/SettingUtil.java" timestamp="1501750976269">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/parts/video/VideoFragment.java" timestamp="1502162978289">
         <mark key="'" line="399" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/infra/tracking/TrackingItemFactory.java" timestamp="1501750265062">
-        <mark key="'" line="23" column="37" />
-        <mark key="[" line="112" column="85" />
-        <mark key="]" line="112" column="86" />
-        <mark key="." line="112" column="86" />
-        <mark key="^" line="112" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/main/java/jp/dwango/sumo/app/contents/column/widget/ColumnArticleViewOfEachPlatform.java" timestamp="1500631934986">
         <mark key="[" line="12" column="44" />
@@ -194,7 +186,7 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1501837094546">
+      <file name="$USER_HOME$/workspace/github.com/kazuki-asayama-d/sumo-sumi/app/src/google/java/jp/dwango/sumo/app/activities/delegate/lifecycle/SetLocaleDelegates.java" timestamp="1502360635357">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="28" column="3" />
         <mark key="^" line="28" column="3" />
@@ -363,7 +355,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getLocales(0)</text>
       </register>
       <register name="/" type="4">
         <text>onShare</text>
