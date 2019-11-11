@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <EXCLUDED_PACKAGE NAME="android.service" />
+  </component>
+</application>
