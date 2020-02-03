@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Groovy/Closures/Replace For-In With Each" />
-  </component>
-</application>
