@@ -4,7 +4,7 @@
     <property name="created">2019-09-13T16:50:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2019-11-11T21:34:27</property>
+    <property name="modified">2020-04-17T19:56:39</property>
     <property name="originalScheme">_@user_Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -916,7 +916,6 @@
         <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
