@@ -163,7 +163,11 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_download_context.xml" timestamp="1587394789042">
         <mark key="'" line="165" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1587472239310" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1587474664755">
+        <mark key="[" line="99" column="50" />
+        <mark key="]" line="99" column="51" />
+        <mark key="." line="99" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LibraryViewModel.kt" timestamp="1587452623948">
         <mark key="'" line="91" column="12" />
       </file>
