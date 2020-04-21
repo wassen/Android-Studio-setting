@@ -407,7 +407,7 @@
       <last-replace>id</last-replace>
       <last-substitute>playerIsPlaying</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
