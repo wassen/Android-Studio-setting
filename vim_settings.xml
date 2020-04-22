@@ -152,12 +152,9 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/webapi/download/DownloadUsecase.kt" timestamp="1587565423221">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="100" column="24" />
-        <mark key="." line="100" column="23" />
-        <mark key="^" line="100" column="24" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/webapi/download/DownloadUsecase.kt" timestamp="1587565928328">
+        <mark key="'" line="102" column="0" />
+        <mark key="^" line="97" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" timestamp="1587561958225">
         <mark key="'" line="108" column="0" />
@@ -330,8 +327,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>viewLibraryList</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3TGlicmFyeUxpc3QuZHJtRGlyCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -340,7 +337,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>artistName</text>
+        <text>Location</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -349,7 +346,7 @@
         <text encoding="base64">XDxkaXJUeXBlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>viewLibraryList</text>
+        <text>packageName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3TGlicmFyeUxpc3QuZHJtRGlyCg==</text>
@@ -378,10 +375,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkcm1EaXIK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TGlicmFyeUxpc3QuZHJtRGlyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcm1EaXIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,16 +387,16 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIHByaXZhdGUgZnVuIHRhcmdldFBhdGgodmlld0xpYnJhcnlMaXN0OiBWaWV3TGlicmFyeUxpc3QpIHsK</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIHByaXZhdGUgZnVuIHRhcmdldFBhdGgodmlld0xpYnJhcnlMaXN0OiBWaWV3TGlicmFyeUxpc3QpIHsK</text>
