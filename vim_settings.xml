@@ -27,6 +27,7 @@
         <entry>drmtype</entry>
         <entry encoding="base64">XDxhdWRpb1R5cGVcPg==</entry>
         <entry encoding="base64">XDxkaXJUeXBlXD4=</entry>
+        <entry>removed</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -140,10 +141,8 @@
         <mark key="." line="262" column="25" />
         <mark key="^" line="262" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" timestamp="1590641459242">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="37" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" timestamp="1591000203397">
+        <mark key="'" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" timestamp="1590639408721">
         <mark key="[" line="163" column="28" />
@@ -155,13 +154,6 @@
         <mark key="'" line="108" column="0" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="116" column="71" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/migration/MigrationManager.kt" timestamp="1587561420006">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="192" column="24" />
-        <mark key="]" line="192" column="26" />
-        <mark key="^" line="192" column="26" />
-        <mark key="." line="192" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1590751194059">
         <mark key="'" line="133" column="16" />
@@ -194,13 +186,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" timestamp="1590736584198">
         <mark key="'" line="399" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1590998879537">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="166" column="45" />
-        <mark key="]" line="165" column="53" />
-        <mark key="^" line="165" column="53" />
-        <mark key="." line="166" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/WallpaperGridViewModel.kt" timestamp="1590641488134">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
@@ -225,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="15" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" />
       <jump line="57" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="186" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
@@ -325,6 +309,7 @@
       <jump line="32" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="60" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +339,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>enqueue</text>
+        <text>removed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9hZGRfcGxheWxpc3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0iQHtwbGF5ZXJWaWV3TW9kZWw6Om9uQ2xpY2tCdXR0b25BZGRQbGF5bGlzdH0iCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpbnQ9IkBjb2xvci93aGl0ZSIKICAgICAgICAgICAgICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9pY19wbGF5bGlzdF9hZGRfYmxhY2tfMjRkcCIgLz4K</text>
@@ -422,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>enqueue</last-search>
+      <last-search>removed</last-search>
       <last-offset />
-      <last-pattern>enqueue</last-pattern>
+      <last-pattern>removed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
