@@ -33,6 +33,8 @@
         <entry>filepath</entry>
         <entry>deletecontent</entry>
         <entry>content</entry>
+        <entry encoding="base64">XDxCQUNLR1JPVU5EX1dBTExQQVBFUl9QQVRURVJOXD4=</entry>
+        <entry encoding="base64">XDxEUk1fU0lOR0xFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -53,9 +55,9 @@
         <entry>LspDefinition</entry>
         <entry>w;w</entry>
         <entry>59</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,9 +131,10 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1591016086159">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591102270172">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="62" column="95" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591104440488">
+        <mark key="'" line="248" column="8" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/AlarmReceiver.kt" timestamp="1590725936851">
         <mark key="'" line="8" column="60" />
@@ -168,12 +171,6 @@
         <mark key="]" line="37" column="7" />
         <mark key="." line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/WallpaperGridViewModel.kt" timestamp="1590641488134">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" timestamp="1590736452993">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="100" column="0" />
@@ -205,19 +202,11 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" timestamp="1590751850920">
         <mark key="'" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" timestamp="1591104283550">
+        <mark key="'" line="12" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/activity_main.xml" />
-      <jump line="86" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
-      <jump line="202" column="46" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
       <jump line="112" column="100" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
       <jump line="74" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
       <jump line="67" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
@@ -307,6 +296,17 @@
       <jump line="84" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="81" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="36" column="58" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="219" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="229" column="38" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="233" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="39" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="267" column="41" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="281" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
+      <jump line="14" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" />
+      <jump line="248" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,8 +320,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBTRVNTSU9OX0lEID0gInNlc3Npb25faWQiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQUNDRVNTX1RPS0VOID0gImFjY2Vzc190b2tlbiIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFWFBJUkVTX0lOID0gImV4cGlyZXNfaW4iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgUFVSQ0hBU0VfSElTVE9SWV9VUERBVEVEX1RJTUUgPSAicHVyY2hhc2VfaGlzdG9yeV91cGRhdGVkX3RpbWUiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgUFVSQ0hBU0VfSElTVE9SWV9TWU5DX1BST0dSRVNTID0gInB1cmNoYXNlX2hpc3Rvcnlfc3luY19wcm9ncmVzcyIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBQVVJDSEFTRV9ISVNUT1JZX1NZTkNfTE9HSU4gPSAicHVyY2hhc2VfaGlzdG9yeV9zeW5jX2xvZ2luIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERPV05MT0FEX0xJU1RfU09SVF9PUkRFUiA9ICJkb3dubG9hZF9saXN0X3NvcnRfb3JkZXIiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQUxBUk1fTElTVF9TT1JUX09SREVSID0gImFsYXJtX2xpc3Rfc29ydF9vcmRlciIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBXQUxMUEFQRVJfQ0lQSEVSX1NFRUQgPSAid2FsbHBhcGVyX2NpcGhlcl9zZWVkIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFNIT1VMRF9TSE9XX0xPR0lOX0NPTkZJUk1BVElPTl9TSEVFVCA9ICJzaG91bGRfc2hvd19sb2dpbl9jb25maXJtYXRpb25fc2hlZXQiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgU0hPVUxEX0RPX01JR1JBVElPTiA9ICJzaG91bGRfZG9fbWlncmF0aW9uIgoKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBCQUNLR1JPVU5EX1dBTExQQVBFUl9QQVRURVJOID0gImJhY2tncm91bmRfd2FsbHBhcGVyX3BhdHRlcm4iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQkFDS0dST1VORF9XQUxMUEFQRVJfV0hFUkVfVE9fU0VUID0gImJhY2tncm91bmRfd2FsbHBhcGVyX3doZXJlX3RvX3NldCIKCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgRFJNX1NJTkdMRSA9ICJkcm1fc2luZ2xlIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERSTV9UUlVFVE9ORSA9ICJkcm1fdHJ1ZXRvbmUiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgRFJNX1ZPSUNFID0gImRybV92b2ljZSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBEUk1fV0FMTFBBUEVSID0gImRybV93YWxscGFwZXIiCgoKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9SSU5HVE9ORV9TVFJFQU0gPSAiZGV2aWNlX2ZlYXR1cmVfcmluZ3RvbmVfc3RyZWFtIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX1BMQVlSRUFEWV9NT0RVTEUgPSAiZGV2aWNlX2ZlYXR1cmVfcGxheXJlYWR5TW9kdWxlIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX1dBTExQQVBFUiA9ICJkZXZpY2VfZmVhdHVyZV93YWxscGFwZXIiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfV0FMTFBBUEVSX0xPQ0sgPSAiZGV2aWNlX2ZlYXR1cmVfd2FsbHBhcGVyTG9jayIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9XQUxMUEFQRVJfSE9NRSA9ICJkZXZpY2VfZmVhdHVyZV93YWxscGFwZXJIb21lIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0NBUlJJRVJfTUFJTCA9ICJkZXZpY2VfZmVhdHVyZV9jYXJyaWVyTWFpbCIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9HTUFJTCA9ICJkZXZpY2VfZmVhdHVyZV9nbWFpbCIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9TTVMgPSAiZGV2aWNlX2ZlYXR1cmVfc21zIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0lOVEVSTkFMX1BMQVlFUiA9ICJkZXZpY2VfZmVhdHVyZV9pbnRlcm5hbFBsYXllciIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9BTEFSTSA9ICJkZXZpY2VfZmVhdHVyZV9hbGFybSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9WSURFTyA9ICJkZXZpY2VfZmVhdHVyZV92aWRlbyIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9MSU5FX0NBTEwgPSAiZGV2aWNlX2ZlYXR1cmVfbGluZUNhbGwiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfTElORV9DSEFUID0gImRldmljZV9mZWF0dXJlX2xpbmVDaGF0IgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0ZBQ0VCT09LX0NIQVQgPSAiZGV2aWNlX2ZlYXR1cmVfZmFjZWJvb2tDaGF0IgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0xJTkVfQ0FMTF9TVFJFQU1fQUxBUk0gPQogICAgICAgICAgICAiZGV2aWNlX2ZlYXR1cmVfbGluZUNhbGxTdHJlYW1BbGFybSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9MSU5FX0NIQVRfU09MTyA9ICJkZXZpY2VfZmVhdHVyZV9saW5lQ2hhdFNvbG8iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfRkFDRUJPT0tfQ0hBVF9TT0xPID0gImRldmljZV9mZWF0dXJlX2ZhY2Vib29rQ2hhdFNvbG8iCg==</text>
+      <register name="*" type="4">
+        <text>BACKGROUND_WALLPAPER_PATTERN</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -336,10 +336,10 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>content</text>
+        <text encoding="base64">XDxEUk1fU0lOR0xFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBTRVNTSU9OX0lEID0gInNlc3Npb25faWQiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQUNDRVNTX1RPS0VOID0gImFjY2Vzc190b2tlbiIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFWFBJUkVTX0lOID0gImV4cGlyZXNfaW4iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgUFVSQ0hBU0VfSElTVE9SWV9VUERBVEVEX1RJTUUgPSAicHVyY2hhc2VfaGlzdG9yeV91cGRhdGVkX3RpbWUiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgUFVSQ0hBU0VfSElTVE9SWV9TWU5DX1BST0dSRVNTID0gInB1cmNoYXNlX2hpc3Rvcnlfc3luY19wcm9ncmVzcyIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBQVVJDSEFTRV9ISVNUT1JZX1NZTkNfTE9HSU4gPSAicHVyY2hhc2VfaGlzdG9yeV9zeW5jX2xvZ2luIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERPV05MT0FEX0xJU1RfU09SVF9PUkRFUiA9ICJkb3dubG9hZF9saXN0X3NvcnRfb3JkZXIiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQUxBUk1fTElTVF9TT1JUX09SREVSID0gImFsYXJtX2xpc3Rfc29ydF9vcmRlciIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBXQUxMUEFQRVJfQ0lQSEVSX1NFRUQgPSAid2FsbHBhcGVyX2NpcGhlcl9zZWVkIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFNIT1VMRF9TSE9XX0xPR0lOX0NPTkZJUk1BVElPTl9TSEVFVCA9ICJzaG91bGRfc2hvd19sb2dpbl9jb25maXJtYXRpb25fc2hlZXQiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgU0hPVUxEX0RPX01JR1JBVElPTiA9ICJzaG91bGRfZG9fbWlncmF0aW9uIgoKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBCQUNLR1JPVU5EX1dBTExQQVBFUl9QQVRURVJOID0gImJhY2tncm91bmRfd2FsbHBhcGVyX3BhdHRlcm4iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgQkFDS0dST1VORF9XQUxMUEFQRVJfV0hFUkVfVE9fU0VUID0gImJhY2tncm91bmRfd2FsbHBhcGVyX3doZXJlX3RvX3NldCIKCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgRFJNX1NJTkdMRSA9ICJkcm1fc2luZ2xlIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERSTV9UUlVFVE9ORSA9ICJkcm1fdHJ1ZXRvbmUiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgRFJNX1ZPSUNFID0gImRybV92b2ljZSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBEUk1fV0FMTFBBUEVSID0gImRybV93YWxscGFwZXIiCgoKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9SSU5HVE9ORV9TVFJFQU0gPSAiZGV2aWNlX2ZlYXR1cmVfcmluZ3RvbmVfc3RyZWFtIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX1BMQVlSRUFEWV9NT0RVTEUgPSAiZGV2aWNlX2ZlYXR1cmVfcGxheXJlYWR5TW9kdWxlIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX1dBTExQQVBFUiA9ICJkZXZpY2VfZmVhdHVyZV93YWxscGFwZXIiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfV0FMTFBBUEVSX0xPQ0sgPSAiZGV2aWNlX2ZlYXR1cmVfd2FsbHBhcGVyTG9jayIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9XQUxMUEFQRVJfSE9NRSA9ICJkZXZpY2VfZmVhdHVyZV93YWxscGFwZXJIb21lIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0NBUlJJRVJfTUFJTCA9ICJkZXZpY2VfZmVhdHVyZV9jYXJyaWVyTWFpbCIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9HTUFJTCA9ICJkZXZpY2VfZmVhdHVyZV9nbWFpbCIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9TTVMgPSAiZGV2aWNlX2ZlYXR1cmVfc21zIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0lOVEVSTkFMX1BMQVlFUiA9ICJkZXZpY2VfZmVhdHVyZV9pbnRlcm5hbFBsYXllciIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9BTEFSTSA9ICJkZXZpY2VfZmVhdHVyZV9hbGFybSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9WSURFTyA9ICJkZXZpY2VfZmVhdHVyZV92aWRlbyIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9MSU5FX0NBTEwgPSAiZGV2aWNlX2ZlYXR1cmVfbGluZUNhbGwiCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfTElORV9DSEFUID0gImRldmljZV9mZWF0dXJlX2xpbmVDaGF0IgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0ZBQ0VCT09LX0NIQVQgPSAiZGV2aWNlX2ZlYXR1cmVfZmFjZWJvb2tDaGF0IgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFVklDRV9GRUFUVVJFX0xJTkVfQ0FMTF9TVFJFQU1fQUxBUk0gPQogICAgICAgICAgICAiZGV2aWNlX2ZlYXR1cmVfbGluZUNhbGxTdHJlYW1BbGFybSIKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERVZJQ0VfRkVBVFVSRV9MSU5FX0NIQVRfU09MTyA9ICJkZXZpY2VfZmVhdHVyZV9saW5lQ2hhdFNvbG8iCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgREVWSUNFX0ZFQVRVUkVfRkFDRUJPT0tfQ0hBVF9TT0xPID0gImRldmljZV9mZWF0dXJlX2ZhY2Vib29rQ2hhdFNvbG8iCg==</text>
+      <register name="0" type="4">
+        <text>BACKGROUND_WALLPAPER_PATTERN</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgdmFsIHZpZXdDb250ZW50ID0gY29udGVudERhby5maW5kTGlicmFyeUJ5Q29udGVudElkKGNvbnRlbnQuY29udGVudElkKQoKICAgICAgICB2YWwgcmVzdWx0VXJpID0gaW5zZXJ0TWVkaWFTdG9yZShjb250ZXh0LCB2aWV3Q29udGVudCkKCiAgICAgICAgaWYgKHN0YXR1cyA9PSBEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1NVQ0NFU1NGVUwpIHsKICAgICAgICAgICAgY29udGVudC5kb3dubG9hZFN0YXR1cyA9IERvd25sb2FkU3RhdHVzLlNVQ0NFU1NGVUwKICAgICAgICAgICAgY29udGVudC5kb3dubG9hZENvdW50ICs9IDEKCiAgICAgICAgICAgIGRybVR5cGVCeUNvbnRlbnRJZChjb250ZW50LmNvbnRlbnRJZCk/LmxldCB7IGRybVR5cGUgLT4KICAgICAgICAgICAgICAgIHZhbCBsaWNlbnNlUmVxdWVzdGluZ0NvbnRlbnREYW86IExpY2Vuc2VSZXF1ZXN0aW5nQ29udGVudERhbyBieSBpbmplY3QoKQoKICAgICAgICAgICAgICAgIGxpY2Vuc2VSZXF1ZXN0aW5nQ29udGVudERhby51cHNlcnQoCiAgICAgICAgICAgICAgICAgICAgTGljZW5zZVJlcXVlc3RpbmdDb250ZW50KGNvbnRlbnQuY29udGVudElkKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZW5xdWV1ZUxpY2Vuc2VXb3JrZXIoY29udGVudC5jb250ZW50SWQsIGRybVR5cGUpCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKHN0YXR1cyA9PSBEb3dubG9hZE1hbmFnZXIuU1RBVFVTX0ZBSUxFRCkgewogICAgICAgICAgICAvLyBDb21wbGV0ZVJlY2VpdmVy44Gq44Gu44Gn44GT44GT44Gr5p2l44KL44GT44Go44Gv54Sh44GE44Gv44GaCiAgICAgICAgICAgIGNvbnRlbnQuZG93bmxvYWRTdGF0dXMgPSBEb3dubG9hZFN0YXR1cy5VTl9ET1dOTE9BREVECiAgICAgICAgfQoKICAgICAgICBjb250ZW50LmNvcHkoCiAgICAgICAgICAgIG1lZGlhU3RvcmVQYXRoID0gcmVzdWx0VXJpLnRvU3RyaW5nKCksCiAgICAgICAgICAgIGRvd25sb2FkU3RhdHVzID0gd2hlbiAoc3RhdHVzKSB7CiAgICAgICAgICAgICAgICBEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1NVQ0NFU1NGVUwgLT4gRG93bmxvYWRTdGF0dXMuU1VDQ0VTU0ZVTAogICAgICAgICAgICAgICAgLy8gQ29tcGxldGVSZWNlaXZlcuOBquOBruOBp+OBk+OBk+OBq+adpeOCi+OBk+OBqOOBr+eEoeOBhOOBr+OBmgogICAgICAgICAgICAgICAgRG93bmxvYWRNYW5hZ2VyLlNUQVRVU19GQUlMRUQgLT4gRG93bmxvYWRTdGF0dXMuVU5fRE9XTkxPQURFRAogICAgICAgICAgICAgICAgZWxzZSAtPiBjb250ZW50LmRvd25sb2FkU3RhdHVzCiAgICAgICAgICAgIH0KICAgICAgICApCgogICAgICAgIGNvbnRlbnREYW8udXBkYXRlQ29udGVudChjb250ZW50KQo=</text>
@@ -398,17 +398,17 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>content</last-search>
+      <last-search encoding="base64">XDxEUk1fU0lOR0xFXD4=</last-search>
       <last-offset />
-      <last-pattern>content</last-pattern>
+      <last-pattern encoding="base64">XDxEUk1fU0lOR0xFXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
