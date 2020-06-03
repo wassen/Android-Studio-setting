@@ -143,13 +143,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/migration/MigrationManager.kt" timestamp="1591168274647">
         <mark key="'" line="349" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1591027185673">
-        <mark key="'" line="134" column="61" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="17" />
-        <mark key="." line="130" column="17" />
-        <mark key="^" line="130" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" timestamp="1591105249596">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="32" />
@@ -166,10 +159,6 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="23" column="213" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" timestamp="1591028482538">
-        <mark key="'" line="564" column="13" />
-        <mark key="^" line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1591109834833">
         <mark key="[" line="54" column="95" />
         <mark key="]" line="54" column="97" />
@@ -183,6 +172,10 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DomainManagerWrapper.kt" timestamp="1591169359881">
+        <mark key="'" line="37" column="26" />
+      </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/jp.dwango/lib-playready-go-debug/1.1.7-SNAPSHOT/c141ec4763382089481d1f46f133583af830f017/lib-playready-go-debug-1.1.7-SNAPSHOT-sources.jar!/jp/dwango/playready_go/playready/logic/pcs/PcsDomainManager.java" timestamp="1591169404638" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/DBInitializer.kt" timestamp="1591111343358">
         <mark key="'" line="41" column="24" />
       </file>
@@ -210,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="252" column="49" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="173" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="170" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
@@ -310,6 +302,7 @@
       <jump line="350" column="31" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/migration/MigrationManager.kt" />
       <jump line="371" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/migration/MigrationManager.kt" />
       <jump line="349" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/migration/MigrationManager.kt" />
+      <jump line="37" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DomainManagerWrapper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
