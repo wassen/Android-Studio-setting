@@ -53,6 +53,7 @@
         <entry>prefe</entry>
         <entry>delete</entry>
         <entry>Delete</entry>
+        <entry>getuserinfo</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -73,9 +74,9 @@
         <entry>LspDefinition</entry>
         <entry>w;w</entry>
         <entry>59</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -220,13 +221,15 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1591194594768">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1591257146051">
+        <mark key="'" line="124" column="0" />
         <mark key="[" line="114" column="71" />
         <mark key="]" line="114" column="78" />
         <mark key="^" line="114" column="78" />
         <mark key="." line="114" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591185632791">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591257255353">
+        <mark key="'" line="106" column="27" />
         <mark key="[" line="105" column="29" />
         <mark key="]" line="105" column="36" />
         <mark key="." line="105" column="35" />
@@ -234,11 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
-      <jump line="84" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="36" column="58" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
       <jump line="219" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
@@ -334,6 +332,11 @@
       <jump line="114" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
       <jump line="249" column="5" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="120" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="106" column="27" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,7 +366,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Delete</text>
+        <text>getuserinfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZW50UmVwb3NpdG9yeS5kZWxldGVEb3dubG9hZENvbnRlbnQoKQo=</text>
@@ -425,15 +428,15 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Delete</last-search>
+      <last-search>getuserinfo</last-search>
       <last-offset />
-      <last-pattern>Delete</last-pattern>
+      <last-pattern>getuserinfo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
