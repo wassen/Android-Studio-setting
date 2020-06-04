@@ -146,18 +146,8 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" timestamp="1591192852362">
         <mark key="'" line="114" column="16" />
-        <mark key="[" line="195" column="22" />
-        <mark key="]" line="195" column="22" />
-        <mark key="." line="195" column="22" />
-        <mark key="^" line="196" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DeviceRepository.kt" timestamp="1591168190593" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591192897487">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="92" column="20" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" timestamp="1591111991094">
         <mark key="'" line="161" column="28" />
       </file>
@@ -229,7 +219,7 @@
         <mark key="." line="114" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591257255353">
-        <mark key="'" line="106" column="27" />
+        <mark key="'" line="105" column="27" />
         <mark key="[" line="105" column="29" />
         <mark key="]" line="105" column="36" />
         <mark key="." line="105" column="35" />
