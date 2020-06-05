@@ -193,12 +193,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591336350516">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="142" column="33" />
-        <mark key="]" line="142" column="49" />
-        <mark key="." line="142" column="48" />
-        <mark key="^" line="142" column="49" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591354009300">
+        <mark key="[" line="154" column="26" />
+        <mark key="]" line="154" column="26" />
+        <mark key="." line="154" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" timestamp="1591111991094">
         <mark key="'" line="161" column="28" />
@@ -360,7 +358,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>(Dispatchers.Default)</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -369,7 +367,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>(Dispatchers.Default)</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
