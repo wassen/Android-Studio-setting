@@ -197,12 +197,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591334546958">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591336350516">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="139" column="53" />
-        <mark key="]" line="139" column="64" />
-        <mark key="." line="139" column="63" />
-        <mark key="^" line="139" column="64" />
+        <mark key="[" line="142" column="33" />
+        <mark key="]" line="142" column="49" />
+        <mark key="." line="142" column="48" />
+        <mark key="^" line="142" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" timestamp="1591111991094">
         <mark key="'" line="161" column="28" />
@@ -242,11 +242,11 @@
         <mark key="^" line="114" column="78" />
         <mark key="." line="114" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591288589673">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591336328814">
         <mark key="'" line="158" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -363,8 +363,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -373,7 +373,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -382,10 +382,10 @@
         <text encoding="base64">XDxVU0VSX0lEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICBwcmVmZXJlbmNlcy5nZXRTdHJpbmcoVVNFUl9JRCwgIiIpISEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHByZXZpb3VzVXNlcklkID0gcHJlZmVyZW5jZXNEYW8udXNlcklkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,10 +411,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFN0cmluZyhBQ0NFU1NfVE9LRU4sIGFjY2Vzc1Rva2VuLnRva2VuKQogICAgICAgICAgICAgICAgcHV0SW50KEVYUElSRVNfSU4sIGFjY2Vzc1Rva2VuLmV4cGlyZXNJbikK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHByZWZlcmVuY2VzRGFvLnVzZXJJZCA9IHVzZXJJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAgcHJlZmVyZW5jZXMuZ2V0U3RyaW5nKFVTRVJfSUQsICIiKSEhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFN0cmluZyhBQ0NFU1NfVE9LRU4sIGFjY2Vzc1Rva2VuLnRva2VuKQogICAgICAgICAgICAgICAgcHV0SW50KEVYUElSRVNfSU4sIGFjY2Vzc1Rva2VuLmV4cGlyZXNJbikK</text>
@@ -423,19 +423,19 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAgcHJlZmVyZW5jZXMuZ2V0U3RyaW5nKFVTRVJfSUQsICIiKSEhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFN0cmluZyhBQ0NFU1NfVE9LRU4sIGFjY2Vzc1Rva2VuLnRva2VuKQogICAgICAgICAgICAgICAgcHV0SW50KEVYUElSRVNfSU4sIGFjY2Vzc1Rva2VuLmV4cGlyZXNJbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4cGlyZXNJbiA9IHByZWZlcmVuY2VzLmdldEludChFWFBJUkVTX0lOLCAtMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzog6YCa5L+h44GM5aSx5pWX44GX44Gf44KJ5YWI44Gr6YCy44KT44Gn44G744GX44GP44Gq44GECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHByZXZpb3VzVXNlcklkID0gcHJlZmVyZW5jZURhby5nZXRVc2VySUQoKSA/OiB0aHJvdyBFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4cGlyZXNJbiA9IHByZWZlcmVuY2VzLmdldEludChFWFBJUkVTX0lOLCAtMSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
