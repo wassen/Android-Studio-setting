@@ -92,9 +92,9 @@
         <entry>59</entry>
         <entry>119</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -169,12 +169,12 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" timestamp="1591362696678">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" timestamp="1591607991945">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="114" column="17" />
-        <mark key="]" line="114" column="18" />
-        <mark key="^" line="114" column="17" />
-        <mark key="." line="114" column="18" />
+        <mark key="[" line="177" column="14" />
+        <mark key="]" line="177" column="26" />
+        <mark key="^" line="177" column="26" />
+        <mark key="." line="177" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1591194038383">
         <mark key="[" line="54" column="0" />
@@ -438,7 +438,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
@@ -448,7 +448,7 @@
       <last-offset />
       <last-pattern>get</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
