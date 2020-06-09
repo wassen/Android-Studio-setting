@@ -42,7 +42,6 @@
         <entry>device</entry>
         <entry>cipher</entry>
         <entry>newCipher</entry>
-        <entry>login</entry>
         <entry>sessionId</entry>
         <entry>sessionid</entry>
         <entry>commit</entry>
@@ -76,6 +75,7 @@
         <entry>broadcast</entry>
         <entry>receiver</entry>
         <entry>executecommand</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -164,7 +164,8 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/player/PcsPlayer.kt" timestamp="1591605002734">
         <mark key="'" line="189" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591608490921">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591704643658">
+        <mark key="'" line="361" column="0" />
         <mark key="[" line="371" column="14" />
         <mark key="]" line="371" column="15" />
         <mark key="." line="371" column="15" />
@@ -230,12 +231,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1591182800746">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1591703089227">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="17" />
-        <mark key="." line="130" column="17" />
-        <mark key="^" line="130" column="17" />
+        <mark key="[" line="105" column="26" />
+        <mark key="]" line="105" column="30" />
+        <mark key="." line="105" column="29" />
+        <mark key="^" line="105" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1591192823027">
         <mark key="'" line="255" column="5" />
@@ -269,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
@@ -369,6 +369,7 @@
       <jump line="197" column="4" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/PlayerService.kt" />
       <jump line="207" column="27" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/PlayerService.kt" />
       <jump line="211" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/PlayerService.kt" />
+      <jump line="361" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -383,7 +384,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>sycAllPurchaseHistoriesWork</text>
+        <text>\</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -392,13 +393,13 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>sycAllPurchaseHistoriesWork</text>
+        <text>\</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>executecommand</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
         <text>syncAllPurchaseHistoriesWork</text>
@@ -466,11 +467,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>executecommand</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>executecommand</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
