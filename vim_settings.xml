@@ -165,11 +165,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591704643658">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="389" column="14" />
-        <mark key="]" line="389" column="15" />
-        <mark key="." line="389" column="15" />
-        <mark key="^" line="389" column="14" />
+        <mark key="'" line="361" column="0" />
+        <mark key="[" line="371" column="14" />
+        <mark key="]" line="371" column="15" />
+        <mark key="." line="371" column="15" />
+        <mark key="^" line="371" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/PlaylistDetailViewModel.kt" timestamp="1591274643999">
         <mark key="'" line="33" column="8" />
@@ -186,11 +186,11 @@
         <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" timestamp="1591284290245">
-        <mark key="'" line="122" column="20" />
-        <mark key="[" line="163" column="28" />
-        <mark key="]" line="163" column="31" />
-        <mark key="." line="163" column="31" />
-        <mark key="^" line="163" column="31" />
+        <mark key="'" line="124" column="20" />
+        <mark key="[" line="165" column="28" />
+        <mark key="]" line="165" column="31" />
+        <mark key="." line="165" column="31" />
+        <mark key="^" line="165" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591775166488">
         <mark key="'" line="44" column="26" />
