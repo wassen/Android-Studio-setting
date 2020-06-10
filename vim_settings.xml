@@ -77,6 +77,7 @@
         <entry>executecommand</entry>
         <entry>login</entry>
         <entry>userid</entry>
+        <entry>logout</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -190,8 +191,8 @@
         <mark key="." line="163" column="31" />
         <mark key="^" line="163" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591709956048">
-        <mark key="'" line="145" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1591774330684">
+        <mark key="'" line="162" column="16" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -212,6 +213,7 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/player/PcsPlayer.kt" timestamp="1591605002734">
         <mark key="'" line="189" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/worker/SelfMigrationWorker.kt" timestamp="1591774135686" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/PlayerService.kt" timestamp="1591688368053">
         <mark key="'" line="211" column="20" />
       </file>
@@ -220,9 +222,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/exception/UnAuthorizedException.kt" timestamp="1591709918593">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="28" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/exception/UnAuthorizedException.kt" timestamp="1591774418648">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="23" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="21" />
       </file>
@@ -247,13 +249,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1591192823027">
-        <mark key="'" line="255" column="5" />
-        <mark key="[" line="262" column="8" />
-        <mark key="]" line="262" column="38" />
-        <mark key="." line="261" column="48" />
-        <mark key="^" line="261" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1591257146051">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="114" column="71" />
@@ -270,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="114" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
@@ -370,6 +363,8 @@
       <jump line="139" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="142" column="25" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="145" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
+      <jump line="134" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
+      <jump line="162" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -383,8 +378,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUU6IFVzZXJJZOOBjOWPluOCjOOBquOBhOOBruOBr+ODreOCsOOCpOODs+WkseaVl+OBquOBruOBp+OBk+OBk+OBp+atu+OCk+OBp+mBqeWIh+OBq0hhbmRsZeOBl+OBpuassuOBl+OBhAo=</text>
+      <register name="*" type="4">
+        <text>ErrorType</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -399,10 +394,10 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>userid</text>
+        <text>logout</text>
       </register>
       <register name="0" type="4">
-        <text>CANNOT_OBTAIN_USER_ID</text>
+        <text>ErrorType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUU6IFVzZXJJZOOBjOWPluOCjOOBquOBhOOBruOBr+ODreOCsOOCpOODs+WkseaVl+OBquOBruOBp+OBk+OBk+OBp+atu+OCk+OBp+mBqeWIh+OBq0hhbmRsZeOBl+OBpuassuOBl+OBhAo=</text>
@@ -467,11 +462,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>userid</last-search>
+      <last-search>logout</last-search>
       <last-offset />
-      <last-pattern>userid</last-pattern>
+      <last-pattern>logout</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
