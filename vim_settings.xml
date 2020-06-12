@@ -175,18 +175,20 @@
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1591704643658">
-        <mark key="'" line="361" column="0" />
-        <mark key="[" line="371" column="14" />
-        <mark key="]" line="371" column="15" />
-        <mark key="." line="371" column="15" />
-        <mark key="^" line="371" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/RingtoneSelectAdapter.kt" timestamp="1591950382379">
+        <mark key="[" line="113" column="75" />
+        <mark key="]" line="113" column="97" />
+        <mark key="^" line="113" column="97" />
+        <mark key="." line="113" column="96" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/ArtistDetailFragment.kt" timestamp="1591950389538">
+        <mark key="[" line="73" column="71" />
+        <mark key="]" line="73" column="93" />
+        <mark key="^" line="73" column="93" />
+        <mark key="." line="73" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" timestamp="1591882863268">
         <mark key="'" line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/PlayerService.kt" timestamp="1591688368053">
-        <mark key="'" line="211" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/exception/UnAuthorizedException.kt" timestamp="1591880108572">
         <mark key="[" line="6" column="8" />
@@ -225,10 +227,10 @@
         <mark key="." line="137" column="68" />
         <mark key="^" line="137" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectArtistDetailFragment.kt" timestamp="1591946873921">
-        <mark key="[" line="74" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectArtistDetailFragment.kt" timestamp="1591950393818">
+        <mark key="[" line="74" column="69" />
         <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="." line="74" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1591949281072">
         <mark key="'" line="137" column="31" />
@@ -237,17 +239,18 @@
         <mark key="^" line="101" column="74" />
         <mark key="." line="101" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1591949448242">
-        <mark key="'" line="159" column="323" />
-        <mark key="[" line="53" column="70" />
-        <mark key="]" line="53" column="81" />
-        <mark key="^" line="53" column="81" />
-        <mark key="." line="53" column="80" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1591950298982">
+        <mark key="'" line="158" column="323" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="73" />
+        <mark key="^" line="52" column="73" />
+        <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" timestamp="1591949405786">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="24" />
-        <mark key="." line="173" column="24" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" timestamp="1591950352340">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="174" column="97" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1591708585950">
         <mark key="'" line="104" column="16" />
@@ -379,8 +382,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -397,11 +400,11 @@
       <register name="/" type="4">
         <text>latest</text>
       </register>
-      <register name="0" type="4">
-        <text>relativeToAbsoluteFilePath</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQubG9jYWxGaWxlUGF0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -427,31 +430,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG93bmxvYWRVc2VDYXNlLnJlbGF0aXZlVG9BYnNvbHV0ZUZpbGVQYXRoKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudC5sb2NhbEZpbGVQYXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudFJlcG9zaXRvcnkuZmluZExhdGVzdFBhdGhCeUFydGlzdElkKGl0ZW0uaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG93bmxvYWRVc2VDYXNlLnJlbGF0aXZlVG9BYnNvbHV0ZUZpbGVQYXRoKAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCk6IFN0cmluZz8gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudC5sb2NhbEZpbGVQYXRoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAodmlld0NvbnRlbnQubWVkaWFTdG9yZVBhdGggIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQuY29udGVudFJlc29sdmVyLmRlbGV0ZSh2aWV3Q29udGVudC5tZWRpYVN0b3JlUGF0aC50b1VyaSgpLCBudWxsLCBudWxsKQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG93bmxvYWRVc2VDYXNlLnJlbGF0aXZlVG9BYnNvbHV0ZUZpbGVQYXRoKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlho3jg4Djgqbjg7Pjg63jg7zjg4njga7loLTlkIjjga8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
