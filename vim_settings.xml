@@ -236,6 +236,12 @@
         <mark key="." line="137" column="68" />
         <mark key="^" line="137" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/PlayReadyUseCase.kt" timestamp="1592203870410">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="38" />
+        <mark key="^" line="42" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectArtistDetailFragment.kt" timestamp="1591950393818">
         <mark key="[" line="74" column="69" />
         <mark key="]" line="74" column="0" />
@@ -377,8 +383,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBvZ3JhcGh5LmVsbGlwc2lzCg==</text>
+      <register name="*" type="4">
+        <text>Unit</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -387,7 +393,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>Text</text>
+        <text>Unit</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -395,8 +401,8 @@
       <register name="/" type="4">
         <text>latest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBvZ3JhcGh5LmVsbGlwc2lzCg==</text>
+      <register name="0" type="4">
+        <text>PlayReadyUseCase</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXh0LlR5cG9ncmFwaHkuZWxsaXBzaXMK</text>
