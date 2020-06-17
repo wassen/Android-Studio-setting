@@ -92,6 +92,7 @@
         <entry>listen</entry>
         <entry encoding="base64">XDxOT1RfRVhQSVJFRF9DT05ESVRJT05cPg==</entry>
         <entry>insert</entry>
+        <entry encoding="base64">XDxkb21haW5NYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -256,7 +257,8 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1592226928271">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1592401539247">
+        <mark key="'" line="110" column="53" />
         <mark key="[" line="96" column="24" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="24" />
@@ -289,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
-      <jump line="149" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="143" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="147" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
@@ -389,6 +389,8 @@
       <jump line="186" column="39" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="58" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
       <jump line="120" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="33" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
+      <jump line="110" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -418,7 +420,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text encoding="base64">XDxkb21haW5NYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>NOT_EXPIRED_CONDITION</text>
@@ -486,11 +488,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>insert</last-search>
+      <last-search encoding="base64">XDxkb21haW5NYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern encoding="base64">XDxkb21haW5NYW5hZ2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
