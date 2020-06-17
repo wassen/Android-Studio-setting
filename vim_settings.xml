@@ -218,12 +218,12 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="205" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1592235590052">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1592377796864">
         <mark key="'" line="52" column="6" />
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="12" />
+        <mark key="[" line="121" column="46" />
+        <mark key="]" line="121" column="46" />
         <mark key="^" line="123" column="20" />
-        <mark key="." line="123" column="12" />
+        <mark key="." line="121" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" timestamp="1592197209085">
         <mark key="'" line="10" column="8" />
@@ -400,7 +400,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>.exists()</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -409,7 +409,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>.exists()</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
