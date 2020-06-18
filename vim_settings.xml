@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxhdWRpb1R5cGVcPg==</entry>
         <entry encoding="base64">XDxkaXJUeXBlXD4=</entry>
         <entry>removed</entry>
-        <entry>constraint</entry>
         <entry>StateSet</entry>
         <entry>filepath</entry>
         <entry encoding="base64">XDxCQUNLR1JPVU5EX1dBTExQQVBFUl9QQVRURVJOXD4=</entry>
@@ -95,6 +94,7 @@
         <entry encoding="base64">XDxkb21haW5NYW5hZ2VyXD4=</entry>
         <entry>afterlogin</entry>
         <entry>constrai</entry>
+        <entry>constraint</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -191,11 +191,11 @@
         <mark key="^" line="335" column="33" />
         <mark key="." line="335" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592452435427">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592456875829">
+        <mark key="'" line="37" column="33" />
         <mark key="[" line="13" column="45" />
         <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="45" />
+        <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/RingtoneSelectAdapter.kt" timestamp="1591950382379">
@@ -294,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="154" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="376" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
@@ -394,6 +393,7 @@
       <jump line="59" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="89" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
+      <jump line="37" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -423,7 +423,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>constrai</text>
+        <text>constraint</text>
       </register>
       <register name="0" type="4">
         <text>NOT_EXPIRED_CONDITION</text>
@@ -491,9 +491,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>constrai</last-search>
+      <last-search>constraint</last-search>
       <last-offset />
-      <last-pattern>constrai</last-pattern>
+      <last-pattern>constraint</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
