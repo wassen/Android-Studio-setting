@@ -95,6 +95,7 @@
         <entry>afterlogin</entry>
         <entry>constrai</entry>
         <entry>constraint</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -117,9 +118,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>179</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -269,7 +270,9 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="80" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" timestamp="1592462329324" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" timestamp="1592491685052">
+        <mark key="'" line="553" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1592399404342">
         <mark key="'" line="120" column="16" />
         <mark key="[" line="128" column="0" />
@@ -291,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="376" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
       <jump line="25" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
       <jump line="83" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" />
@@ -391,6 +392,8 @@
       <jump line="89" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
       <jump line="37" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" />
+      <jump line="553" column="34" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_activity_main_player.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -404,8 +407,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>4</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICA8IS0tICBkZWZhdWx0U3RhdGXjga/nm7jlpInjgo/jgonjgZrmqZ/og73jgZfjgarjgYQgIC0tPgogICAgPFN0YXRlU2V0IG1vdGlvbjpkZWZhdWx0U3RhdGU9IkBpZC9zdGF0ZV9pbml0Ij4KICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9pbml0IgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19pbml0IiAvPgogICAgICAgIDxTdGF0ZQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3N0YXRlX21vZGFsIgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19tb2RhbCIgLz4KICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9taW5pX3BsYXllciIKICAgICAgICAgICAgbW90aW9uOmNvbnN0cmFpbnRzPSJAaWQvY29uc3RyYWludHNfbWluaV9wbGF5ZXIiIC8+CiAgICAgICAgPFN0YXRlCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3RhdGVfZnVsbF9zY3JlZW5fcGxheWVyIgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19mdWxsX3NjcmVlbl9wbGF5ZXIiIC8+CiAgICA8L1N0YXRlU2V0Pgo=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -420,13 +423,13 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>constraint</text>
+        <text>state</text>
       </register>
       <register name="0" type="4">
         <text>NOT_EXPIRED_CONDITION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOOBqOOBk+OBk+OBvuOBp+abuOOBhOOBpuaAneOBo+OBn+OBjOOAgWluc2VydOOCknRyeS1jYXRjaOOBmeOBueOBjeOBquOBruOBp+OBr+ODu+ODu+ODu++8nwo=</text>
+        <text encoding="base64">CiAgICA8IS0tICBkZWZhdWx0U3RhdGXjga/nm7jlpInjgo/jgonjgZrmqZ/og73jgZfjgarjgYQgIC0tPgogICAgPFN0YXRlU2V0IG1vdGlvbjpkZWZhdWx0U3RhdGU9IkBpZC9zdGF0ZV9pbml0Ij4KICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9pbml0IgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19pbml0IiAvPgogICAgICAgIDxTdGF0ZQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3N0YXRlX21vZGFsIgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19tb2RhbCIgLz4KICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9taW5pX3BsYXllciIKICAgICAgICAgICAgbW90aW9uOmNvbnN0cmFpbnRzPSJAaWQvY29uc3RyYWludHNfbWluaV9wbGF5ZXIiIC8+CiAgICAgICAgPFN0YXRlCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3RhdGVfZnVsbF9zY3JlZW5fcGxheWVyIgogICAgICAgICAgICBtb3Rpb246Y29uc3RyYWludHM9IkBpZC9jb25zdHJhaW50c19mdWxsX3NjcmVlbl9wbGF5ZXIiIC8+CiAgICA8L1N0YXRlU2V0Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -452,47 +455,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOOBqOOBk+OBk+OBvuOBp+abuOOBhOOBpuaAneOBo+OBn+OBjOOAgWluc2VydOOCknRyeS1jYXRjaOOBmeOBueOBjeOBquOBruOBp+OBr+ODu+ODu+ODu++8nwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXh0LlR5cG9ncmFwaHkuZWxsaXBzaXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXh0LlR5cG9ncmFwaHkuZWxsaXBzaXMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudC5sb2NhbEZpbGVQYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>constraint</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>constraint</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
