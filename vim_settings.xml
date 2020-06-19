@@ -193,11 +193,11 @@
         <mark key="^" line="335" column="33" />
         <mark key="." line="335" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592543868552">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592546624664">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="13" column="45" />
         <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+        <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/LicenseManagerWrapper.kt" timestamp="1592215651266">
@@ -404,8 +404,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CiAgICA8U3RhdGVTZXQ+CiAgICAgICAgPFN0YXRlCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3RhdGVfaW5pdCIKICAgICAgICAgICAgbW90aW9uOmNvbnN0cmFpbnRzPSJAaWQvY29uc3RyYWludHNfaW5pdCIgLz4KICAgICAgICA8U3RhdGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zdGF0ZV9leHBhbmRpbmciCiAgICAgICAgICAgIG1vdGlvbjpjb25zdHJhaW50cz0iQGlkL2NvbnN0cmFpbnRzX2V4cGFuZGluZyIgLz4KICAgIDwvU3RhdGVTZXQ+Cg==</text>
+      <register name="*" type="4">
+        <text>4</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -414,7 +414,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>4</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
