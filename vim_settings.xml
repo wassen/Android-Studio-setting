@@ -281,12 +281,12 @@
         <mark key="." line="232" column="0" />
         <mark key="^" line="261" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" timestamp="1592811887117">
-        <mark key="'" line="449" column="45" />
-        <mark key="[" line="440" column="12" />
-        <mark key="]" line="437" column="15" />
-        <mark key="." line="440" column="14" />
-        <mark key="^" line="437" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" timestamp="1592812566293">
+        <mark key="'" line="452" column="45" />
+        <mark key="[" line="447" column="4" />
+        <mark key="]" line="447" column="5" />
+        <mark key="." line="447" column="4" />
+        <mark key="^" line="447" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_alarm_list.xml" timestamp="1592543747538">
         <mark key="[" line="6" column="38" />
@@ -416,8 +416,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDEwMDApCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -426,7 +426,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>Default</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
