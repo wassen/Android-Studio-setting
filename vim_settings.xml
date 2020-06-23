@@ -116,6 +116,7 @@
         <entry>firsttime</entry>
         <entry>wassen</entry>
         <entry>firstCall</entry>
+        <entry>Main</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -201,11 +202,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592905696306">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1592909267375">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="46" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1592549131644">
@@ -288,12 +289,12 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" timestamp="1592908546251">
-        <mark key="'" line="400" column="42" />
-        <mark key="[" line="390" column="49" />
-        <mark key="]" line="390" column="49" />
-        <mark key="^" line="390" column="49" />
-        <mark key="." line="390" column="48" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" timestamp="1592909480075">
+        <mark key="'" line="392" column="34" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="431" column="0" />
+        <mark key="." line="431" column="0" />
+        <mark key="^" line="392" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_alarm_list.xml" timestamp="1592543747538">
         <mark key="[" line="6" column="38" />
@@ -310,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_playlist_add_artist.xml" />
       <jump line="8" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_ringtone_select_album_detail.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_ringtone_select_artist.xml" />
       <jump line="17" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_ringtone_select_artist.xml" />
@@ -410,6 +410,7 @@
       <jump line="395" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
       <jump line="396" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
       <jump line="399" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
+      <jump line="392" column="34" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -423,8 +424,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>の区別すらつかずに2重に呼ばれる</text>
+      <register name="*" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBjdXJyZW50UG9wdXBXaW5kb3c/LmRpc21pc3MoKQovLyAgICAgICAgICAgIGN1cnJlbnRQb3B1cFdpbmRvdyA9IG51bGwKLy8gICAgICAgICAgICBjdXJyZW50UG9wdXBWaWV3ID0gbnVsbAo=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -433,19 +434,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>の区別すらつかずに2重に呼ばれる</text>
+        <text>7</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>firstCall</text>
+        <text>Main</text>
       </register>
       <register name="0" type="4">
         <text>firstCall</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJ3YXNzZW46IGNvbXBsZXRlZCIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjdXJyZW50UG9wdXBXaW5kb3c/LmRpc21pc3MoKQovLyAgICAgICAgICAgIGN1cnJlbnRQb3B1cFdpbmRvdyA9IG51bGwKLy8gICAgICAgICAgICBjdXJyZW50UG9wdXBWaWV3ID0gbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -471,31 +472,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZmlyc3RDYWxsID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0Q2FsbCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29yb3V0aW5lU2NvcGUoRGlzcGF0Y2hlcnMuTWFpbikubGF1bmNoIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzdGF0ZTAg44GL44KJIHN0YXRlMSDjgbjjga7pgbfnp7vjgpLooYzjgYbpmpvjgIFzdGF0ZTHjgbjpgbfnp7vjgZnjgovjgajjgY3jga7jgqTjg5njg7Pjg4jjgaDjgZHjgafjgarjgY9zdGF0ZTDjgbjpgbfnp7vjgZnjgovjgajjgY3jga4K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJ3YXNzZW46IGNvbXBsZXRlZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZmlyc3RDYWxsID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0Q2FsbCA9IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -507,9 +508,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>firstCall</last-search>
+      <last-search>Main</last-search>
       <last-offset />
-      <last-pattern>firstCall</last-pattern>
+      <last-pattern>Main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
