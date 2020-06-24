@@ -121,6 +121,7 @@
         <entry>popup(</entry>
         <entry>preferences</entry>
         <entry>changed</entry>
+        <entry>locked</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -218,10 +219,10 @@
         <mark key="]" line="98" column="81" />
         <mark key="." line="98" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1592997891367">
-        <mark key="'" line="159" column="31" />
-        <mark key="[" line="176" column="21" />
-        <mark key="]" line="176" column="36" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1593005598423">
+        <mark key="'" line="190" column="16" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="227" column="51" />
         <mark key="." line="237" column="38" />
         <mark key="^" line="237" column="39" />
       </file>
@@ -300,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="91" column="19" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="116" column="68" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
@@ -400,6 +400,7 @@
       <jump line="134" column="98" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="158" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="159" column="31" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="190" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -413,8 +414,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>onOffsetsChanged</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtleWd1YXJkTWFuYWdlciA9IGFwcGxpY2F0aW9uQ29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuS0VZR1VBUkRfU0VSVklDRSkgYXMgS2V5Z3VhcmRNYW5hZ2VyCiAgICAgICAgICAgIHJldHVybiBrZXlndWFyZE1hbmFnZXIuaXNLZXlndWFyZExvY2tlZAo=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -429,10 +430,10 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>changed</text>
+        <text>locked</text>
       </register>
-      <register name="0" type="4">
-        <text>onOffsetsChanged</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtleWd1YXJkTWFuYWdlciA9IGFwcGxpY2F0aW9uQ29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuS0VZR1VBUkRfU0VSVklDRSkgYXMgS2V5Z3VhcmRNYW5hZ2VyCiAgICAgICAgICAgIHJldHVybiBrZXlndWFyZE1hbmFnZXIuaXNLZXlndWFyZExvY2tlZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwga29pbjogUHJlZmVyZW5jZXNEYW8gYnkgaW5qZWN0KCkK</text>
@@ -497,9 +498,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>changed</last-search>
+      <last-search>locked</last-search>
       <last-offset />
-      <last-pattern>changed</last-pattern>
+      <last-pattern>locked</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
