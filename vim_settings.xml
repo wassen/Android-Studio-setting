@@ -217,8 +217,8 @@
         <mark key="]" line="98" column="81" />
         <mark key="." line="98" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1592975761074">
-        <mark key="'" line="101" column="67" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1592997127047">
+        <mark key="'" line="124" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_ringtone_select_artist.xml" timestamp="1592547116711">
         <mark key="'" line="8" column="50" />
@@ -260,16 +260,6 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_alarm_list.xml" timestamp="1592543747538">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_album_detail.xml" timestamp="1592543761812">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" timestamp="1592552914326">
         <mark key="'" line="19" column="24" />
       </file>
@@ -279,6 +269,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/ImageHandler.kt" timestamp="1592997334324" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_playlist_add_album_detail.xml" timestamp="1592549193497">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="38" />
@@ -309,9 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="370" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="378" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
       <jump line="389" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
       <jump line="411" column="35" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
       <jump line="428" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
@@ -409,6 +397,9 @@
       <jump line="104" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="101" column="67" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="54" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="132" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
