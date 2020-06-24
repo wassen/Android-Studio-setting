@@ -120,6 +120,7 @@
         <entry>popup</entry>
         <entry>popup(</entry>
         <entry>preferences</entry>
+        <entry>changed</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -217,8 +218,12 @@
         <mark key="]" line="98" column="81" />
         <mark key="." line="98" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1592997127047">
-        <mark key="'" line="124" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1592997891367">
+        <mark key="'" line="159" column="31" />
+        <mark key="[" line="176" column="21" />
+        <mark key="]" line="176" column="36" />
+        <mark key="." line="237" column="38" />
+        <mark key="^" line="237" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_ringtone_select_artist.xml" timestamp="1592547116711">
         <mark key="'" line="8" column="50" />
@@ -300,14 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="411" column="35" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="428" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="439" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="449" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="440" column="52" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" />
-      <jump line="41" column="6" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="91" column="19" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
@@ -400,6 +397,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="132" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="237" column="35" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="28" column="95" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="99" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="120" column="41" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="122" column="100" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="134" column="98" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="158" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="159" column="31" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -413,8 +418,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rb2luLmFuZHJvaWQuZXh0LmFuZHJvaWQuaW5qZWN0Cg==</text>
+      <register name="*" type="4">
+        <text>onOffsetsChanged</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -423,16 +428,16 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>preferences</text>
+        <text>changed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rb2luLmFuZHJvaWQuZXh0LmFuZHJvaWQuaW5qZWN0Cg==</text>
+      <register name="0" type="4">
+        <text>onOffsetsChanged</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwga29pbjogUHJlZmVyZW5jZXNEYW8gYnkgaW5qZWN0KCkK</text>
@@ -497,9 +502,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>preferences</last-search>
+      <last-search>changed</last-search>
       <last-offset />
-      <last-pattern>preferences</last-pattern>
+      <last-pattern>changed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
