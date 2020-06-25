@@ -222,6 +222,7 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/FileCache.kt" timestamp="1593093585822" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1592549131644">
         <mark key="[" line="98" column="81" />
         <mark key="]" line="98" column="81" />
@@ -245,13 +246,6 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1592814444752">
         <mark key="'" line="109" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_playlist_add_artist.xml" timestamp="1592547135881">
-        <mark key="'" line="8" column="50" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="8" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/usecase/SmsUsecase.kt" timestamp="1592896300377">
         <mark key="'" line="18" column="6" />
