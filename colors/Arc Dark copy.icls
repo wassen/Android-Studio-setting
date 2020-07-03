@@ -4,10 +4,10 @@
     <property name="created">2019-09-13T16:50:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2020-04-17T19:56:39</property>
+    <property name="modified">2020-07-03T22:56:13</property>
     <property name="originalScheme">_@user_Arc Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -109,7 +109,7 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -365,7 +365,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="f9ee98" />
@@ -684,7 +684,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
@@ -954,7 +953,6 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -965,7 +963,6 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -983,7 +980,6 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
         <option name="FOREGROUND" value="7587a6" />
@@ -1061,7 +1057,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2262,10 +2257,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2677,8 +2672,7 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -2761,7 +2755,6 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
