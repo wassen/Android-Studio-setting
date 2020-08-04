@@ -255,15 +255,8 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1596532372099">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1596543349296">
         <mark key="'" line="160" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1593090665162">
-        <mark key="'" line="237" column="16" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="227" column="51" />
-        <mark key="." line="237" column="38" />
-        <mark key="^" line="237" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/widget/timeRangeSelector/TimeRangeSelector.kt" timestamp="1593156377500">
         <mark key="'" line="89" column="0" />
@@ -276,6 +269,12 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapFileLoader.kt" timestamp="1593095179387">
         <mark key="'" line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1596543642446">
+        <mark key="[" line="56" column="82" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/widget/timeRangeSelector/BarBase.kt" timestamp="1593156228745">
         <mark key="'" line="58" column="8" />
@@ -510,7 +509,7 @@
       <last-offset />
       <last-pattern>constraint</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
