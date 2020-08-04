@@ -278,11 +278,10 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/widget/timeRangeSelector/SeekBar.kt" timestamp="1594281385954">
         <mark key="'" line="76" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1596545419003">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="49" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1596545735090">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/ExternalContentDao.kt" timestamp="1593097746820">
         <mark key="'" line="219" column="12" />
@@ -426,7 +425,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIGFwcDppbWFnZVdpZHRoPSJAe2NvbnRlbnQuaW1hZ2VXaWR0aH0iLS0+CjwhLS0gICAgICAgICAgICBhcHA6aW1hZ2VIZWlnaHQ9IkB7Y29udGVudC5pbWFnZUhlaWdodH0iLS0+Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -447,7 +446,7 @@
         <text>context.resources.displayMetrics.heightPixels</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIGFwcDppbWFnZVdpZHRoPSJAe2NvbnRlbnQuaW1hZ2VXaWR0aH0iLS0+CjwhLS0gICAgICAgICAgICBhcHA6aW1hZ2VIZWlnaHQ9IkB7Y29udGVudC5pbWFnZUhlaWdodH0iLS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -476,28 +475,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgY29udGV4dDogQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgaW1hZ2VXaWR0aCwKICAgICAgICBvdmVycmlkZSB2YWwgaW1hZ2VXaWR0aCwK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgY29udGV4dDogQ29udGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwgaW1hZ2VXaWR0aCwKICAgICAgICBvdmVycmlkZSB2YWwgaW1hZ2VXaWR0aCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbWFnZVdpZHRoOiBnZXQK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSB2YWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbWFnZVdpZHRoCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbWFnZVdpZHRoOiBnZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbWFnZQo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbWFnZVdpZHRoCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
