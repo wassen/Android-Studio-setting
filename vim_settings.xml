@@ -178,6 +178,7 @@
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>187</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -502,7 +503,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>187</text>
       </register>
     </registers>
   </component>
