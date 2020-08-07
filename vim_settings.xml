@@ -317,11 +317,11 @@
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1596798520606">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="46" />
-        <mark key="^" line="68" column="47" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1596801897196">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetContentMenu.kt" timestamp="1594295573548">
         <mark key="'" line="35" column="26" />
@@ -454,7 +454,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>text_color_red_light</text>
+        <text>true</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -463,7 +463,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>text_color_red_light</text>
+        <text>true</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
