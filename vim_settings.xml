@@ -337,11 +337,11 @@
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597151444763">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597151627179">
         <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="16" />
-        <mark key="." line="79" column="15" />
-        <mark key="^" line="79" column="16" />
+        <mark key="]" line="79" column="13" />
+        <mark key="." line="79" column="13" />
+        <mark key="^" line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Paint.java" timestamp="1597148870477">
         <mark key="[" line="957" column="17" />
@@ -477,8 +477,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHV0b3JpYWxBbGFybUxhYmVsKCkK</text>
+      <register name="*" type="4">
+        <text>.apply {</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -487,7 +487,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>label</text>
+        <text>.apply {</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
