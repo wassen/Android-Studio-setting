@@ -178,6 +178,8 @@
         <entry>seton</entry>
         <entry>taptarget</entry>
         <entry>map</entry>
+        <entry>event</entry>
+        <entry>init {</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -305,12 +307,12 @@
         <mark key="[" line="48" column="33" />
         <mark key="]" line="48" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" timestamp="1597380268057">
-        <mark key="'" line="70" column="23" />
-        <mark key="[" line="123" column="16" />
-        <mark key="]" line="124" column="16" />
-        <mark key="^" line="124" column="16" />
-        <mark key="." line="124" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" timestamp="1597392099606">
+        <mark key="'" line="119" column="16" />
+        <mark key="[" line="120" column="8" />
+        <mark key="]" line="120" column="46" />
+        <mark key="." line="119" column="35" />
+        <mark key="^" line="120" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmListViewModel.kt" timestamp="1596715450185">
         <mark key="'" line="135" column="0" />
@@ -379,12 +381,12 @@
         <mark key="." line="140" column="15" />
         <mark key="^" line="140" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597380273017">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597392102166">
         <mark key="'" line="221" column="8" />
-        <mark key="[" line="195" column="14" />
-        <mark key="]" line="195" column="15" />
-        <mark key="." line="195" column="14" />
-        <mark key="^" line="195" column="15" />
+        <mark key="[" line="194" column="18" />
+        <mark key="]" line="194" column="57" />
+        <mark key="." line="194" column="18" />
+        <mark key="^" line="194" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityAlarmNotifyViewModel.kt" timestamp="1596708306278">
         <mark key="[" line="29" column="0" />
@@ -392,8 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="47" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="93" column="29" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="70" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="9" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="166" column="65" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
@@ -492,6 +492,8 @@
       <jump line="123" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="224" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="70" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
+      <jump line="79" column="14" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
+      <jump line="119" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -505,8 +507,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudChpdCkK</text>
+      <register name="*" type="4">
+        <text>triggerTimeTutorialEvent</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -515,19 +517,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>map {</text>
+        <text>triggerTimeTutorialEvent</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>init {</text>
       </register>
       <register name="0" type="4">
-        <text>tutorialFirstTime</text>
+        <text>triggerTimeWithTriggerTimeTutorialEvent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudChpdCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHR1dG9yaWFsRmlyc3RUaW1lID0gdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -553,31 +555,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHV0b3JpYWxGaXJzdFRpbWUpIHsKICAgICAgICAgICAgdHV0b3JpYWxGaXJzdFRpbWUgPSBmYWxzZQogICAgICAgICAgICBFdmVudChpdCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBudWxsCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5nZXRDb250ZW50SWZOb3RIYW5kbGVkKCkgPzogcmV0dXJuQGNvbWJpbmVMYXRlc3QKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudChpdCkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmlnZ2VyVGltZSA9IE11dGFibGVMaXZlRGF0YTxMb2NhbFRpbWU+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQoaXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQoaXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50UmVjeWNsZXJWaWV3Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmlnZ2VyVGltZSA9IE11dGFibGVMaXZlRGF0YTxMb2NhbFRpbWU+KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50UmVjeWNsZXJWaWV3Lgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -589,13 +591,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>map</last-search>
+      <last-search>init {</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>init {</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
