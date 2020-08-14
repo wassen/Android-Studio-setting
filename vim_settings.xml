@@ -50,7 +50,6 @@
         <entry>getuserinfo</entry>
         <entry>currentmus</entry>
         <entry>LiveData</entry>
-        <entry encoding="base64">XDxvYnNlcnZlXD4=</entry>
         <entry>;119</entry>
         <entry>getUserID</entry>
         <entry>getUserI</entry>
@@ -187,6 +186,8 @@
         <entry>tap</entry>
         <entry>TapTa</entry>
         <entry encoding="base64">XDxjYWxsT25DbGlja1w+</entry>
+        <entry>viewmodel</entry>
+        <entry encoding="base64">XDxvYnNlcnZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -303,12 +304,12 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/RingtoneSelectAdapter.kt" timestamp="1597206901057">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="128" column="37" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/RingtoneSelectAdapter.kt" timestamp="1597401375006">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="132" column="45" />
+        <mark key="]" line="132" column="47" />
+        <mark key="." line="132" column="46" />
+        <mark key="^" line="132" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/list_item_ringtone_select_single.xml" timestamp="1597206559757">
         <mark key="'" line="48" column="24" />
@@ -341,6 +342,13 @@
         <mark key="^" line="485" column="51" />
         <mark key="." line="485" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LibraryListViewModel.kt" timestamp="1597401649345">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="28" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="52" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Paint.java" timestamp="1597148870477">
         <mark key="[" line="957" column="17" />
         <mark key="]" line="957" column="23" />
@@ -352,12 +360,6 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/build.gradle" timestamp="1596626892374">
-        <mark key="[" line="188" column="81" />
-        <mark key="]" line="188" column="82" />
-        <mark key="." line="188" column="81" />
-        <mark key="^" line="188" column="82" />
-      </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" timestamp="1597149235047">
         <mark key="'" line="688" column="31" />
         <mark key="[" line="331" column="31" />
@@ -365,11 +367,12 @@
         <mark key="^" line="331" column="31" />
         <mark key="." line="331" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" timestamp="1597399737662">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="184" column="82" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" timestamp="1597402262895">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectParentFragment.kt" timestamp="1597201575268">
         <mark key="'" line="42" column="42" />
@@ -400,9 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="65" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
-      <jump line="411" column="44" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
-      <jump line="567" column="27" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
       <jump line="677" column="30" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
       <jump line="807" column="36" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
       <jump line="130" column="6" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.13.0/4f2f538100f747c092dcc29e878b43d78d60702e/taptargetview-1.13.0-sources.jar!/com/getkeepsafe/taptargetview/TapTargetView.java" />
@@ -500,6 +500,9 @@
       <jump line="98" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="89" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" />
+      <jump line="12" column="6" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LibraryListViewModel.kt" />
+      <jump line="9" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -514,7 +517,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkoMjAwMCkKCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -523,19 +526,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsT25DbGlja1w+</text>
+        <text encoding="base64">XDxvYnNlcnZlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgVGFwVGFyZ2V0Vmlldy5zaG93Rm9yKAogICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eSwKICAgICAgICAgICAgICAgICAgICAgICAgVGFwVGFyZ2V0LmZvclZpZXcoY29udGVudFJlY3ljbGVyVmlldywgcmVxdWlyZUNvbnRleHQoKS5yZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLnR1dG9yaWFsX2FsYXJtX2RldGFpbF9hbGFybV9tdXNpYykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAub3V0ZXJDaXJjbGVDb2xvcihSLmNvbG9yLnR1dG9yaWFsX291dGVyX2NpcmNsZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vdXRlckNpcmNsZUFscGhhKDAuNWYpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGl0bGVUZXh0U2l6ZSgxNCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50aXRsZVRleHRDb2xvcihSLmNvbG9yLnRleHRfY29sb3JfYmx1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50ZXh0VHlwZWZhY2UoVHlwZWZhY2UuU0FOU19TRVJJRikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kaW1Db2xvcihSLmNvbG9yLmJsdXJfZmlsdGVyX2NvbG9yKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRyYXdTaGFkb3codHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jYW5jZWxhYmxlKHRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGludFRhcmdldChmYWxzZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRhcmdldOOBquOBhOOBqOOCv+ODg+ODl+OCpOODmeODs+ODiOOCkuaLvuOBiOOBquOBhOOBngogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRyYW5zcGFyZW50VGFyZ2V0KHRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGFyZ2V0UmFkaXVzKDEwMCksCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5PYnNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkoMjAwMCkKCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -561,31 +564,57 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGFwdGVyLmdldEl0ZW1JZCgwKS5jYWxsT25DbGljaygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5saWZlY3ljbGVTY29wZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWN5Y2xlclZpZXcuZ2V0Q09uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB0cmlnZ2VyVGltZVR1dG9yaWFsRXZlbnQgPSBNdXRhYmxlTGl2ZURhdGE8RXZlbnQ8VW5pdD4+KCkK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblJlc3VtZSgpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyVGltZVR1dG9yaWFsRXZlbnQudmFsdWUgPSBFdmVudChVbml0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpZ2dlclRpbWVUdXRvcmlhbEV2ZW50LnZhbHVlID0gRXZlbnQoVW5pdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpZ2dlclRpbWVUdXRvcmlhbEV2ZW50LnZhbHVlID0gRXZlbnQoVW5pdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{
+        super.onResume()
+
+        lifecycleScope.launch {
+            TapTargetView.showFor(
+                requireActivity(),
+                TapTarget.forView(recyclerView.getChildAt(0).addItem, &quot;アラームを追加しましょう&quot;)
+                    .outerCircleColor(R.color.tutorial_outer_circle)
+                    .outerCircleAlpha(0.5f)
+                    .targetCircleColor(R.color.tutorial_target_circle_outer_tinted)
+                    .titleTextSize(14)
+                    .titleTextColor(R.color.text_color_blue)
+                    .textTypeface(Typeface.SANS_SERIF)
+                    .dimColor(R.color.blur_filter_color)
+                    .drawShadow(true)
+                    .cancelable(true)
+                    .tintTarget(false)
+                    .targetRadius(28),
+
+                object : TapTargetView.Listener() {
+                    override fun onTargetClick(view: TapTargetView) {
+                        super.onTargetClick(view)
+                    }
+                }
+            )
+        }
+    }</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -597,9 +626,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWxsT25DbGlja1w+</last-search>
+      <last-search encoding="base64">XDxvYnNlcnZlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsT25DbGlja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxvYnNlcnZlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
