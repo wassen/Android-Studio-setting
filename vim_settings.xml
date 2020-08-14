@@ -367,12 +367,12 @@
         <mark key="^" line="331" column="31" />
         <mark key="." line="331" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" timestamp="1597403388186">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectChildFragment.kt" timestamp="1597406395242">
         <mark key="'" line="117" column="18" />
-        <mark key="[" line="117" column="69" />
-        <mark key="]" line="118" column="57" />
-        <mark key="." line="118" column="56" />
-        <mark key="^" line="118" column="57" />
+        <mark key="[" line="140" column="24" />
+        <mark key="]" line="140" column="40" />
+        <mark key="." line="140" column="24" />
+        <mark key="^" line="124" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSelectParentFragment.kt" timestamp="1597201575268">
         <mark key="'" line="42" column="42" />
@@ -516,8 +516,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Y29udGVudAo=</text>
+      <register name="*" type="4">
+        <text>firstItemView</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -526,7 +526,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>firstItemView</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -534,8 +534,8 @@
       <register name="/" type="4">
         <text>first</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5PYnNlcnZlcgo=</text>
+      <register name="0" type="4">
+        <text>firstAddItemView</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0Y29udGVudAo=</text>
