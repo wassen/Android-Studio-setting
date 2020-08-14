@@ -180,6 +180,12 @@
         <entry>map</entry>
         <entry>init {</entry>
         <entry>event</entry>
+        <entry>TapView</entry>
+        <entry>Tab</entry>
+        <entry>Ta</entry>
+        <entry>Tap</entry>
+        <entry>tap</entry>
+        <entry>TapTa</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -209,6 +215,7 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>r</entry>
+        <entry>TabTap</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
@@ -326,12 +333,12 @@
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/values/strings.xml" timestamp="1597314991629">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/values/strings.xml" timestamp="1597394293980">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="483" column="49" />
-        <mark key="]" line="483" column="49" />
-        <mark key="^" line="483" column="49" />
-        <mark key="." line="483" column="48" />
+        <mark key="[" line="485" column="46" />
+        <mark key="]" line="485" column="51" />
+        <mark key="^" line="485" column="51" />
+        <mark key="." line="485" column="50" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Paint.java" timestamp="1597148870477">
         <mark key="[" line="957" column="17" />
@@ -381,12 +388,12 @@
         <mark key="." line="140" column="15" />
         <mark key="^" line="140" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597392102166">
-        <mark key="'" line="221" column="8" />
-        <mark key="[" line="194" column="18" />
-        <mark key="]" line="194" column="57" />
-        <mark key="." line="194" column="18" />
-        <mark key="^" line="194" column="90" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" timestamp="1597394400056">
+        <mark key="'" line="77" column="24" />
+        <mark key="[" line="77" column="63" />
+        <mark key="]" line="77" column="142" />
+        <mark key="." line="77" column="141" />
+        <mark key="^" line="77" column="142" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityAlarmNotifyViewModel.kt" timestamp="1596708306278">
         <mark key="[" line="29" column="0" />
@@ -394,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="9" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="166" column="65" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="181" column="15" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
@@ -478,22 +483,24 @@
       <jump line="1298" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/Dialog.java" />
       <jump line="102" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="71" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="75" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="77" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="91" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="92" column="61" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="195" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="16" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="215" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="214" column="25" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="197" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
-      <jump line="194" column="62" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="221" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="123" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="224" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="70" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="79" column="14" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AlarmDetailViewModel.kt" />
+      <jump line="194" column="18" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="107" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="197" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="92" column="61" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="91" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="17" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="75" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
+      <jump line="77" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -508,7 +515,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PEV2ZW50Pg==</text>
+        <text>&quot;アラームを追加しましょう&quot;</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -517,16 +524,16 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEV2ZW50Pg==</text>
+        <text>&quot;アラームを追加しましょう&quot;</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>TapTa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRyaWdnZXJUaW1lVHV0b3JpYWxFdmVudCA9IE11dGFibGVMaXZlRGF0YTxFdmVudDxVbml0Pj4oKQo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0idHV0b3JpYWxfYWxhcm1fbGlzdF9hZGRfYWxhcm0iPuOCouODqeODvOODoOOCkui/veWKoOOBl+OBvuOBl+OCh+OBhjwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB0cmlnZ2VyVGltZVR1dG9yaWFsRXZlbnQgPSBNdXRhYmxlTGl2ZURhdGE8RXZlbnQ8VW5pdD4+KCkK</text>
@@ -591,13 +598,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>event</last-search>
+      <last-search>TapTa</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>TapTa</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
