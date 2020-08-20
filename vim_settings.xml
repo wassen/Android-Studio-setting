@@ -317,12 +317,12 @@
         <mark key="^" line="340" column="19" />
         <mark key="." line="340" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1597917787106">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1597918633258">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="437" column="25" />
-        <mark key="]" line="437" column="26" />
-        <mark key="." line="437" column="25" />
-        <mark key="^" line="437" column="26" />
+        <mark key="[" line="440" column="17" />
+        <mark key="]" line="441" column="16" />
+        <mark key="." line="441" column="15" />
+        <mark key="^" line="441" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/local/PreferencesDao.kt" timestamp="1597733122653">
         <mark key="'" line="289" column="20" />
@@ -539,8 +539,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IGxpc3RWaWV3TW9kZWwuc3RhcnRTZWxlY3RNb2RlVHV0b3JpYWxFdmVudCgpIA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBmaXJzdFBpY3R1cmVWaWV3ID0gcnVuQmxvY2tpbmcgewogICAgICAgICAgICAgICAgZGVsYXkoNTAwMCkKICAgICAgICAgICAgICAgIHJlY3ljbGVyVmlldy5nZXRDaGlsZEF0KDApCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -561,7 +561,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUcmFuc2l0aW9uID0geyBwYXJlbnRGcmFnbWVudD8uc3RhcnRQb3N0cG9uZWRFbnRlclRyYW5zaXRpb24oKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRTZWxlY3RQaWN0dXJlVHV0b3JpYWwgPSB7IGxpc3RWaWV3TW9kZWwuc3RhcnRTZWxlY3RNb2RlVHV0b3JpYWxFdmVudCgpIH0K</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBmaXJzdFBpY3R1cmVWaWV3ID0gcnVuQmxvY2tpbmcgewogICAgICAgICAgICAgICAgZGVsYXkoNTAwMCkKICAgICAgICAgICAgICAgIHJlY3ljbGVyVmlldy5nZXRDaGlsZEF0KDApCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -587,31 +587,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRTZWxlY3RQaWN0dXJlVHV0b3JpYWwgPSB7IGxpc3RWaWV3TW9kZWwuc3RhcnRTZWxlY3RNb2RlVHV0b3JpYWxFdmVudCgpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZpcnN0UGljdHVyZVZpZXcgPSBydW5CbG9ja2luZyB7CiAgICAgICAgICAgICAgICBkZWxheSg1MDAwKQogICAgICAgICAgICAgICAgcmVjeWNsZXJWaWV3LmdldENoaWxkQXQoMCkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRTZWxlY3RQaWN0dXJlVHV0b3JpYWwgPSB7IGxpc3RWaWV3TW9kZWwuc3RhcnRTZWxlY3RNb2RlVHV0b3JpYWxFdmVudCgpIH0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRTZWxlY3RQaWN0dXJlVHV0b3JpYWwgPSB7IGxpc3RWaWV3TW9kZWwuc3RhcnRTZWxlY3RNb2RlVHV0b3JpYWxFdmVudCgpIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFIuaWQubWVudV93YWxscGFwZXJfc2VsZWN0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5saXN0X2l0ZW1fcGxheWxpc3RfYWRkLnZpZXcuKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
