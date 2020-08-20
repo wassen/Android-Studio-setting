@@ -348,15 +348,12 @@
         <mark key="." line="21" column="92" />
         <mark key="^" line="21" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1597928315601">
-        <mark key="'" line="154" column="49" />
-        <mark key="[" line="119" column="22" />
-        <mark key="]" line="119" column="25" />
-        <mark key="." line="119" column="24" />
-        <mark key="^" line="119" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/DownloadListViewModel.kt" timestamp="1597642635753">
-        <mark key="'" line="86" column="37" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1597929877599">
+        <mark key="'" line="156" column="22" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="204" column="30" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="122" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/WallpaperListViewModel.kt" timestamp="1597756905988">
         <mark key="'" line="226" column="25" />
@@ -381,6 +378,10 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/menu/wallpaper_list_init.xml" timestamp="1597757606602">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1597929202471">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1597752568126">
         <mark key="[" line="0" column="0" />
@@ -432,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="237" column="76" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="303" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
       <jump line="308" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/AlarmDetailFragment.kt" />
@@ -532,6 +532,7 @@
       <jump line="113" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
       <jump line="148" column="49" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
+      <jump line="154" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -546,7 +547,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgb2JzZXJ2ZVR1dG9yaWFsRXZlbnQoKQo=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -555,7 +556,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>.also {</text>
+        <text>i</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -564,10 +565,10 @@
         <text>observe</text>
       </register>
       <register name="0" type="4">
-        <text>startSelectPictureTutorial</text>
+        <text>imageView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgb2JzZXJ2ZVR1dG9yaWFsRXZlbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -593,31 +594,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOOCreODo+ODs+OCu+ODq+OBp+OCguOChOOCiwogICAgICAgICAgICAgICAgLy8gVGFwVGFyZ2V0Vmlldy5MaXN0ZW5lcigpLm9uVGFyZ2V0RGlzbWlzc2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgZnVuIHNob3dTZWxlY3RQaWN0dXJlKGNhbGxiYWNrOiAoKSAtPiBVbml0KSB7CiAgICAgICAgICAgIC8vIFRPRE86IGdldENoaWxkQXTjga/jgaDjgoHjgaPjgb3jgYTjgILjgbnjgaTjga7jgajjgZPjgo3jgafjgoTjgaPjgabjgZfjgb7jgaPjgabjgYTjgosKICAgICAgICAgICAgdmFsIGZpcnN0UGljdHVyZVZpZXcgPSByZWN5Y2xlclZpZXcuZmluZFZpZXdIb2xkZXJGb3JMYXlvdXRQb3NpdGlvbigwKSEhLml0ZW1WaWV3CgogICAgICAgICAgICBUYXBUYXJnZXRWaWV3LnNob3dGb3IoCiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKSwKICAgICAgICAgICAgICAgIFRhcFRhcmdldAogICAgICAgICAgICAgICAgICAgIC5mb3JWaWV3KAogICAgICAgICAgICAgICAgICAgICAgICBmaXJzdFBpY3R1cmVWaWV3LAogICAgICAgICAgICAgICAgICAgICAgICAi44CM44OA44Km44Oz44Ot44O844OJ44CN44K/44OW44Gn44Gv44OJ44Ov44Oz44K044K444Kn44Kk44OU44O85Y+K44Gz6Zai6YCj44K144Kk44OI44GL44KJ44OA44Km44Oz44Ot44O844OJ44GX44Gf5aOB57SZ44GM6KGo56S644GV44KM44G+44GZIiwKICAgICAgICAgICAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIgogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAub3V0ZXJDaXJjbGVDb2xvcihSLmNvbG9yLnR1dG9yaWFsX291dGVyX2NpcmNsZSkKICAgICAgICAgICAgICAgICAgICAub3V0ZXJDaXJjbGVBbHBoYSgwLjVmKQogICAgICAgICAgICAgICAgICAgIC50YXJnZXRDaXJjbGVDb2xvcihSLmNvbG9yLnR1dG9yaWFsX3RhcmdldF9jaXJjbGVfb3V0ZXJfdGludGVkKQogICAgICAgICAgICAgICAgICAgIC50aXRsZVRleHRTaXplKDE0KQogICAgICAgICAgICAgICAgICAgIC50aXRsZVRleHRDb2xvcihSLmNvbG9yLnRleHRfY29sb3JfYmx1ZSkKICAgICAgICAgICAgICAgICAgICAuZGltQ29sb3IoUi5jb2xvci5ibHVyX2ZpbHRlcl9jb2xvcikKICAgICAgICAgICAgICAgICAgICAudGV4dFR5cGVmYWNlKFR5cGVmYWNlLlNBTlNfU0VSSUYpCiAgICAgICAgICAgICAgICAgICAgLmRyYXdTaGFkb3codHJ1ZSkKICAgICAgICAgICAgICAgICAgICAuY2FuY2VsYWJsZSh0cnVlKQogICAgICAgICAgICAgICAgICAgIC50aW50VGFyZ2V0KGZhbHNlKQogICAgICAgICAgICAgICAgICAgIC50cmFuc3BhcmVudFRhcmdldChmYWxzZSkKICAgICAgICAgICAgICAgICAgICAudGFyZ2V0UmFkaXVzKDM0KSwKICAgICAgICAgICAgICAgIG9iamVjdCA6IFRhcFRhcmdldFZpZXcuTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uVGFyZ2V0Q2xpY2sodmlldzogVGFwVGFyZ2V0VmlldykgewogICAgICAgICAgICAgICAgICAgICAgICBzdXBlci5vblRhcmdldENsaWNrKHZpZXcpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE86IGNhbGxPbkNsaWNr44Go44Gp44Gj44Gh44GM6Imv44GE44Gu44GLCiAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0UGljdHVyZVZpZXcucGVyZm9ybUNsaWNrKCkKICAgICAgICAgICAgICAgICAgICAgICAgY2FsbGJhY2soKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKS5hbHNvIHsKICAgICAgICAgICAgICAgIC8vIOOCreODo+ODs+OCu+ODq+OBp+OCguOChOOCiwogICAgICAgICAgICAgICAgLy8gVGFwVGFyZ2V0Vmlldy5MaXN0ZW5lcigpLm9uVGFyZ2V0RGlzbWlzc2VkKCkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGdldENoaWxkQXTjga/jgaDjgoHjgaPjgb3jgYTjgILjgbnjgaTjga7jgajjgZPjgo3jgafjgoTjgaPjgabjgZfjgb7jgaPjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGdldENoaWxkQXTjga/jgaDjgoHjgaPjgb3jgYTjgILjgbnjgaTjga7jgajjgZPjgo3jgafjgoTjgaPjgabjgZfjgb7jgaPjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOOCreODo+ODs+OCu+ODq+OBp+OCguOChOOCiwogICAgICAgICAgICAgICAgLy8gVGFwVGFyZ2V0Vmlldy5MaXN0ZW5lcigpLm9uVGFyZ2V0RGlzbWlzc2VkKCkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -635,7 +636,7 @@
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
