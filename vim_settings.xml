@@ -236,6 +236,7 @@
         <entry>viewmodel</entry>
         <entry>binding</entry>
         <entry>layout</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -268,9 +269,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -350,13 +351,6 @@
         <mark key="]" line="172" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewTreeObserver.java" timestamp="1597991252068" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" timestamp="1598008454413">
-        <mark key="'" line="84" column="24" />
-        <mark key="[" line="345" column="6" />
-        <mark key="]" line="345" column="11" />
-        <mark key="." line="345" column="10" />
-        <mark key="^" line="345" column="11" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1598008245321">
         <mark key="'" line="88" column="28" />
         <mark key="[" line="176" column="0" />
@@ -368,12 +362,11 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598008547742">
-        <mark key="'" line="93" column="16" />
-        <mark key="[" line="129" column="4" />
-        <mark key="]" line="129" column="13" />
-        <mark key="^" line="129" column="13" />
-        <mark key="." line="129" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598012470418">
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="28" />
+        <mark key="." line="97" column="27" />
+        <mark key="^" line="97" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1597991520153">
         <mark key="'" line="6591" column="0" />
@@ -385,23 +378,16 @@
         <mark key="[" line="962" column="50" />
         <mark key="]" line="962" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598008415748">
-        <mark key="'" line="74" column="31" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="27" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598012614261">
+        <mark key="'" line="75" column="31" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/list_item_download.xml" timestamp="1597990301967">
         <mark key="[" line="66" column="33" />
         <mark key="]" line="66" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" timestamp="1598008292114">
-        <mark key="'" line="432" column="8" />
-        <mark key="[" line="333" column="35" />
-        <mark key="]" line="333" column="57" />
-        <mark key="^" line="333" column="57" />
-        <mark key="." line="333" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadContext.kt" timestamp="1598008582903">
         <mark key="'" line="18" column="7" />
@@ -532,7 +518,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>dialog</text>
+        <text>html</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -541,19 +527,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>dialog</text>
+        <text>html</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>layout</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
-        <text>getParentFragmentManager</text>
+        <text>args.getString(ARGS_TEXT, &quot;&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdmFsIG1lc3NhZ2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -579,49 +565,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eVZpZXdNb2RlbDogQWN0aXZpdHlWaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SGVscEJvdHRvbVNoZWV0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eVZpZXdNb2RlbDogQWN0aXZpdHlWaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93SGVscEJvdHRvbVNoZWV0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlT3duZXIgPSB2aWV3TGlmZWN5Y2xlT3duZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRnJhZ21lbnRTbXNMaXN0Q29udGV4dE1lbnVCaW5kaW5nLmluZmxhdGUoaW5mbGF0ZXIsIGNvbnRhaW5lciwgZmFsc2UpLmFwcGx5IHsKICAgICAgICAgICAgdm0gPSB2aWV3TW9kZWwKICAgICAgICAgICAgbGlmZWN5Y2xlT3duZXIgPSB2aWV3TGlmZWN5Y2xlT3duZXIKICAgICAgICB9LnJvb3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlT3duZXIgPSB2aWV3TGlmZWN5Y2xlT3duZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3TW9kZWwgYnkgbGF6eSB7IG1haW5WaWV3TW9kZWwubGlzdCB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>layout</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>layout</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
