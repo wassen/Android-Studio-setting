@@ -362,11 +362,10 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598013687124">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="129" />
-        <mark key="^" line="98" column="55" />
-        <mark key="." line="98" column="54" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598014066457">
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1597991520153">
         <mark key="'" line="6591" column="0" />
@@ -378,12 +377,12 @@
         <mark key="[" line="962" column="50" />
         <mark key="]" line="962" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598013596179">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598014155364">
         <mark key="'" line="76" column="31" />
-        <mark key="[" line="54" column="35" />
-        <mark key="]" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-        <mark key="^" line="54" column="53" />
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="53" />
+        <mark key="." line="69" column="52" />
+        <mark key="^" line="69" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/list_item_download.xml" timestamp="1597990301967">
         <mark key="[" line="66" column="33" />
@@ -517,8 +516,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHZhbCBidXR0b25Qb3NpdGl2ZVRleHQgZ2V0KCkgPSBhcmd1bWVudHM/LmdldFN0cmluZyhBUkdTX1BPU0lUSVZFX0JVVFRPTl9URVhULCByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmJ1dHRvbl9wb3NpdGl2ZSkpCg==</text>
+      <register name="*" type="4">
+        <text>@string/button_ok</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -527,7 +526,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>@string/button_ok</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -535,11 +534,11 @@
       <register name="/" type="4">
         <text>set</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBidXR0b25Qb3NpdGl2ZVRleHQgZ2V0KCkgPSBhcmd1bWVudHM/LmdldFN0cmluZyhBUkdTX1BPU0lUSVZFX0JVVFRPTl9URVhULCByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmJ1dHRvbl9wb3NpdGl2ZSkpCg==</text>
+      <register name="0" type="4">
+        <text>buttonNegativeText</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbWVzc2FnZS5zZXRIdG1sKGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVEVYVCwgIiIpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -565,31 +564,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudGV4dCA9IGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVElUTEUsICIiKQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudGV4dCA9IGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVElUTEUsICIiKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1dHRvblBvc2l0aXZlLnRleHQgPQogICAgICAgICAgICAgICAgYXJncy5nZXRTdHJpbmcoQVJHU19QT1NJVElWRV9CVVRUT05fVEVYVCwgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fcG9zaXRpdmUpKQogICAgICAgICAgICBidXR0b25OZWdhdGl2ZS50ZXh0ID0KICAgICAgICAgICAgICAgIGFyZ3MuZ2V0U3RyaW5nKEFSR1NfTkVHQVRJVkVfQlVUVE9OX1RFWFQsIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYnV0dG9uX25lZ2F0aXZlKSkKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFsIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWVzc2FnZS5zZXRIdG1sKGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVEVYVCwgIiIpKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudGV4dCA9IGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVElUTEUsICIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudGV4dCA9IGFyZ3MuZ2V0U3RyaW5nKEFSR1NfVElUTEUsICIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eVZpZXdNb2RlbDogQWN0aXZpdHlWaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
+        <text encoding="base64">ICAgIAogICAgdmFsIG1lc3NhZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SGVscEJvdHRvbVNoZWV0KCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
