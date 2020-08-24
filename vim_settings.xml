@@ -356,12 +356,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" timestamp="1598004123843">
         <mark key="'" line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598251939850">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598253185566">
         <mark key="'" line="54" column="28" />
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="44" />
-        <mark key="." line="76" column="43" />
-        <mark key="^" line="76" column="44" />
+        <mark key="[" line="76" column="51" />
+        <mark key="]" line="76" column="59" />
+        <mark key="." line="76" column="58" />
+        <mark key="^" line="76" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/DownloadListViewModel.kt" timestamp="1597986614678">
         <mark key="[" line="172" column="8" />
@@ -392,22 +392,18 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" timestamp="1597992756863">
         <mark key="'" line="157" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598251905094">
-        <mark key="'" line="142" column="16" />
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="4" />
-        <mark key="^" line="142" column="4" />
-        <mark key="." line="142" column="3" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598253235717">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="145" column="50" />
+        <mark key="]" line="145" column="54" />
+        <mark key="." line="145" column="53" />
+        <mark key="^" line="145" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadSort.kt" timestamp="1598008686855">
         <mark key="'" line="3" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
-      <jump line="148" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
-      <jump line="157" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
-      <jump line="4" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="11" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="51" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="99" column="34" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
@@ -504,6 +500,10 @@
       <jump line="126" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="93" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="142" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="150" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="20" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -518,7 +518,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>:</text>
+        <text>result</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -527,7 +527,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>result</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -536,10 +536,10 @@
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsPy5vZmZlcihDb25maXJtUmVzcG9uc2UoZGlhbG9nVGFnLCByZXN1bHQpKQogICAgICAgIGRpc21pc3MoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gdmlldy5pZCA9PSBSLmlkLmJ1dHRvblBvc2l0aXZlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -565,31 +565,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYnV0dG9uX3Bvc2l0aXZlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGFyZ3VtZW50cz8uZ2V0U3RyaW5nKAogICAgICAgICAgICBCb3R0b21TaGVldENvbmZpcm0uQVJHU19ORUdBVElWRV9CVVRUT05fVEVYVCwKICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGFyZ3VtZW50cz8uZ2V0U3RyaW5nKAogICAgICAgICAgICBCb3R0b21TaGVldENvbmZpcm0uQVJHU19QT1NJVElWRV9CVVRUT05fVEVYVCwKICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fcG9zaXRpdmUpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYnV0dG9uX3Bvc2l0aXZlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGFyZ3VtZW50cz8uZ2V0U3RyaW5nKAogICAgICAgICAgICBCb3R0b21TaGVldENvbmZpcm0uQVJHU19ORUdBVElWRV9CVVRUT05fVEVYVCwKICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGFyZ3VtZW50cz8uZ2V0U3RyaW5nKAogICAgICAgICAgICBCb3R0b21TaGVldENvbmZpcm0uQVJHU19QT1NJVElWRV9CVVRUT05fVEVYVCwKICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fcG9zaXRpdmUpCiAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1dHRvblBvc2l0aXZlLnRleHQgPQogICAgICAgICAgICAgICAgYXJncy5nZXRTdHJpbmcoQVJHU19QT1NJVElWRV9CVVRUT05fVEVYVCwgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fcG9zaXRpdmUpKQogICAgICAgICAgICBidXR0b25OZWdhdGl2ZS50ZXh0ID0KICAgICAgICAgICAgICAgIGFyZ3MuZ2V0U3RyaW5nKEFSR1NfTkVHQVRJVkVfQlVUVE9OX1RFWFQsIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYnV0dG9uX25lZ2F0aXZlKSkKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
