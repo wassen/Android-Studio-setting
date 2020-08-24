@@ -378,12 +378,12 @@
         <mark key="]" line="315" column="0" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" timestamp="1598268379646">
-        <mark key="'" line="780" column="0" />
-        <mark key="[" line="777" column="83" />
-        <mark key="]" line="777" column="83" />
-        <mark key="^" line="777" column="83" />
-        <mark key="." line="777" column="82" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" timestamp="1598269544330">
+        <mark key="'" line="779" column="0" />
+        <mark key="[" line="758" column="17" />
+        <mark key="]" line="758" column="21" />
+        <mark key="^" line="758" column="21" />
+        <mark key="." line="758" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1598008245321">
         <mark key="'" line="88" column="28" />
@@ -417,8 +417,8 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598254493874">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598269557570">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="132" column="5" />
         <mark key="." line="145" column="53" />
@@ -484,7 +484,6 @@
       <jump line="142" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="150" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="20" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="217" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="195" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
@@ -529,6 +528,7 @@
       <jump line="374" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="128" column="18" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/values/strings.xml" />
       <jump line="785" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -542,8 +542,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CiAgICAgICAgYWN0aXZpdHlWaWV3TW9kZWwubmF2aWdhdGVUb0hlbHBFdmVudC5vYnNlcnZlKHRoaXMpIHsKICAgICAgICAgICAgaXQuZ2V0Q29udGVudElmTm90SGFuZGxlZCgpID86IHJldHVybkBvYnNlcnZlCiAgICAgICAgICAgIG5hdkNvbnRyb2xsZXIubmF2aWdhdGUoUi5pZC5oZWxwRnJhZ21lbnQpCiAgICAgICAgfQo=</text>
+      <register name="*" type="4">
+        <text>Test</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -552,7 +552,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>positive_text</text>
+        <text>Test</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
