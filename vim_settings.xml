@@ -226,7 +226,6 @@
         <entry encoding="base64">XDxvYnNlcnZlXD4=</entry>
         <entry encoding="base64">XDxCb3R0b21TaGVldENvbmZpcm1cPg==</entry>
         <entry encoding="base64">XDxkaWFsb2dcPg==</entry>
-        <entry>onClick</entry>
         <entry>message</entry>
         <entry>fragmentmanager</entry>
         <entry>show</entry>
@@ -237,6 +236,8 @@
         <entry>binding</entry>
         <entry>layout</entry>
         <entry>set</entry>
+        <entry>dialog</entry>
+        <entry>onClick</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -355,12 +356,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" timestamp="1598004123843">
         <mark key="'" line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598250363352">
-        <mark key="'" line="76" column="31" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" timestamp="1598251939850">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="76" column="44" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/DownloadListViewModel.kt" timestamp="1597986614678">
         <mark key="[" line="172" column="8" />
@@ -391,24 +392,18 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" timestamp="1597992756863">
         <mark key="'" line="157" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598251196834">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="121" column="9" />
-        <mark key="^" line="121" column="9" />
-        <mark key="." line="121" column="8" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" timestamp="1598251905094">
+        <mark key="'" line="142" column="16" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="142" column="4" />
+        <mark key="^" line="142" column="4" />
+        <mark key="." line="142" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadSort.kt" timestamp="1598008686855">
         <mark key="'" line="3" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1157" column="16" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="1607" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="1608" column="25" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="1621" column="15" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/DownloadListAdapter.kt" />
-      <jump line="152" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="148" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
       <jump line="157" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" />
@@ -493,7 +488,6 @@
       <jump line="29" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" />
       <jump line="313" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" />
       <jump line="84" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/ActivityViewModel.kt" />
-      <jump line="93" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="18" column="7" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadContext.kt" />
       <jump line="54" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadSort.kt" />
       <jump line="10" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadSort.kt" />
@@ -503,6 +497,13 @@
       <jump line="132" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="115" column="46" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="8" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" />
+      <jump line="29" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" />
+      <jump line="41" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" />
+      <jump line="54" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/bottom_sheet_confirm.xml" />
+      <jump line="126" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="93" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
+      <jump line="142" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetConfirm.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -517,7 +518,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>f</text>
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -526,13 +527,13 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>:</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>onClick</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5idXR0b25fbmVnYXRpdmUpCg==</text>
@@ -600,9 +601,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>set</last-search>
+      <last-search>onClick</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>onClick</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
