@@ -442,12 +442,12 @@
         <mark key="." line="434" column="0" />
         <mark key="^" line="436" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" timestamp="1598431717925">
-        <mark key="'" line="87" column="40" />
-        <mark key="[" line="132" column="38" />
-        <mark key="]" line="132" column="42" />
-        <mark key="." line="132" column="41" />
-        <mark key="^" line="132" column="42" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" timestamp="1598434286998">
+        <mark key="'" line="81" column="118" />
+        <mark key="[" line="81" column="118" />
+        <mark key="]" line="81" column="119" />
+        <mark key="." line="81" column="119" />
+        <mark key="^" line="81" column="128" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/modal/BottomSheetDownloadContext.kt" timestamp="1598008582903">
         <mark key="'" line="18" column="7" />
@@ -470,7 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="442" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="502" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="234" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" />
@@ -570,6 +569,7 @@
       <jump line="14" column="11" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" />
       <jump line="24" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="210" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
+      <jump line="81" column="118" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -584,7 +584,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>id</text>
+        <text>Content</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -593,7 +593,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>Content</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -601,8 +601,8 @@
       <register name="/" type="4">
         <text>download</text>
       </register>
-      <register name="0" type="4">
-        <text>${currentStatus}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY29udGVudFJlcG9zaXRvcnk6IENvbnRlbnRSZXBvc2l0b3J5IGJ5IGluamVjdCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
