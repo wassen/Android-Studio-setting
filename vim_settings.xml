@@ -437,12 +437,12 @@
         <mark key="^" line="64" column="85" />
         <mark key="." line="64" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" timestamp="1598424811226">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" timestamp="1598424858117">
         <mark key="'" line="48" column="43" />
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="82" column="14" />
-        <mark key="^" line="82" column="14" />
-        <mark key="." line="82" column="13" />
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="82" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" timestamp="1598355465858">
         <mark key="'" line="24" column="8" />
@@ -576,7 +576,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>query</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -585,7 +585,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>.</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -597,7 +597,7 @@
         <text>DownloadManager.Query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -623,31 +623,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEb3dubG9hZE1hbmFnZXIuUXVlcnkoKS5hcHBseSB7CiAgICAgICAgICAgIHNldEZpbHRlckJ5SWQoMCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBEb3dubG9hZE1hbmFnZXIuUXVlcnkoKS5hcHBseSB7CiAgICAgICAgICAgIHNldEZpbHRlckJ5SWQoMCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGFjdGl2aXR5Vmlld01vZGVs44KSaW5qZWN044GZ44KL44Gu44GvCg==</text>
+        <text encoding="base64">ICAgICAgICByZWNlcgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIGFjdGl2aXR5Vmlld01vZGVs44KSaW5qZWN044GZ44KL44Gu44GvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZXNEYW8uc2hvdWxkU2hvd0ZpcnN0TGF1bmNoSGVscCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZWZlcmVuY2VzRGFvLnNob3VsZFNob3dGaXJzdExhdW5jaEhlbHApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZXNEYW8uc2hvdWxkU2hvd0ZpcnN0TGF1bmNoSGVscCA9IGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHByZWZlcmVuY2VzRGFvOiBQcmVmZXJlbmNlc0RhbyBieSBpbmplY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZWZlcmVuY2VzRGFvLnNob3VsZFNob3dGaXJzdExhdW5jaEhlbHApIHsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
