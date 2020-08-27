@@ -400,12 +400,8 @@
         <mark key="." line="434" column="0" />
         <mark key="^" line="436" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" timestamp="1598529151613">
-        <mark key="'" line="151" column="53" />
-        <mark key="[" line="142" column="64" />
-        <mark key="]" line="142" column="66" />
-        <mark key="." line="142" column="65" />
-        <mark key="^" line="142" column="66" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" timestamp="1598530204038">
+        <mark key="'" line="152" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/values/strings.xml" timestamp="1598267327064">
         <mark key="'" line="128" column="18" />
@@ -437,11 +433,12 @@
         <mark key="^" line="191" column="66" />
         <mark key="." line="191" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1598527162452">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1598530148397">
         <mark key="'" line="324" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="98" />
-        <mark key="." line="48" column="14" />
+        <mark key="[" line="204" column="46" />
+        <mark key="]" line="205" column="4" />
+        <mark key="." line="205" column="3" />
+        <mark key="^" line="205" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" timestamp="1598521858394">
         <mark key="[" line="83" column="83" />
@@ -580,8 +577,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>|</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -601,11 +598,8 @@
       <register name="0" type="4">
         <text>STATUS_SUCCESSFUL</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                        // XXX: ここに来るのがどういうときかわからない。
-                        //  DownloadCompleteReceiverには到達していないだろうし、無視するのが正しいと思われる
-                    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -630,32 +624,35 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
+      <register name="2" type="4">
+        <text>{
+                        // XXX: ここに来るのがどういうときかわからない。
+                        //  DownloadCompleteReceiverには到達していないだろうし、無視するのが正しいと思われる
+                    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHdvcmtNYW5hZ2VyOiBXb3JrTWFuYWdlciBieSBpbmplY3QoKQoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRlbnRSZXBvc2l0b3J5OiBDb250ZW50UmVwb3NpdG9yeSBieSBpbmplY3QoKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHdvcmtNYW5hZ2VyOiBXb3JrTWFuYWdlciBieSBpbmplY3QoKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZG93bmxvYWRNYW5hZ2VyOiBEb3dubG9hZE1hbmFnZXIgPQogICAgICAgICAgICByZXF1aXJlTm90TnVsbChjb250ZXh0KS5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRE9XTkxPQURfU0VSVklDRSkgYXMgRG93bmxvYWRNYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRlbnRSZXBvc2l0b3J5OiBDb250ZW50UmVwb3NpdG9yeSBieSBpbmplY3QoKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGVudERhbzogQ29udGVudERhbyBieSBpbmplY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZG93bmxvYWRNYW5hZ2VyOiBEb3dubG9hZE1hbmFnZXIgPQogICAgICAgICAgICByZXF1aXJlTm90TnVsbChjb250ZXh0KS5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRE9XTkxPQURfU0VSVklDRSkgYXMgRG93bmxvYWRNYW5hZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29udGVudERhbzogQ29udGVudERhbyBieSBpbmplY3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgZnVuIG1pbWVUeXBlQnlQYXRoKHBhdGg6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgICAgIHJldHVybiBGaWxlKHBhdGgpLmV4dGVuc2lvbi5sZXQgewogICAgICAgICAgICAgICAgd2hlbiAoaXQpIHsKICAgICAgICAgICAgICAgICAgICAiaXNtYSIgLT4gcmV0dXJuICJhdWRpby9pc21hIgogICAgICAgICAgICAgICAgICAgICJtNGEiIC0+IHJldHVybiAiYXVkaW8vbXA0IgogICAgICAgICAgICAgICAgICAgICJqcGVnIiwgImpwZyIgLT4gcmV0dXJuICJpbWFnZS9qcGVnIgogICAgICAgICAgICAgICAgICAgICJtcDQiIC0+IHJldHVybiAidmlkZW8vbXBlZyIKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+ICJhdWRpby9tcDQiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
