@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sessionId</entry>
-        <entry>sessionid</entry>
-        <entry>commit</entry>
         <entry>apply</entry>
         <entry>edit</entry>
         <entry>edit(</entry>
@@ -257,12 +254,15 @@
         <entry>completed</entry>
         <entry>workmanager</entry>
         <entry encoding="base64">XDx3b3JrTWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxjb250ZW50RGFvXD4=</entry>
         <entry>license</entry>
         <entry encoding="base64">XDxsaWNlbnNlUmVxdWVzdGluZ0NvbnRlbnREYW9cPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
-        <entry>context</entry>
         <entry encoding="base64">XDxjb250ZW50UmVzb2x2ZXJXcmFwcGVyXD4=</entry>
+        <entry>DownloadUseCase</entry>
+        <entry>Wrapper</entry>
+        <entry>context</entry>
+        <entry encoding="base64">XDxjb250ZW50RGFvXD4=</entry>
+        <entry>updatecontent</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -387,12 +387,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/AuthUsecase.kt" timestamp="1598610989717">
         <mark key="'" line="365" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1598612154843">
-        <mark key="'" line="359" column="42" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="48" column="4" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1598614194740">
+        <mark key="'" line="151" column="23" />
+        <mark key="[" line="384" column="15" />
+        <mark key="]" line="384" column="25" />
+        <mark key="." line="384" column="24" />
+        <mark key="^" line="384" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/DownloadRepository.kt" timestamp="1598521858394">
         <mark key="[" line="83" column="83" />
@@ -442,27 +442,18 @@
         <mark key="." line="67" column="82" />
         <mark key="^" line="67" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1598610940168">
-        <mark key="'" line="248" column="15" />
-        <mark key="[" line="191" column="66" />
-        <mark key="]" line="191" column="66" />
-        <mark key="^" line="191" column="66" />
-        <mark key="." line="191" column="72" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1598613947938">
+        <mark key="'" line="193" column="70" />
+        <mark key="[" line="190" column="45" />
+        <mark key="]" line="190" column="45" />
+        <mark key="^" line="190" column="39" />
+        <mark key="." line="190" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1598596700773">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="145" column="88" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="154" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="151" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="141" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="18" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="81" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="85" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
-      <jump line="119" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
       <jump line="211" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="315" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="298" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
@@ -526,7 +517,6 @@
       <jump line="310" column="39" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/DownloadManager.java" />
       <jump line="197" column="56" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/DownloadManager.java" />
       <jump line="187" column="74" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/DownloadManager.java" />
-      <jump line="191" column="75" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
       <jump line="6" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
       <jump line="228" column="17" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
       <jump line="248" column="15" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
@@ -535,8 +525,6 @@
       <jump line="51" column="29" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="269" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="12" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
-      <jump line="48" column="25" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
-      <jump line="289" column="38" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="293" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="358" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="366" column="41" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
@@ -550,10 +538,22 @@
       <jump line="357" column="19" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="279" column="48" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="388" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
-      <jump line="4" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="367" column="41" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="47" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="359" column="42" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="223" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="191" column="70" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
+      <jump line="289" column="29" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="4" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="48" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="362" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="142" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="165" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="182" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="192" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="384" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="130" column="24" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="151" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -568,7 +568,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>行</text>
+        <text>Dao</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -577,19 +577,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>行</text>
+        <text>Dao</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50UmVzb2x2ZXJXcmFwcGVyXD4=</text>
+        <text>updatecontent</text>
       </register>
-      <register name="0" type="4">
-        <text>ContentResolverWrapper</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzaW5nbGUgeyBMaWNlbnNlTWFuYWdlcldyYXBwZXIoZ2V0KCksIGdldCgpLCBnZXQoKSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,31 +615,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IDTooYzjg5fjg6vjg6rjgq/lh7rjgZnliY3jgavmtojjgZkKICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IDTooYzjg5fjg6vjg6rjgq/lh7rjgZnliY3jgavmtojjgZkKICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZWxldGUgPSBjb250ZXh0LmNvbnRlbnRSZXNvbHZlcjo6ZGVsZXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZWxldGUgPSBjb250ZXh0LmNvbnRlbnRSZXNvbHZlcjo6ZGVsZXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmNvbnRlbnRSZXNvbHZlci5kZWxldGUodmlld0NvbnRlbnQubWVkaWFTdG9yZVBhdGgudG9VcmkoKSwgbnVsbCwgbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmNvbnRlbnRSZXNvbHZlci5kZWxldGUodmlld0NvbnRlbnQubWVkaWFTdG9yZVBhdGgudG9VcmkoKSwgbnVsbCwgbnVsbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg4Djgqbjg7Pjg63jg7zjg4njgYzlpLHmlZfjgZfjgabjgoJpbnNlcnTjgZfjgZ/jgYTvvJ/mnKzlvZPjgavvvJ8K</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -651,9 +651,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250ZW50UmVzb2x2ZXJXcmFwcGVyXD4=</last-search>
+      <last-search>updatecontent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50UmVzb2x2ZXJXcmFwcGVyXD4=</last-pattern>
+      <last-pattern>updatecontent</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
