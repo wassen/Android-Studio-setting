@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Delete</entry>
-        <entry>getuserinfo</entry>
-        <entry>currentmus</entry>
         <entry>LiveData</entry>
         <entry>;119</entry>
         <entry>getUserID</entry>
@@ -263,6 +260,9 @@
         <entry>checkif</entry>
         <entry encoding="base64">XDxjb250ZW50RGFvXD4=</entry>
         <entry>findcontentby</entry>
+        <entry>oneshot</entry>
+        <entry>fun</entry>
+        <entry encoding="base64">XDxyaW5naW5nVGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -391,6 +391,9 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" timestamp="1598879321610">
+        <mark key="'" line="143" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/Content.kt" timestamp="1598422977375">
         <mark key="'" line="18" column="11" />
       </file>
@@ -442,8 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
-      <jump line="255" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="229" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="43" column="14" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="0" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
@@ -542,6 +543,8 @@
       <jump line="27" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/ContentRepository.kt" />
       <jump line="44" column="35" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="380" column="64" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="106" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
+      <jump line="143" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -571,7 +574,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>findcontentby</text>
+        <text encoding="base64">XDxyaW5naW5nVGltZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBzdXNwZW5kIGZ1biBmaW5kQ29udGVudEJ5SWQoY29udGVudElkOiBMb25nKSA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgY2hlY2tOb3ROdWxsKGNvbnRlbnREYW8uZmluZENvbnRlbnRCeUlkKGNvbnRlbnRJZCkpCiAgICB9Cg==</text>
@@ -639,13 +642,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>findcontentby</last-search>
+      <last-search encoding="base64">XDxyaW5naW5nVGltZVw+</last-search>
       <last-offset />
-      <last-pattern>findcontentby</last-pattern>
+      <last-pattern encoding="base64">XDxyaW5naW5nVGltZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
