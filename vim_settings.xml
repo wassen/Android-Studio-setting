@@ -138,7 +138,6 @@
         <entry>UNDOWN</entry>
         <entry>firstPi</entry>
         <entry encoding="base64">XDxmaW5kVmlld0hvbGRlckZvckFkYXB0ZXJQb3NpdGlvblw+</entry>
-        <entry>adapter</entry>
         <entry>obser</entry>
         <entry encoding="base64">XDxvbkZpcnN0SXRlbVJlYWR5XD4=</entry>
         <entry>getI</entry>
@@ -257,12 +256,13 @@
         <entry>Timer</entry>
         <entry encoding="base64">XDxsb29wVGltZXJcPg==</entry>
         <entry>loopTimer</entry>
-        <entry>stop</entry>
         <entry>destination</entry>
         <entry>audio</entry>
         <entry>Audio</entry>
         <entry>de</entry>
         <entry>audioPlayer.</entry>
+        <entry>adapter</entry>
+        <entry>stop</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -295,9 +295,9 @@
         <entry>call append(line('.'), '')</entry>
         <entry>e</entry>
         <entry>d</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -358,8 +358,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSettingFragment.kt" timestamp="1599136854297">
+        <mark key="'" line="222" column="38" />
+        <mark key="[" line="733" column="12" />
+        <mark key="]" line="733" column="15" />
+        <mark key="^" line="733" column="15" />
+        <mark key="." line="733" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/GalleryRepository.kt" timestamp="1599119162726">
         <mark key="'" line="73" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneFragment.kt" timestamp="1599136778531">
+        <mark key="'" line="77" column="26" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/transforms-2/files-2.1/83f8b528d63337ba69e14f52576e4a4d/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1598964378560">
         <mark key="'" line="1777" column="16" />
@@ -381,9 +391,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" timestamp="1599125823895" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" timestamp="1599027286672">
         <mark key="'" line="206" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" timestamp="1598938136584">
-        <mark key="'" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" timestamp="1599051496606">
         <mark key="[" line="59" column="29" />
@@ -418,18 +425,9 @@
         <mark key="." line="415" column="32" />
         <mark key="^" line="415" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/PurchaseHistory.kt" timestamp="1598938060412">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" timestamp="1598853017158">
-        <mark key="'" line="193" column="70" />
-        <mark key="[" line="193" column="66" />
-        <mark key="]" line="193" column="66" />
-        <mark key="^" line="190" column="39" />
-        <mark key="." line="193" column="66" />
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.3/587a2075deb46b8e50c802fcad981c968cade19d/shadows-framework-4.3-sources.jar!/org/robolectric/shadows/ShadowEnvironment.java" timestamp="1599136615315">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/LibraryFragment.kt" timestamp="1598959565338">
         <mark key="'" line="24" column="29" />
@@ -446,12 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="95" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
@@ -546,6 +538,12 @@
       <jump line="55" column="27" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
       <jump line="412" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
       <jump line="375" column="85" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
+      <jump line="34" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneFragment.kt" />
+      <jump line="77" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneFragment.kt" />
+      <jump line="44" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSettingFragment.kt" />
+      <jump line="206" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSettingFragment.kt" />
+      <jump line="217" column="38" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSettingFragment.kt" />
+      <jump line="222" column="38" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneSettingFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -560,7 +558,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>EXTERNAL_FILES_DIR</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -575,10 +573,10 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>audioPlayer.</text>
+        <text>stop</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb29wVGltZXIgPSBUaW1lcigpCg==</text>
+      <register name="0" type="4">
+        <text>EXTERNAL_FILES_DIR</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvcm91dGluZVNjb3BlKERpc3BhdGNoZXJzLkRlZmF1bHQgKyBqb2IpLmxhdW5jaCB7CiAgICAgICAgICAgICAgICAgICAgZGVsYXkoaW50ZXJydXB0U3BhbikKICAgICAgICAgICAgICAgIH0K</text>
@@ -637,19 +635,19 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>audioPlayer.</last-search>
+      <last-search>stop</last-search>
       <last-offset />
-      <last-pattern>audioPlayer.</last-pattern>
+      <last-pattern>stop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
