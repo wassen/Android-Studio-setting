@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>latest</entry>
         <entry>BillItemize</entry>
         <entry>contentId</entry>
         <entry>drmtype</entry>
@@ -263,6 +262,7 @@
         <entry>audio</entry>
         <entry>Audio</entry>
         <entry>de</entry>
+        <entry>audioPlayer.</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -396,6 +396,7 @@
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/player/NonDrmPlayer.kt" timestamp="1599132434963" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" timestamp="1599116380436">
         <mark key="'" line="40" column="36" />
         <mark key="[" line="279" column="55" />
@@ -410,8 +411,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" timestamp="1599042842723">
-        <mark key="'" line="412" column="28" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" timestamp="1599132166770">
+        <mark key="'" line="375" column="85" />
         <mark key="[" line="415" column="29" />
         <mark key="]" line="415" column="33" />
         <mark key="." line="415" column="32" />
@@ -445,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
@@ -497,7 +497,6 @@
       <jump line="189" column="62" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" />
       <jump line="206" column="29" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/OToneHimeReceiver.kt" />
       <jump line="46" column="29" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
-      <jump line="375" column="85" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
       <jump line="379" column="89" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
       <jump line="91" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
@@ -509,7 +508,6 @@
       <jump line="90" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/SeagullApplication.kt" />
       <jump line="394" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
-      <jump line="412" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
       <jump line="54" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="70" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="104" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
@@ -545,6 +543,9 @@
       <jump line="750" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="40" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="73" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/GalleryRepository.kt" />
+      <jump line="55" column="27" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
+      <jump line="412" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
+      <jump line="375" column="85" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/RingtoneViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -574,7 +575,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>de</text>
+        <text>audioPlayer.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb29wVGltZXIgPSBUaW1lcigpCg==</text>
@@ -642,9 +643,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>de</last-search>
+      <last-search>audioPlayer.</last-search>
       <last-offset />
-      <last-pattern>de</last-pattern>
+      <last-pattern>audioPlayer.</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
