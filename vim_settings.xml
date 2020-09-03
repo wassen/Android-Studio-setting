@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>expired</entry>
         <entry>latest</entry>
         <entry>BillItemize</entry>
         <entry>contentId</entry>
@@ -263,6 +262,7 @@
         <entry>destination</entry>
         <entry>audio</entry>
         <entry>Audio</entry>
+        <entry>de</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -358,6 +358,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/GalleryRepository.kt" timestamp="1599119162726">
+        <mark key="'" line="73" column="20" />
+      </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/transforms-2/files-2.1/83f8b528d63337ba69e14f52576e4a4d/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1598964378560">
         <mark key="'" line="1777" column="16" />
       </file>
@@ -392,11 +395,6 @@
         <mark key="]" line="59" column="30" />
         <mark key="." line="59" column="29" />
         <mark key="^" line="59" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/worker/DrmMusicLicenseWorker.kt" timestamp="1598612067713">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="37" />
-        <mark key="." line="40" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/popup_fab_background.xml" timestamp="1598963858669">
         <mark key="'" line="0" column="0" />
@@ -452,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
@@ -552,6 +549,7 @@
       <jump line="402" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="750" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="40" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
+      <jump line="73" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/GalleryRepository.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -581,7 +579,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Audio</text>
+        <text>de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb29wVGltZXIgPSBUaW1lcigpCg==</text>
@@ -649,9 +647,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Audio</last-search>
+      <last-search>de</last-search>
       <last-offset />
-      <last-pattern>Audio</last-pattern>
+      <last-pattern>de</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
