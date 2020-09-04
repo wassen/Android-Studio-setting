@@ -295,9 +295,9 @@
         <entry>call append(line('.'), '')</entry>
         <entry>e</entry>
         <entry>d</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -385,8 +385,11 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="192" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" timestamp="1598957619198">
-        <mark key="'" line="96" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/SharedPreferenceLiveData.kt" timestamp="1599201009673">
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="49" />
+        <mark key="^" line="71" column="49" />
+        <mark key="." line="71" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/xml/motion_fragment_library.xml" timestamp="1598964395437">
         <mark key="[" line="14" column="25" />
@@ -441,6 +444,12 @@
         <mark key="]" line="445" column="82" />
         <mark key="." line="445" column="81" />
         <mark key="^" line="445" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/service/HeadlessSmsSendService.kt" timestamp="1599200824455">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="45" />
+        <mark key="^" line="26" column="45" />
+        <mark key="." line="26" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -635,7 +644,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
