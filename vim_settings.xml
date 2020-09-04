@@ -386,11 +386,11 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="192" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/SharedPreferenceLiveData.kt" timestamp="1599201009673">
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="49" />
-        <mark key="^" line="71" column="49" />
-        <mark key="." line="71" column="48" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/SharedPreferenceLiveData.kt" timestamp="1599224357532">
+        <mark key="[" line="43" column="66" />
+        <mark key="]" line="43" column="13" />
+        <mark key="^" line="43" column="13" />
+        <mark key="." line="43" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/WallpaperSettingUsecase.kt" timestamp="1599125823895" />
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/DownloadListAdapter.kt" timestamp="1599222495556">
