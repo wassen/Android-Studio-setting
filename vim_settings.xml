@@ -295,9 +295,9 @@
         <entry>e</entry>
         <entry>d</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -396,12 +396,12 @@
         <mark key="]" line="302" column="0" />
         <mark key="." line="302" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1599468876434">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1599479463160">
         <mark key="'" line="212" column="39" />
-        <mark key="[" line="359" column="99" />
-        <mark key="]" line="359" column="106" />
-        <mark key="^" line="359" column="106" />
-        <mark key="." line="359" column="105" />
+        <mark key="[" line="359" column="8" />
+        <mark key="]" line="359" column="10" />
+        <mark key="^" line="359" column="10" />
+        <mark key="." line="359" column="9" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/Uri.java" timestamp="1599223422766">
         <mark key="'" line="1718" column="0" />
@@ -624,7 +624,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
