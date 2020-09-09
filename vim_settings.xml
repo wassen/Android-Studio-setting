@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50UG9wdXBWaWV3XD4=</entry>
         <entry>onac</entry>
         <entry>firstfound</entry>
         <entry encoding="base64">XDxzZW5kZXJcPg==</entry>
@@ -263,6 +262,7 @@
         <entry encoding="base64">XDxleHRlcm5hbFVyaVw+</entry>
         <entry>remove</entry>
         <entry>viewmodel</entry>
+        <entry>UN</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -295,9 +295,9 @@
         <entry>e</entry>
         <entry>d</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -402,6 +402,10 @@
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" timestamp="1599647661050">
+        <mark key="'" line="156" column="66" />
+        <mark key="[" line="164" column="32" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/Uri.java" timestamp="1599223422766">
         <mark key="'" line="1718" column="0" />
         <mark key="[" line="254" column="52" />
@@ -434,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="78" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="53" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="427" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="421" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
@@ -534,6 +537,7 @@
       <jump line="316" column="31" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/ContentUsecase.kt" />
       <jump line="329" column="39" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/ContentUsecase.kt" />
       <jump line="332" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/ContentUsecase.kt" />
+      <jump line="156" column="66" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -563,7 +567,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>viewmodel</text>
+        <text>UN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJ3YXNzZW46IHVwZGF0aW5nIikK</text>
@@ -625,19 +629,19 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>viewmodel</last-search>
+      <last-search>UN</last-search>
       <last-offset />
-      <last-pattern>viewmodel</last-pattern>
+      <last-pattern>UN</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
