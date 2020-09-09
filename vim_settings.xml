@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>State</entry>
-        <entry>state</entry>
-        <entry>wallpaper</entry>
         <entry>audio_type</entry>
         <entry encoding="base64">XDxjdXJyZW50UG9wdXBWaWV3XD4=</entry>
         <entry>onac</entry>
@@ -263,6 +260,9 @@
         <entry encoding="base64">XDxjaGVja0lmUnVubmluZ0Rvd25sb2FkSXNDb21wbGV0ZWRcPg==</entry>
         <entry>SUCCESS</entry>
         <entry>null</entry>
+        <entry>mediastorenull</entry>
+        <entry>mediastore.</entry>
+        <entry encoding="base64">XDxleHRlcm5hbFVyaVw+</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -295,9 +295,9 @@
         <entry>e</entry>
         <entry>d</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -408,8 +408,8 @@
         <mark key="[" line="458" column="63" />
         <mark key="]" line="458" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1599486465366">
-        <mark key="'" line="121" column="42" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" timestamp="1599619305934">
+        <mark key="'" line="137" column="20" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.3/587a2075deb46b8e50c802fcad981c968cade19d/shadows-framework-4.3-sources.jar!/org/robolectric/shadows/ShadowEnvironment.java" timestamp="1599136615315">
         <mark key="[" line="37" column="14" />
@@ -432,12 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" />
-      <jump line="135" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" />
-      <jump line="140" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" />
-      <jump line="185" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" />
-      <jump line="197" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/AlarmService.kt" />
-      <jump line="118" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="121" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="120" column="57" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
       <jump line="67" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/dwjpplayer/src/main/kotlin/jp/dwango/dwjpplayer/DwjpPlayerManager.kt" />
@@ -532,6 +526,12 @@
       <jump line="152" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="140" column="66" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
       <jump line="146" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/usecase/DownloadUseCase.kt" />
+      <jump line="165" column="124" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="157" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="170" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="187" column="46" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="133" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
+      <jump line="137" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/DownloadCompleteReceiver.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -561,7 +561,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text encoding="base64">XDxleHRlcm5hbFVyaVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgc3RhdHVzID0gZG93bmxvYWRSZXBvc2l0b3J5LnF1ZXJ5Q3VycmVudFN0YXR1cyh2aWV3TGlicmFyeUxpc3QuZG93bmxvYWRJZCEhKSA/OiByZXR1cm4K</text>
@@ -623,15 +623,15 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>null</last-search>
+      <last-search encoding="base64">XDxleHRlcm5hbFVyaVw+</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern encoding="base64">XDxleHRlcm5hbFVyaVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
