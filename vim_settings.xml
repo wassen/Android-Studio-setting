@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>firstfound</entry>
         <entry encoding="base64">XDxzZW5kZXJcPg==</entry>
         <entry>save</entry>
         <entry>conversation</entry>
@@ -263,6 +262,7 @@
         <entry>UN</entry>
         <entry>bottomsh</entry>
         <entry>bottom</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -365,8 +365,8 @@
         <mark key="." line="332" column="29" />
         <mark key="^" line="332" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1599641274045">
-        <mark key="'" line="6" column="11" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1599721783267">
+        <mark key="'" line="16" column="11" />
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
@@ -435,8 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="626" column="16" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
-      <jump line="402" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="750" column="50" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="40" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/MainActivity.kt" />
       <jump line="73" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/GalleryRepository.kt" />
@@ -535,6 +533,8 @@
       <jump line="155" column="58" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
       <jump line="23" column="38" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" />
+      <jump line="17" column="45" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -564,7 +564,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>bottom</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJ3YXNzZW46IHVwZGF0aW5nIikK</text>
@@ -632,9 +632,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bottom</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>bottom</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
