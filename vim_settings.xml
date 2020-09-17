@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getpost</entry>
         <entry>popup</entry>
         <entry>popup(</entry>
         <entry>preferences</entry>
@@ -263,6 +262,7 @@
         <entry>getItem</entry>
         <entry>adaptercallback</entry>
         <entry>placehold</entry>
+        <entry encoding="base64">XDxpbXBsaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -415,11 +415,12 @@
         <mark key="^" line="40" column="47" />
         <mark key="." line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsMessageItem.kt" timestamp="1600341658989">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsMessageItem.kt" timestamp="1600342777875">
+        <mark key="'" line="36" column="10" />
+        <mark key="[" line="90" column="82" />
+        <mark key="]" line="90" column="83" />
+        <mark key="^" line="90" column="82" />
+        <mark key="." line="90" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/LibraryListAdapter.kt" timestamp="1600326735970">
         <mark key="'" line="109" column="73" />
@@ -450,18 +451,15 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="72" />
       </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/kotlin/contracts/ContractBuilder.kt" timestamp="1600342578835">
+        <mark key="'" line="52" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1600337935866">
         <mark key="[" line="166" column="5" />
         <mark key="]" line="166" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/PlayerViewModel.kt" timestamp="1599826310791">
-        <mark key="'" line="48" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/PlayerViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/player/AudioPlayer.kt" />
@@ -559,6 +557,9 @@
       <jump line="18" column="82" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/DownloadListAdapter.kt" />
       <jump line="32" column="10" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsMessageItem.kt" />
       <jump line="132" column="14" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-runtime/2.1.2/2d16954cad84385bcc2bf5a7f4863fc89d6c149/paging-runtime-2.1.2-sources.jar!/androidx/paging/PagedListAdapter.java" />
+      <jump line="63" column="25" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/kotlin/contracts/ContractBuilder.kt" />
+      <jump line="41" column="25" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/kotlin/contracts/ContractBuilder.kt" />
+      <jump line="52" column="25" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/kotlin/contracts/ContractBuilder.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -572,8 +573,8 @@
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBAY29udHJhY3QK</text>
+      <register name="*" type="4">
+        <text>SmsConversationAdapter.ViewType.ME</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -582,19 +583,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>[position]</text>
+        <text>SmsConversationAdapter.ViewType.ME</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>placehold</text>
+        <text encoding="base64">XDxpbXBsaWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>currentItem</text>
+        <text>returnValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAY29udHJhY3QK</text>
+        <text encoding="base64">ICAgIHZhbCByZXR1cm5WYWx1ZSA9IFNtc0NvbnZlcnNhdGlvbkFkYXB0ZXIuVmlld1R5cGUuTUUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -619,11 +620,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBWaWV3VHlwZS5NRSAtPiAoaG9sZGVyLmJpbmRpbmcgYXMgTXlNZXNzYWdlSXRlbVNtc0JpbmRpbmcpLm1lc3NhZ2VJdGVtID0KICAgICAgICAgICAgICAgIGN1cnJlbnRJdGVtW3Bvc2l0aW9uXSBhcyBTbXNNZXNzYWdlSXRlbS5NZQogICAgICAgICAgICBWaWV3VHlwZS5ZT1UgLT4gKGhvbGRlci5iaW5kaW5nIGFzIFlvdXJNZXNzYWdlSXRlbVNtc0JpbmRpbmcpLm1lc3NhZ2VJdGVtID0KICAgICAgICAgICAgICAgIGN1cnJlbnRJdGVtW3Bvc2l0aW9uXSBhcyBTbXNNZXNzYWdlSXRlbS5Zb3UKICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXR1cm5WYWx1ZSA9IFNtc0NvbnZlcnNhdGlvbkFkYXB0ZXIuVmlld1R5cGUuTUUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldEVuYWJsZVBsYWNlaG9sZGVycyh0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmV0dXJuVmFsdWUgPSBTbXNDb252ZXJzYXRpb25BZGFwdGVyLlZpZXdUeXBlLk1FCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -632,19 +633,19 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCByZXR1cm5WYWx1ZSA9IFNtc0NvbnZlcnNhdGlvbkFkYXB0ZXIuVmlld1R5cGUuTUUKICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzdWJtaXRMaXN0KHBhZ2VkTGlzdDogUGFnZWRMaXN0PFNtc01lc3NhZ2VJdGVtPj8pIHsKICAgICAgICBzdXBlci5zdWJtaXRMaXN0KHBhZ2VkTGlzdCkK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZXF1YWxzU21zTWVzc2FnZUl0ZW0ob3RoZXI6IFNtc01lc3NhZ2VJdGVtKTogQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0IHsKICAgICAgICByZXR1cm5zKHJldHVyblZhbHVlID09IFNtc0NvbnZlcnNhdGlvbkFkYXB0ZXIuVmlld1R5cGUuWU9VKSBpbXBsaWVzICh0aGlzQHZpZXdUeXBlIGlzIFNtc01lc3NhZ2VJdGVtLllvdSkKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgY/jgZ0K</text>
+        <text encoding="base64">ICAgIHJldHVybnMocmV0dXJuVmFsdWUgPT0gU21zQ29udmVyc2F0aW9uQWRhcHRlci5WaWV3VHlwZS5ZT1UpIGltcGxpZXMgKHRoaXNAdmlld1R5cGUgaXMgU21zTWVzc2FnZUl0ZW0uWW91KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gZXF1YWxzKCkgPSBlcXVhbHMob3RoZXIpIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5zKHJldHVyblZhbHVlID09IFNtc0NvbnZlcnNhdGlvbkFkYXB0ZXIuVmlld1R5cGUuTUUpIGltcGxpZXMgKHRoaXNAdmlld1R5cGUgaXMgU21zTWVzc2FnZUl0ZW0uTWUpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -656,9 +657,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>placehold</last-search>
+      <last-search encoding="base64">XDxpbXBsaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>placehold</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBsaWVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
