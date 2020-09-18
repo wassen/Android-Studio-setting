@@ -378,12 +378,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/DownloadListFragment.kt" timestamp="1600347735290">
         <mark key="'" line="94" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/dao/SmsConversationDao.kt" timestamp="1600420618459">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/dao/SmsConversationDao.kt" timestamp="1600420658419">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="15" column="149" />
-        <mark key="]" line="15" column="149" />
-        <mark key="^" line="15" column="149" />
-        <mark key="." line="15" column="148" />
+        <mark key="]" line="15" column="141" />
+        <mark key="^" line="15" column="141" />
+        <mark key="." line="15" column="140" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/DownloadListViewModel.kt" timestamp="1600347794428">
         <mark key="'" line="41" column="8" />
