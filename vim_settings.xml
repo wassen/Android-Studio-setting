@@ -395,21 +395,26 @@
         <mark key="'" line="94" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/dao/SmsConversationDao.kt" timestamp="1600864454235">
-        <mark key="'" line="15" column="155" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="60" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="60" />
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/model/room/SmsMessage.kt" timestamp="1600867231853">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="48" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/model/room/SmsMessage.kt" timestamp="1600927217400">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewSmsConversation.kt" timestamp="1600867840796">
-        <mark key="[" line="8" column="179" />
-        <mark key="]" line="8" column="244" />
-        <mark key="^" line="8" column="244" />
-        <mark key="." line="8" column="243" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/SmsDatabase.kt" timestamp="1600928732665">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewSmsConversation.kt" timestamp="1600928657979">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="9" column="479" />
+        <mark key="^" line="9" column="480" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/DownloadListViewModel.kt" timestamp="1600347794428">
         <mark key="'" line="41" column="8" />
@@ -568,7 +573,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>sms_message</text>
+        <text>ViewSmsConversationWithLatestMessage</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -586,10 +591,10 @@
         <text>group by</text>
       </register>
       <register name="0" type="4">
-        <text>sms_message</text>
+        <text>ViewSmsConversationWithLatestMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW5JbmZvKG5hbWUgPSAiY29udGVudF9pZCIpCiAgICB2YWwgY29udGVudElkOiBMb25nCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,31 +620,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzogUmVuYW1lCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlID0gIlNFTEVDVCBzbXNfY29udmVyc2F0aW9uLnBob25lX251bWJlciwgc21zX2NvbnZlcnNhdGlvbi5uYW1lLCBzbXNfY29udmVyc2F0aW9uLnRodW1ibmFpbF91cmksIHNtc19tZXNzYWdlLm1pbmUsIHNtc19tZXNzYWdlLmJvZHksIHNtc19tZXNzYWdlLnRpbWVzdGFtcF9taWxscywgc21zX21lc3NhZ2UucmVhZCwgc21zX21lc3NhZ2Uuc2VudCBGUk9NIHNtc19jb252ZXJzYXRpb24gTEVGVCBKT0lOIHNtc19tZXNzYWdlIE9OIHNtc19jb252ZXJzYXRpb24ucGhvbmVfbnVtYmVyID0gc21zX21lc3NhZ2UuY29udmVyc2F0aW9uX3Bob25lX251bWJlciBXSEVSRSBzbXNfbWVzc2FnZS50aW1lc3RhbXBfbWlsbHMgPSAoU0VMRUNUIE1BWCh0aW1lc3RhbXBfbWlsbHMpIEZST00gc21zX21lc3NhZ2UgV0hFUkUgc3MyLnN0dWRlbnRpZCA9IHMuc3R1ZGVudGlkICkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVzdE1lc3NhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXRlc3RNZXNzYWdlID0gaXQgPzogcmV0dXJuQGFkZFNvdXJjZQo=</text>
+        <text encoding="base64">ICAgIHZhciBfaWQ6IExvbmcgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAUHJpbWFyeUtleShhdXRvR2VuZXJhdGUgPSB0cnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8g6Ieq5YiG44Gu44Oh44OD44K744O844K444GL44CB55u45omL44Gu44Oh44OD44K744O844K444GLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lZGlhdG9yTGl2ZURhdGE8U21zTGlzdEl0ZW0+KCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgIGFkZFNvdXJjZShzbXNVc2VjYXNlLmxhdGVzdE1lc3NhZ2UoY29udmVyc2F0aW9uLnBob25lTnVtYmVyKSkgewo=</text>
+        <text encoding="base64">ICAgIAogICAgQENvbHVtbkluZm8obmFtZSA9ICJjb252ZXJzYXRpb25fcGhvbmVfbnVtYmVyIikKICAgIHZhbCBjb252ZXJzYXRpb25QaG9uZU51bWJlcjogUGhvbmVOdW1iZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lZGlhdG9yTGl2ZURhdGE8U21zTGlzdEl0ZW0+KCkuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW5JbmZvKG5hbWUgPSAiY29udGVudF9pZCIpCiAgICB2YWwgY29udGVudElkOiBMb25nCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
