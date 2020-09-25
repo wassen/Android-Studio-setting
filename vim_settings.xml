@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>recyclerVIew</entry>
-        <entry encoding="base64">XDxUYXBUYXJnZXRcPg==</entry>
         <entry>seton</entry>
         <entry>map</entry>
         <entry>init {</entry>
@@ -235,7 +233,6 @@
         <entry>menuselected</entry>
         <entry encoding="base64">XDxtZW51U2VsZWN0ZWRDb250ZW50c1w+</entry>
         <entry>contents</entry>
-        <entry>observe</entry>
         <entry>double</entry>
         <entry>bitmapdrawer</entry>
         <entry>fragmentmana</entry>
@@ -250,7 +247,6 @@
         <entry>dismiss</entry>
         <entry>bottomsheet</entry>
         <entry>glide</entry>
-        <entry encoding="base64">XDxtYWluVmlld01vZGVsXD4=</entry>
         <entry>list</entry>
         <entry>detailviewmodel</entry>
         <entry encoding="base64">XDxjdXJyZW50UG9zaXRpb25EZXRhaWxQYWdlclw+</entry>
@@ -263,6 +259,10 @@
         <entry>from</entry>
         <entry encoding="base64">XDxnZXRWaWV3TW9kZWxTdG9yZVw+</entry>
         <entry encoding="base64">XDx2bVN0b3JlXD4=</entry>
+        <entry>pagedlist</entry>
+        <entry encoding="base64">XDxtYWluVmlld01vZGVsXD4=</entry>
+        <entry>observe</entry>
+        <entry>callback</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -299,9 +299,9 @@
         <entry>105</entry>
         <entry>62</entry>
         <entry>162</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -365,31 +365,25 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1601036350611">
         <mark key="'" line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1601037996767">
-        <mark key="'" line="33" column="39" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="5" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1601013821080">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1601039432577">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" timestamp="1601037542718">
         <mark key="'" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" timestamp="1601016740447">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="9" />
-        <mark key="^" line="71" column="9" />
-        <mark key="." line="71" column="8" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailFragment.kt" timestamp="1601039443336">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/SurfaceHolder.java" timestamp="1601017946000" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1601038065235">
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="9" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1601039450958">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1601018554110">
         <mark key="'" line="85" column="18" />
@@ -404,17 +398,22 @@
         <mark key="]" line="124" column="47" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailImageFragment.kt" timestamp="1601039468494">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" timestamp="1601018868866">
         <mark key="'" line="66" column="46" />
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601032526238">
-        <mark key="'" line="56" column="26" />
-        <mark key="[" line="104" column="25" />
-        <mark key="]" line="104" column="31" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601039491524">
+        <mark key="'" line="104" column="32" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="5" />
         <mark key="^" line="31" column="86" />
-        <mark key="." line="104" column="25" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/fragment_wallpaper_list.xml" timestamp="1601029779450">
         <mark key="'" line="81" column="20" />
@@ -429,12 +428,15 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/SmsListAdapter.kt" timestamp="1600948735417">
-        <mark key="'" line="53" column="28" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="69" />
-        <mark key="." line="33" column="68" />
-        <mark key="^" line="33" column="69" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingConfirmationTabFragment.kt" timestamp="1601039560587">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="84" column="12" />
+        <mark key="." line="76" column="11" />
+        <mark key="^" line="84" column="12" />
+      </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" timestamp="1601039720223">
+        <mark key="'" line="705" column="23" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/DialogFragment.java" timestamp="1601030973364" />
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/FragmentExt.kt" timestamp="1601037288986">
@@ -446,55 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/AnnouncementListAdapter.kt" />
-      <jump line="75" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="28" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="54" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
-      <jump line="74" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
-      <jump line="138" column="51" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
-      <jump line="145" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
-      <jump line="31" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/SmsListAdapter.kt" />
-      <jump line="29" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/SmsListAdapter.kt" />
-      <jump line="53" column="28" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/SmsListAdapter.kt" />
-      <jump line="51" column="18" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="98" column="63" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
-      <jump line="71" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
-      <jump line="8" column="9" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
-      <jump line="112" column="6" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="114" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="125" column="88" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="52" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="85" column="18" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="56" column="33" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" />
-      <jump line="66" column="46" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" />
-      <jump line="104" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="27" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="137" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="48" column="6" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="62" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="194" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="201" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="209" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="212" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="251" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="305" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/fragment_wallpaper_list.xml" />
-      <jump line="69" column="35" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/fragment_wallpaper_list.xml" />
-      <jump line="81" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/fragment_wallpaper_list.xml" />
-      <jump line="249" column="22" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="395" column="39" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="387" column="18" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="382" column="6" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="256" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="246" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="254" column="26" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="120" column="19" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="134" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="135" column="19" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
-      <jump line="119" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
       <jump line="97" column="30" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
       <jump line="88" column="43" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
       <jump line="31" column="80" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
@@ -546,6 +499,55 @@
       <jump line="65" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
       <jump line="47" column="35" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
       <jump line="20" column="8" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
+      <jump line="104" column="32" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" />
+      <jump line="85" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingConfirmationTabFragment.kt" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingConfirmationTabFragment.kt" />
+      <jump line="79" column="37" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingConfirmationTabFragment.kt" />
+      <jump line="84" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingConfirmationTabFragment.kt" />
+      <jump line="113" column="50" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="175" column="4" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="691" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="695" column="24" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="696" column="70" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="949" column="81" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="1099" column="7" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="1102" column="27" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="1096" column="15" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="980" column="32" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="979" column="50" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="803" column="33" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="797" column="7" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="792" column="21" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="789" column="14" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="779" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="778" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="776" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="775" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="767" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="766" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="764" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="763" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="755" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="754" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="753" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="752" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="745" column="17" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="744" column="25" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="743" column="23" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="742" column="18" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="741" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="740" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="737" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="736" column="14" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="734" column="34" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="731" column="9" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="726" column="17" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="725" column="23" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="724" column="18" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="723" column="22" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="718" column="62" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="712" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="705" column="23" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -560,7 +562,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>d</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -569,19 +571,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2bVN0b3JlXD4=</text>
+        <text>callback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxpc3RBbmRHcmlkVmlld01vZGVsIGJ5IHNoYXJlZFZpZXdNb2RlbDxXYWxscGFwZXJMaXN0QW5kR3JpZFZpZXdNb2RlbD4oCiAgICAgICAgZnJvbSA9IHsgZmluZE5hdkNvbnRyb2xsZXIoKS5nZXRCYWNrU3RhY2tFbnRyeShSLmlkLndhbGxwYXBlckxpc3RGcmFnbWVudCkgfQogICAgKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsPFdhbGxwYXBlck1haW5WaWV3TW9kZWw+KAogICAgICAgIGZyb20gPSB7IGZpbmROYXZDb250cm9sbGVyKCkuZ2V0QmFja1N0YWNrRW50cnkoUi5pZC53YWxscGFwZXJMaXN0RnJhZ21lbnQpIH0KICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYWluVmlld01vZGVsOiBXYWxscGFwZXJNYWluVmlld01vZGVsIGJ5IHNoYXJlZFZpZXdNb2RlbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,49 +609,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWw6IFdhbGxwYXBlck1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWw6IFdhbGxwYXBlck1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBXYWxscGFwZXJMaXN0QW5kR3JpZFZpZXdNb2RlbDo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgbWFpblZpZXdNb2RlbDogV2FsbHBhcGVyTWFpblZpZXdNb2RlbCBieSBzaGFyZWRWaWV3TW9kZWwoKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gaXQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWw6IFdhbGxwYXBlck1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCb3R0b21TaGVldE9uU2V0dGluZygpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWw6IFdhbGxwYXBlck1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmcm9tID0geyBmaW5kTmF2Q29udHJvbGxlcigpLmdldEJhY2tTdGFja0VudHJ5KFIuaWQud2FsbHBhcGVyTGlzdEZyYWdtZW50KSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZmluZEZyb21NYW5hZ2VyKG1hbmFnZXI6IEZyYWdtZW50TWFuYWdlcik6IEJvdHRvbVNoZWV0T25TZXR0aW5nIHsKICAgICAgICAgICAgcmV0dXJuIG1hbmFnZXIuZmluZEZyYWdtZW50QnlUYWcoVEFHKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2bVN0b3JlXD4=</last-search>
+      <last-search>callback</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2bVN0b3JlXD4=</last-pattern>
+      <last-pattern>callback</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
