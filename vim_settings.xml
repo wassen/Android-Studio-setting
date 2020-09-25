@@ -383,10 +383,10 @@
         <mark key="]" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/dao/SmsConversationDao.kt" timestamp="1600944739830">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="43" />
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/AnnouncementListAdapter.kt" timestamp="1600947011517">
         <mark key="'" line="43" column="0" />
@@ -410,18 +410,11 @@
         <mark key="'" line="27" column="100" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/SurfaceHolder.java" timestamp="1601017946000" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" timestamp="1600952375513">
-        <mark key="'" line="153" column="22" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="63" column="56" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1601018554110">
         <mark key="'" line="85" column="18" />
-        <mark key="[" line="93" column="8" />
-        <mark key="]" line="93" column="9" />
-        <mark key="." line="93" column="9" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="94" column="9" />
+        <mark key="." line="94" column="9" />
         <mark key="^" line="91" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/build/generated/source/buildConfig/dev/debug/jp/dwango/music/appli/BuildConfig.java" timestamp="1600932801236">
