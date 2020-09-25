@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>artist</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry>recycler</entry>
         <entry>recyclerVIew</entry>
         <entry encoding="base64">XDxUYXBUYXJnZXRcPg==</entry>
         <entry>seton</entry>
@@ -263,6 +260,9 @@
         <entry>adapter</entry>
         <entry>fragment</entry>
         <entry encoding="base64">XDxhY3Rpdml0eVZpZXdNb2RlbFw+</entry>
+        <entry>from</entry>
+        <entry encoding="base64">XDxnZXRWaWV3TW9kZWxTdG9yZVw+</entry>
+        <entry encoding="base64">XDx2bVN0b3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -365,18 +365,17 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1601036350611">
         <mark key="'" line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1601036862800">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1601037996767">
         <mark key="'" line="33" column="39" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="5" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" timestamp="1601013821080">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/AnnouncementViewModel.kt" timestamp="1600948502390">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="21" column="16" />
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" timestamp="1601037542718">
+        <mark key="'" line="20" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" timestamp="1601016740447">
         <mark key="'" line="8" column="9" />
@@ -386,6 +385,12 @@
         <mark key="." line="71" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/SurfaceHolder.java" timestamp="1601017946000" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1601038065235">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" timestamp="1601018554110">
         <mark key="'" line="85" column="18" />
         <mark key="[" line="94" column="8" />
@@ -418,13 +423,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/build.gradle" timestamp="1601036345525">
         <mark key="'" line="172" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsListItem.kt" timestamp="1600947148749">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="27" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/WallpaperListAndGridViewModel.kt" timestamp="1601036743353">
         <mark key="[" line="5" column="50" />
         <mark key="]" line="7" column="5" />
@@ -439,7 +437,7 @@
         <mark key="^" line="33" column="69" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/DialogFragment.java" timestamp="1601030973364" />
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/FragmentExt.kt" timestamp="1601036939064">
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ext/android/FragmentExt.kt" timestamp="1601037288986">
         <mark key="[" line="39" column="49" />
         <mark key="]" line="39" column="62" />
       </file>
@@ -448,9 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="63" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
-      <jump line="83" column="51" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
-      <jump line="48" column="62" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/AnnouncementListAdapter.kt" />
       <jump line="75" column="21" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="28" column="40" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
@@ -548,6 +543,9 @@
       <jump line="98" column="31" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
       <jump line="282" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
       <jump line="32" column="39" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
+      <jump line="65" column="20" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
+      <jump line="47" column="35" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
+      <jump line="20" column="8" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -562,7 +560,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>BeanDefinition</text>
+        <text>d</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -571,16 +569,16 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA9IA==</text>
+        <text>d</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpdml0eVZpZXdNb2RlbFw+</text>
+        <text encoding="base64">XDx2bVN0b3JlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>BeanDefinition</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxpc3RBbmRHcmlkVmlld01vZGVsIGJ5IHNoYXJlZFZpZXdNb2RlbDxXYWxscGFwZXJMaXN0QW5kR3JpZFZpZXdNb2RlbD4oCiAgICAgICAgZnJvbSA9IHsgZmluZE5hdkNvbnRyb2xsZXIoKS5nZXRCYWNrU3RhY2tFbnRyeShSLmlkLndhbGxwYXBlckxpc3RGcmFnbWVudCkgfQogICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBudWxsLAo=</text>
@@ -645,9 +643,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhY3Rpdml0eVZpZXdNb2RlbFw+</last-search>
+      <last-search encoding="base64">XDx2bVN0b3JlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpdml0eVZpZXdNb2RlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDx2bVN0b3JlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
