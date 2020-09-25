@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>menu</entry>
         <entry>constraint</entry>
         <entry>glide</entry>
         <entry>override</entry>
@@ -263,6 +262,7 @@
         <entry>onclick</entry>
         <entry>observe</entry>
         <entry>double</entry>
+        <entry>bitmapdrawer</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -398,6 +398,13 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="61" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" timestamp="1601016740447">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="9" />
+        <mark key="^" line="71" column="9" />
+        <mark key="." line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/sms/src/main/kotlin/jp/dwango/sms/repository/room/SmsDatabase.kt" timestamp="1600928732665">
         <mark key="[" line="20" column="8" />
         <mark key="]" line="20" column="43" />
@@ -450,15 +457,8 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/room/dao/ContentDao.kt" timestamp="1600933841376">
         <mark key="'" line="137" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/room/ViewLibraryList.kt" timestamp="1600867196626">
-        <mark key="'" line="80" column="28" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="24" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
-      <jump line="299" column="11" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/config/KoinModule.kt" />
       <jump line="252" column="20" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
       <jump line="44" column="55" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
       <jump line="9" column="23" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/SmsMainViewModel.kt" />
@@ -557,6 +557,8 @@
       <jump line="97" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="98" column="63" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/SmsListFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/LiveWallpaperEngine.kt" />
+      <jump line="71" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
+      <jump line="8" column="9" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -586,7 +588,7 @@
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>double</text>
+        <text>bitmapdrawer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBwYWdpbmdDb25maWcgPSBQYWdlZExpc3QuQ29uZmlnLkJ1aWxkZXIoKQogICAgICAgICAgICAuc2V0UGFnZVNpemUoNTApCiAgICAgICAgICAgIC5zZXRQcmVmZXRjaERpc3RhbmNlKDE1MCkKICAgICAgICAgICAgLnNldEluaXRpYWxMb2FkU2l6ZUhpbnQoNTApCiAgICAgICAgICAgIC5zZXRFbmFibGVQbGFjZWhvbGRlcnModHJ1ZSkKICAgICAgICAgICAgLmJ1aWxkKCkK</text>
@@ -654,9 +656,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>double</last-search>
+      <last-search>bitmapdrawer</last-search>
       <last-offset />
-      <last-pattern>double</last-pattern>
+      <last-pattern>bitmapdrawer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
