@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TapView</entry>
         <entry>Tab</entry>
         <entry>Ta</entry>
         <entry>Tap</entry>
@@ -263,6 +262,7 @@
         <entry>recycler</entry>
         <entry>image</entry>
         <entry>imageUrl</entry>
+        <entry>gridadapter</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
@@ -386,12 +386,12 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-viewmodel/2.0.1/e6d8966a1ac3de54827710508a5d503d0bc4f145/koin-androidx-viewmodel-2.0.1-sources.jar!/org/koin/androidx/viewmodel/ViewModelResolution.kt" timestamp="1601037542718">
         <mark key="'" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1601296005098">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1601297132350">
         <mark key="'" line="46" column="4" />
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="31" />
-        <mark key="^" line="74" column="31" />
-        <mark key="." line="74" column="30" />
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+        <mark key="^" line="68" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailFragment.kt" timestamp="1601039443336">
         <mark key="[" line="26" column="0" />
@@ -438,11 +438,11 @@
         <mark key="'" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601296057035">
-        <mark key="'" line="81" column="34" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="19" />
+        <mark key="'" line="80" column="34" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601295696171">
         <mark key="'" line="104" column="32" />
@@ -570,7 +570,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -579,19 +579,19 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>imageUrl</text>
+        <text>gridadapter</text>
       </register>
-      <register name="0" type="4">
-        <text>imageUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIENvcm91dGluZVNjb3BlKERpc3BhdGNoZXJzLk1haW4pLmxhdW5jaCB7CiAgICAgICAgR2xpZGVBcHAKICAgICAgICAgICAgLndpdGgodGhpc0BnbGlkZVVybCkKICAgICAgICAgICAgLmxvYWQoaW1hZ2VVcmwpCiAgICAgICAgICAgIC5za2lwTWVtb3J5Q2FjaGUoc2tpcE1lbW9yeUNhY2hlKQogICAgICAgICAgICAuaWZOb25OdWxsKG92ZXJyaWRlKSB7IGdsaWRlUmVxdWVzdCwgYXJnIC0+IGdsaWRlUmVxdWVzdC5vdmVycmlkZShhcmcpIH0KICAgICAgICAgICAgLnRpbWVvdXQoNTAwMDApCiAgICAgICAgICAgIC5pZk5vbk51bGwocGxhY2Vob2xkZXIpIHsgZ2xpZGVSZXF1ZXN0LCBhcmcgLT4gZ2xpZGVSZXF1ZXN0LnBsYWNlaG9sZGVyKGFyZykgfQogICAgICAgICAgICAuaWZOb25OdWxsKGVycm9yUmVzb3VyY2UpIHsgZ2xpZGVSZXF1ZXN0LCBhcmcgLT4gZ2xpZGVSZXF1ZXN0LmVycm9yKGFyZykgfQogICAgICAgICAgICAuYXBwbHkodHJhbnNmb3JtYXRpb24pCiAgICAgICAgICAgIC5pbnRvKHRoaXNAZ2xpZGVVcmwpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZk5vbk51bGwob3ZlcnJpZGUpIHsgZ2xpZGVSZXF1ZXN0LCBhcmcgLT4gZ2xpZGVSZXF1ZXN0Lm92ZXJyaWRlKGFyZykgfQogICAgICAgICAgICAgICAgLnRpbWVvdXQoNTAwMDApCiAgICAgICAgICAgICAgICAuaWZOb25OdWxsKHBsYWNlaG9sZGVyKSB7IGdsaWRlUmVxdWVzdCwgYXJnIC0+IGdsaWRlUmVxdWVzdC5wbGFjZWhvbGRlcihhcmcpIH0KICAgICAgICAgICAgICAgIC5pZk5vbk51bGwoZXJyb3JSZXNvdXJjZSkgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QuZXJyb3IoYXJnKSB9CiAgICAgICAgICAgICAgICAuYXBwbHkodHJhbnNmb3JtYXRpb24pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -617,31 +617,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBHbGlkZUFwcAogICAgICAgIC53aXRoKHRoaXMpCiAgICAgICAgLmxvYWQoaW1hZ2VVcmwpCiAgICAgICAgLnNraXBNZW1vcnlDYWNoZShza2lwTWVtb3J5Q2FjaGUpCiAgICAgICAgLmlmTm9uTnVsbChvdmVycmlkZSkgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3Qub3ZlcnJpZGUoYXJnKSB9CiAgICAgICAgLnRpbWVvdXQoNTAwMDApCiAgICAgICAgLmlmTm9uTnVsbChwbGFjZWhvbGRlcikgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QucGxhY2Vob2xkZXIoYXJnKSB9CiAgICAgICAgLmlmTm9uTnVsbChlcnJvclJlc291cmNlKSB7IGdsaWRlUmVxdWVzdCwgYXJnIC0+IGdsaWRlUmVxdWVzdC5lcnJvcihhcmcpIH0KICAgICAgICAuYXBwbHkodHJhbnNmb3JtYXRpb24pCiAgICAgICAgLmludG8odGhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhvbGRlciA9IGl0IGFzIEdyaWRJdGVtSG9sZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNraXBNZW1vcnlDYWNoZShza2lwTWVtb3J5Q2FjaGUpCiAgICAgICAgICAgIC5pZk5vbk51bGwob3ZlcnJpZGUpIHsgZ2xpZGVSZXF1ZXN0LCBhcmcgLT4gZ2xpZGVSZXF1ZXN0Lm92ZXJyaWRlKGFyZykgfQogICAgICAgICAgICAudGltZW91dCg1MDAwMCkKICAgICAgICAgICAgLmlmTm9uTnVsbChwbGFjZWhvbGRlcikgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QucGxhY2Vob2xkZXIoYXJnKSB9CiAgICAgICAgICAgIC5pZk5vbk51bGwoZXJyb3JSZXNvdXJjZSkgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QuZXJyb3IoYXJnKSB9CiAgICAgICAgICAgIC5hcHBseSh0cmFuc2Zvcm1hdGlvbikKICAgICAgICAgICAgLmludG8odGhpc0BnbGlkZVVybCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGgodGhpc0BnbGlkZVVybCkKICAgICAgICAgICAgLmxvYWQoaW1hZ2VVcmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBHbGlkZUFwcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNraXBNZW1vcnlDYWNoZShza2lwTWVtb3J5Q2FjaGUpCiAgICAgICAgICAgIC5pZk5vbk51bGwob3ZlcnJpZGUpIHsgZ2xpZGVSZXF1ZXN0LCBhcmcgLT4gZ2xpZGVSZXF1ZXN0Lm92ZXJyaWRlKGFyZykgfQogICAgICAgICAgICAudGltZW91dCg1MDAwMCkKICAgICAgICAgICAgLmlmTm9uTnVsbChwbGFjZWhvbGRlcikgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QucGxhY2Vob2xkZXIoYXJnKSB9CiAgICAgICAgICAgIC5pZk5vbk51bGwoZXJyb3JSZXNvdXJjZSkgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QuZXJyb3IoYXJnKSB9CiAgICAgICAgICAgIC5hcHBseSh0cmFuc2Zvcm1hdGlvbikKICAgICAgICAgICAgLmludG8odGhpc0BnbGlkZVVybCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWluVmlld01vZGVsOiBXYWxscGFwZXJNYWluVmlld01vZGVsIGJ5IHNoYXJlZFZpZXdNb2RlbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5WaWV3TW9kZWw6IFdhbGxwYXBlck1haW5WaWV3TW9kZWwgYnkgc2hhcmVkVmlld01vZGVsKCkK</text>
+        <text encoding="base64">CiAgICBHbGlkZUFwcAogICAgICAgIC53aXRoKHRoaXMpCiAgICAgICAgLmxvYWQoaW1hZ2VVcmwpCiAgICAgICAgLnNraXBNZW1vcnlDYWNoZShza2lwTWVtb3J5Q2FjaGUpCiAgICAgICAgLmlmTm9uTnVsbChvdmVycmlkZSkgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3Qub3ZlcnJpZGUoYXJnKSB9CiAgICAgICAgLnRpbWVvdXQoNTAwMDApCiAgICAgICAgLmlmTm9uTnVsbChwbGFjZWhvbGRlcikgeyBnbGlkZVJlcXVlc3QsIGFyZyAtPiBnbGlkZVJlcXVlc3QucGxhY2Vob2xkZXIoYXJnKSB9CiAgICAgICAgLmlmTm9uTnVsbChlcnJvclJlc291cmNlKSB7IGdsaWRlUmVxdWVzdCwgYXJnIC0+IGdsaWRlUmVxdWVzdC5lcnJvcihhcmcpIH0KICAgICAgICAuYXBwbHkodHJhbnNmb3JtYXRpb24pCiAgICAgICAgLmludG8odGhpcykK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
@@ -653,9 +653,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>imageUrl</last-search>
+      <last-search>gridadapter</last-search>
       <last-offset />
-      <last-pattern>imageUrl</last-pattern>
+      <last-pattern>gridadapter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>outercirclealpha</last-substitute>
       <last-dir>1</last-dir>
