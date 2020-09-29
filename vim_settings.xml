@@ -417,6 +417,9 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/a17c9364b7d777519433004f5c8c13c495965bfb/paging-common-2.1.2-sources.jar!/androidx/paging/PagedList.java" timestamp="1601039720223">
         <mark key="'" line="705" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/WallpaperGridAdapter.kt" timestamp="1601385393467">
+        <mark key="[" line="51" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailImageFragment.kt" timestamp="1601039468494">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="5" />
@@ -429,9 +432,11 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/WallpaperSettingViewModel.kt" timestamp="1601032863072">
         <mark key="'" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601381026198">
-        <mark key="'" line="80" column="34" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601385327504">
+        <mark key="'" line="77" column="34" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601295696171">
         <mark key="'" line="104" column="32" />
@@ -556,7 +561,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOm92ZXJyaWRlPSJAezE1MH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmltYWdlVXJsPSJAe2NvbnRlbnQuaW1hZ2VQYXRofSIKICAgICAgICAgICAgYXBwOmJyaWdodG5lc3M9IkB7Y29udGVudC5icmlnaHRuZXNzfSIKICAgICAgICAgICAgYXBwOnNraXBNZW1vcnlDYWNoZT0iQHt0cnVlfSIK</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -577,7 +582,7 @@
         <text>wrap_content</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOm92ZXJyaWRlPSJAezE1MH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmltYWdlVXJsPSJAe2NvbnRlbnQuaW1hZ2VQYXRofSIKICAgICAgICAgICAgYXBwOmJyaWdodG5lc3M9IkB7Y29udGVudC5icmlnaHRuZXNzfSIKICAgICAgICAgICAgYXBwOnNraXBNZW1vcnlDYWNoZT0iQHt0cnVlfSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,10 +608,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RGltZW5zaW9uUmF0aW89IlcsIDE6MSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOm92ZXJyaWRlPSJAezE1MH0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLnJ1biB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RGltZW5zaW9uUmF0aW89IlcsIDE6MSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLnJ1biB7Cg==</text>
@@ -615,16 +620,16 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRpbWVySm9iID0gSm9iKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc2V0UmVjeWNsZXJMaXN0ZW5lciB7CiAgICAgICAgICAgIHZhbCBob2xkZXIgPSBpdCBhcyBHcmlkSXRlbUhvbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLnJ1biB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc2V0UmVjeWNsZXJMaXN0ZW5lciB7CiAgICAgICAgICAgIHZhbCBob2xkZXIgPSBpdCBhcyBHcmlkSXRlbUhvbGRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZWN5Y2xlclZpZXcuc2V0UmVjeWNsZXJMaXN0ZW5lciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZWN5Y2xlclZpZXcuc2V0UmVjeWNsZXJMaXN0ZW5lciB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
