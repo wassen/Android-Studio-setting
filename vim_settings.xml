@@ -373,7 +373,7 @@
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneFragment.kt" timestamp="1601295013861">
         <mark key="'" line="27" column="6" />
       </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" timestamp="1601642414537">
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" timestamp="1601642832025">
         <mark key="'" line="204" column="6" />
         <mark key="[" line="206" column="18" />
         <mark key="]" line="193" column="52" />
@@ -419,11 +419,11 @@
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1601638941053">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1601643464562">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="8" />
-        <mark key="." line="64" column="8" />
+        <mark key="]" line="64" column="11" />
+        <mark key="." line="64" column="10" />
         <mark key="^" line="64" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/WallpaperListItem.kt" timestamp="1601553824970">
