@@ -385,11 +385,6 @@
         <mark key="'" line="55" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/WallpaperGridAdapter.kt" timestamp="1601556201318" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailImageFragment.kt" timestamp="1601039468494">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601388650383">
         <mark key="'" line="76" column="34" />
         <mark key="[" line="20" column="0" />
@@ -450,6 +445,7 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/DrawableImageViewTarget.java" timestamp="1601554763696">
         <mark key="'" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/BaseRequestOptions.java" timestamp="1601640902633" />
     </filemarks>
     <jumps>
       <jump line="90" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/WallpaperGridAdapter.kt" />
