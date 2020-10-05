@@ -362,7 +362,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/build/generated/source/kapt/devDebug/jp/dwango/music/appli/config/GlideApp.java" timestamp="1601548463159" />
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1601555154308">
+        <mark key="'" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/ViewTarget.java" timestamp="1601552302988">
+        <mark key="'" line="48" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" timestamp="1601388312623">
         <mark key="'" line="181" column="29" />
         <mark key="[" line="77" column="12" />
@@ -370,8 +375,12 @@
         <mark key="." line="77" column="14" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/RingtoneFragment.kt" timestamp="1601295013861">
-        <mark key="'" line="27" column="6" />
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/SingleRequest.java" timestamp="1601555355740">
+        <mark key="'" line="198" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsListItem.kt" timestamp="1601297228926">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" timestamp="1601642832025">
         <mark key="'" line="204" column="6" />
@@ -379,45 +388,6 @@
         <mark key="]" line="193" column="52" />
         <mark key="^" line="193" column="52" />
         <mark key="." line="193" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailFragment.kt" timestamp="1601380084531">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/ImageViewTarget.java" timestamp="1601555376737">
-        <mark key="'" line="46" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1601388322181">
-        <mark key="'" line="55" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/adapter/WallpaperGridAdapter.kt" timestamp="1601556201318" />
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601388650383">
-        <mark key="'" line="76" column="34" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601295696171">
-        <mark key="'" line="104" column="32" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="86" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1601555154308">
-        <mark key="'" line="53" column="9" />
-      </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/ViewTarget.java" timestamp="1601552302988">
-        <mark key="'" line="48" column="22" />
-      </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/SingleRequest.java" timestamp="1601555355740">
-        <mark key="'" line="198" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/model/local/SmsListItem.kt" timestamp="1601297228926">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/extension/BindingAdapters.kt" timestamp="1601643464562">
         <mark key="'" line="60" column="0" />
@@ -439,17 +409,46 @@
         <mark key="." line="657" column="30" />
         <mark key="n" line="70" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" timestamp="1601885519131">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="77" column="13" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="77" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperDetailFragment.kt" timestamp="1601380084531">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/ImageViewTarget.java" timestamp="1601555376737">
+        <mark key="'" line="46" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" timestamp="1601388322181">
+        <mark key="'" line="55" column="8" />
+      </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/DrawableImageViewTarget.java" timestamp="1601554763696">
         <mark key="'" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/BaseRequestOptions.java" timestamp="1601640907077" />
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/res/layout/grid_item_wallpaper.xml" timestamp="1601388650383">
+        <mark key="'" line="76" column="34" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1601642592652">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperSettingFragment.kt" timestamp="1601295696171">
+        <mark key="'" line="104" column="32" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="86" />
+        <mark key="." line="29" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="12" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperListFragment.kt" />
-      <jump line="56" column="4" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
       <jump line="80" column="53" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
       <jump line="19" column="47" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/ui/fragment/WallpaperGridFragment.kt" />
@@ -548,6 +547,8 @@
       <jump line="195" column="39" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" />
       <jump line="199" column="26" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" />
       <jump line="204" column="6" filename="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/Downsampler.java" />
+      <jump line="64" column="8" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
+      <jump line="59" column="36" filename="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/service/liveWallpaperEngine/BitmapDrawer.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -651,7 +652,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
