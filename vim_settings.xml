@@ -362,7 +362,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/util/FirebaseHelper.kt" timestamp="1602076354890" />
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1601555154308">
         <mark key="'" line="53" column="9" />
       </file>
@@ -418,6 +417,12 @@
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/DrawableImageViewTarget.java" timestamp="1601554763696">
         <mark key="'" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/repository/AuthRepository.kt" timestamp="1602499772270">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1601642592652">
         <mark key="[" line="0" column="0" />
@@ -542,7 +547,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>PreferenceFragment</text>
+        <text>loop</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -551,7 +556,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loop</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
@@ -631,7 +636,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
