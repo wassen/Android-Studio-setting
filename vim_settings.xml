@@ -366,7 +366,7 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1601555154308">
         <mark key="'" line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1602571819426">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1602572703135">
         <mark key="'" line="106" column="62" />
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="31" />
@@ -657,7 +657,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
