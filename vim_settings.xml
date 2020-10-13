@@ -366,11 +366,12 @@
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1601555154308">
         <mark key="'" line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1602572703135">
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/build.gradle" timestamp="1602573296127">
         <mark key="'" line="106" column="62" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="25" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/.local/share/gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/SingleRequest.java" timestamp="1601555355740">
         <mark key="'" line="198" column="10" />
@@ -568,7 +569,7 @@
         <text encoding="base64">ICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5EZWZhdWx0ICsgdGltZXJKb2IpLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>1.3.72</text>
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <text>kjjk</text>
@@ -577,7 +578,7 @@
         <text>lh</text>
       </register>
       <register name="-" type="4">
-        <text>1.3.72</text>
+        <text>2</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">KGRvd25sb2FkX2V4cGlyZV9kYXRlIElTIE5VTEwgT1IgOnRpbWVzdGFtcCA8IGRvd25sb2FkX2V4cGlyZV9kYXRlKQ==</text>
