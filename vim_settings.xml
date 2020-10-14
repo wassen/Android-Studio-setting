@@ -369,13 +369,6 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/receiver/AlarmReceiver.kt" timestamp="1602074380733">
-        <mark key="'" line="214" column="75" />
-        <mark key="[" line="187" column="5" />
-        <mark key="]" line="187" column="4" />
-        <mark key="^" line="187" column="4" />
-        <mark key="." line="187" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/AndroidManifest.xml" timestamp="1602582766821">
         <mark key="'" line="6" column="54" />
       </file>
@@ -407,6 +400,7 @@
         <mark key="^" line="7" column="90" />
         <mark key="." line="7" column="89" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwangojp/dwjp--appli.music.dwango.jp--android-refine/app/src/main/java/jp/dwango/music/appli/viewmodel/LoginViewModel.kt" timestamp="1602660537675" />
       <file name="$USER_HOME$/.local/share/gradle/caches/transforms-2/files-2.1/c9e4b6d61da0cbdea53c10bb51551f91/preference-1.1.1/jars/classes.jar!/androidx/preference/PreferenceFragment.class" timestamp="1602076288316">
         <mark key="[" line="50" column="22" />
         <mark key="]" line="50" column="39" />
